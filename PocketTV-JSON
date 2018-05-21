@@ -5,9 +5,9 @@
       "ads_On_Cancel_Delay" : 0,
       "applovin_ads" : {
         "ads_app_id" : "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
-        "is_Ads" : true,
-        "is_Banner_Ads" : true,
-        "is_Interstitial_Ads" : true,
+        "is_Ads" : false,
+        "is_Banner_Ads" : false,
+        "is_Interstitial_Ads" : false,
         "visibility_Percentage" : 0
       },
       "appnext_ads" : {
