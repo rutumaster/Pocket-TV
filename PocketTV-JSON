@@ -56,7 +56,7 @@
       "ads_description" : "Take your Spectrum TV experience with you! With the Spectrum TV App, you can enjoy up to 250 live TV channels and up to 30,000 On Demand TV shows and movies when you're connected to your Spectrum Internet WiFi network at home. Plus, when you're on the go, enjoy up to 150 live channels and up to 20,000 On Demand titles anywhere you have an internet connection. (See note on availability below.)",
       "ads_download_popup_description" : "To Install this app you need to follow below steps. :\n\n(1). Press \"START\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"OPEN\" button and enjoy app.",
       "ads_download_popup_title" : "App Installation",
-      "ads_remind_id" : "1",
+      "ads_remind_id" : "",
       "ads_thumbnail_url" : "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2018%2F02%2F5a8e13c776935.png&w=96&h=96&q=100",
       "ads_title" : "Spectrum TV",
       "ads_website_url" : "https://www.youtube.com/watch?v=KJJRLQdFz9w&t=447s",
@@ -72,7 +72,7 @@
       "affiliate_product_image_url" : "http://www.directd.com.my/content/images/thumbs/0020704_xiaomi-redmi-5-plus-3gb-ram-32gb-rom-4gb-ram-64gb-rom.png",
       "affiliate_product_title" : "Redmi 5A (Rose Gold, 32 GB)  (3 GB RAM)",
       "affiliate_product_url" : "https://www.flipkart.com/redmi-5a-rose-gold-32-gb/p/itmf2fwcumw7ghwy?pid=MOBEZWXE8NSAZ73T&srno=s_1_1&otracker=search&lid=LSTMOBEZWXE8NSAZ73TZT8DKM&fm=SEARCH&iid=3b2f12e6-64f5-4e2b-a76a-bb168cfe30ea.MOBEZWXE8NSAZ73T.SEARCH&ppt=Store%20Browse&ppn=Search%20Page&ssid=4fz5otakk00000001522215027694&qH=f8a10d5a7adb2998",
-      "affiliate_remind_id" : "",
+      "affiliate_remind_id" : "1",
       "is_system_browser" : true
     },
     "App_Download_Setting" : {
