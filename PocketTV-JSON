@@ -42,7 +42,7 @@
       },
       "is_Banner_Ads" : false,
       "is_Interstitial_Ads" : false,
-      "is_StreamPlayer_Banner_Ads" : true,
+      "is_StreamPlayer_Banner_Ads" : false,
       "startapp_ads" : {
         "ads_app_id" : "201571398",
         "is_Ads" : true,
