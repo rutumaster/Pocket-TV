@@ -8852,7 +8852,7 @@
       "cast_guide_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FChromecast_Notification.jpg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
       "cast_package_name": "com.instantbits.cast.webvideo",
       "cast_referer": "https://www.metube.id",
-      "download_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=235411",
+      "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
       "filename": "RUTU_CHROMECAST.apk",
       "initial_cast_message": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Pocket TV and you will see your plugin activated.",
       "progress_download_message": "Downloading...",
