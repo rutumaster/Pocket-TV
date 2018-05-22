@@ -9044,7 +9044,7 @@
     },
     "Other_Player_Unlock": {
       "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
-      "inapp_other_player_sku": "com.2.test",
+      "inapp_other_player_sku": "com.rutu.master.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isOtherPlayerOption": true,
       "is_Inapp_Purchase": true,
@@ -9065,7 +9065,7 @@
     "Remove_Ads_Setting": {
       "delay_Activation_Milisecond": 3000,
       "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
-      "inapp_remove_ads_sku": "com.1.test",
+      "inapp_remove_ads_sku": "com.rutu.master.removeads",
       "initial_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase": true,
       "is_Rate": true,
