@@ -4983,23 +4983,23 @@
           },
           "sub_10" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Times-Now.jpeg?alt=media&token=ae15d057-cee7-44ee-8c62-85dc559e360f",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Times-Now.jpg?alt=media&token=ae15d057-cee7-44ee-8c62-85dc559e360f",
             "id" : 10,
             "name" : "Times Now",
             "stream_url" : "http://185.21.217.31:7071/newserver/timenow/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 501,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Times-Now.jpeg?alt=media&token=ae15d057-cee7-44ee-8c62-85dc559e360f"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Times-Now.jpg?alt=media&token=ae15d057-cee7-44ee-8c62-85dc559e360f"
           },
           "sub_100" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zoom-ev.jpeg?alt=media&token=80f3d582-acdd-48ab-bc30-371ecddfe2a8",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zoom-ev.jpg?alt=media&token=80f3d582-acdd-48ab-bc30-371ecddfe2a8",
             "id" : 100,
             "name" : "zOOm TV",
             "stream_url" : "http://185.21.217.31:7071/newserver/zoom/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 539,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zoom-ev.jpeg?alt=media&token=80f3d582-acdd-48ab-bc30-371ecddfe2a8"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zoom-ev.jpg?alt=media&token=80f3d582-acdd-48ab-bc30-371ecddfe2a8"
           },
           "sub_101" : {
             "auto_banner" : false,
@@ -5193,13 +5193,13 @@
           },
           "sub_119" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpeg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd",
             "id" : 119,
             "name" : "wow Cinema",
             "stream_url" : "http://185.21.217.31:7071/newserver/wowcinema/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7589,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpeg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd"
           },
           "sub_12" : {
             "auto_banner" : false,
@@ -5243,13 +5243,13 @@
           },
           "sub_123" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tlc-hindi.jpeg?alt=media&token=f3f633b6-4335-4534-804b-9e7a736de771",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tlc-hindi.jpg?alt=media&token=f3f633b6-4335-4534-804b-9e7a736de771",
             "id" : 123,
             "name" : "TLC Hindi",
             "stream_url" : "http://185.21.216.192:7071/newserver/tlchindi/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7632,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tlc-hindi.jpeg?alt=media&token=f3f633b6-4335-4534-804b-9e7a736de771"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tlc-hindi.jpg?alt=media&token=f3f633b6-4335-4534-804b-9e7a736de771"
           },
           "sub_124" : {
             "auto_banner" : false,
@@ -5333,13 +5333,13 @@
           },
           "sub_131" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/travel-xp.jpeg?alt=media&token=0c9a5f5b-3e3d-471a-b696-c169e579a3dd",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/travel-xp.jpg?alt=media&token=0c9a5f5b-3e3d-471a-b696-c169e579a3dd",
             "id" : 131,
             "name" : "Travel xp",
             "stream_url" : "http://185.21.216.192:7071/newserver/travelxpin/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78474,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/travel-xp.jpeg?alt=media&token=0c9a5f5b-3e3d-471a-b696-c169e579a3dd"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/travel-xp.jpg?alt=media&token=0c9a5f5b-3e3d-471a-b696-c169e579a3dd"
           },
           "sub_132" : {
             "auto_banner" : false,
@@ -5423,23 +5423,23 @@
           },
           "sub_17" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-marathi.jpeg?alt=media&token=931c9f4b-07d8-4192-b588-ea0badb76ae7",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-marathi.jpg?alt=media&token=931c9f4b-07d8-4192-b588-ea0badb76ae7",
             "id" : 17,
             "name" : "TV9 Marathi",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/tv9marathi/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78402,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-marathi.jpeg?alt=media&token=931c9f4b-07d8-4192-b588-ea0badb76ae7"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-marathi.jpg?alt=media&token=931c9f4b-07d8-4192-b588-ea0badb76ae7"
           },
           "sub_18" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-gujarati.jpeg?alt=media&token=e43d2b26-c1a1-4988-8295-f46eab820825",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-gujarati.jpg?alt=media&token=e43d2b26-c1a1-4988-8295-f46eab820825",
             "id" : 18,
             "name" : "TV9 Gujarati",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/tv9gujarti/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78513,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-gujarati.jpeg?alt=media&token=e43d2b26-c1a1-4988-8295-f46eab820825"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/tv9-gujarati.jpg?alt=media&token=e43d2b26-c1a1-4988-8295-f46eab820825"
           },
           "sub_19" : {
             "auto_banner" : false,
@@ -5503,13 +5503,13 @@
           },
           "sub_24" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpeg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663",
             "id" : 24,
             "name" : "Sony TV",
             "stream_url" : "http://185.21.217.31:7071/newserver/SONYTVHD/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 435,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpeg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663"
           },
           "sub_26" : {
             "auto_banner" : false,
@@ -5533,23 +5533,23 @@
           },
           "sub_28" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/sony-rox-tv.jpeg?alt=media&token=5efaf0ac-2ee6-497a-a85c-4f9d1ee907ec",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/sony-rox-tv.jpg?alt=media&token=5efaf0ac-2ee6-497a-a85c-4f9d1ee907ec",
             "id" : 28,
             "name" : "Sony Rox",
             "stream_url" : "http://185.21.216.192:7071/newserver/sonyrox/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78445,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/sony-rox-tv.jpeg?alt=media&token=5efaf0ac-2ee6-497a-a85c-4f9d1ee907ec"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/sony-rox-tv.jpg?alt=media&token=5efaf0ac-2ee6-497a-a85c-4f9d1ee907ec"
           },
           "sub_29" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-Pix.jpeg?alt=media&token=a96e2e93-7efa-4a1f-b070-82aaefe431a8",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-Pix.jpg?alt=media&token=a96e2e93-7efa-4a1f-b070-82aaefe431a8",
             "id" : 29,
             "name" : "Sony Pix",
             "stream_url" : "http://185.21.217.31:7071/newserver/sonypix/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 449,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-Pix.jpeg?alt=media&token=a96e2e93-7efa-4a1f-b070-82aaefe431a8"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-Pix.jpg?alt=media&token=a96e2e93-7efa-4a1f-b070-82aaefe431a8"
           },
           "sub_3" : {
             "auto_banner" : false,
@@ -5613,53 +5613,53 @@
           },
           "sub_35" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Utsav.jpeg?alt=media&token=eede3d11-5da6-4eeb-90bf-63150aaf0c58",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Utsav.jpg?alt=media&token=eede3d11-5da6-4eeb-90bf-63150aaf0c58",
             "id" : 35,
             "name" : "Star Utsav",
             "stream_url" : "http://185.21.217.31:7071/newserver/starutsuv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 407,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Utsav.jpeg?alt=media&token=eede3d11-5da6-4eeb-90bf-63150aaf0c58"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Utsav.jpg?alt=media&token=eede3d11-5da6-4eeb-90bf-63150aaf0c58"
           },
           "sub_36" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold.jpeg?alt=media&token=e9e60fb1-897c-4360-b555-c81478879f4b",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold.jpg?alt=media&token=e9e60fb1-897c-4360-b555-c81478879f4b",
             "id" : 36,
             "name" : "Star Gold",
             "stream_url" : "http://185.21.216.192:7071/newserver/stargoldind/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 410,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold.jpeg?alt=media&token=e9e60fb1-897c-4360-b555-c81478879f4b"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold.jpg?alt=media&token=e9e60fb1-897c-4360-b555-c81478879f4b"
           },
           "sub_37" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold_uk.jpeg?alt=media&token=21a29b14-703e-4a52-b592-50163e1df8f0",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold_uk.jpg?alt=media&token=21a29b14-703e-4a52-b592-50163e1df8f0",
             "id" : 37,
             "name" : "Star Gold UK",
             "stream_url" : "http://185.21.217.31:7071/newserver/stargolduk/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 411,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold_uk.jpeg?alt=media&token=21a29b14-703e-4a52-b592-50163e1df8f0"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star-Gold_uk.jpg?alt=media&token=21a29b14-703e-4a52-b592-50163e1df8f0"
           },
           "sub_38" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/V-Channel.jpeg?alt=media&token=62b9a486-ed08-4a1c-aed2-241f799ff0ae",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/V-Channel.jpg?alt=media&token=62b9a486-ed08-4a1c-aed2-241f799ff0ae",
             "id" : 38,
             "name" : "Channel V",
             "stream_url" : "http://185.21.217.31:7071/newserver/channelv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 412,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/V-Channel.jpeg?alt=media&token=62b9a486-ed08-4a1c-aed2-241f799ff0ae"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/V-Channel.jpg?alt=media&token=62b9a486-ed08-4a1c-aed2-241f799ff0ae"
           },
           "sub_39" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/StarMovies-HD.jpeg?alt=media&token=fd484f05-f9d2-4085-a9d4-7801644c74cc",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/StarMovies-HD.jpg?alt=media&token=fd484f05-f9d2-4085-a9d4-7801644c74cc",
             "id" : 39,
             "name" : "Star Movies HD",
             "stream_url" : "http://185.21.216.182:7071/tinybeta/starmovieshd/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 413,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/StarMovies-HD.jpeg?alt=media&token=fd484f05-f9d2-4085-a9d4-7801644c74cc"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/StarMovies-HD.jpg?alt=media&token=fd484f05-f9d2-4085-a9d4-7801644c74cc"
           },
           "sub_4" : {
             "auto_banner" : false,
@@ -5673,13 +5673,13 @@
           },
           "sub_40" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/star-movie-select.jpeg?alt=media&token=3792ff06-655d-4011-a6bf-1f3a305a5b43",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/star-movie-select.jpg?alt=media&token=3792ff06-655d-4011-a6bf-1f3a305a5b43",
             "id" : 40,
             "name" : "Star Movies Select",
             "stream_url" : "http://185.21.216.153:7071/tinybeta/starmovieselect/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78894,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/star-movie-select.jpeg?alt=media&token=3792ff06-655d-4011-a6bf-1f3a305a5b43"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/star-movie-select.jpg?alt=media&token=3792ff06-655d-4011-a6bf-1f3a305a5b43"
           },
           "sub_42" : {
             "auto_banner" : false,
@@ -5733,13 +5733,13 @@
           },
           "sub_47" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star_Bharat.jpeg?alt=media&token=6c7766ae-edda-4a4e-a581-7fd5e8079d0a",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star_Bharat.jpg?alt=media&token=6c7766ae-edda-4a4e-a581-7fd5e8079d0a",
             "id" : 47,
             "name" : "Star Bharat",
             "stream_url" : "http://185.21.217.31:7071/newserver/lifeokin/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 423,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star_Bharat.jpeg?alt=media&token=6c7766ae-edda-4a4e-a581-7fd5e8079d0a"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Star_Bharat.jpg?alt=media&token=6c7766ae-edda-4a4e-a581-7fd5e8079d0a"
           },
           "sub_48" : {
             "auto_banner" : false,
@@ -5843,33 +5843,33 @@
           },
           "sub_57" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-TV.jpeg?alt=media&token=b69792bb-4a06-4668-b5a6-552807bd6170",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-TV.jpg?alt=media&token=b69792bb-4a06-4668-b5a6-552807bd6170",
             "id" : 57,
             "name" : "Zee TV HD",
             "stream_url" : "http://185.21.217.31:7071/newserver/ZeeTVHD/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 452,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-TV.jpeg?alt=media&token=b69792bb-4a06-4668-b5a6-552807bd6170"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-TV.jpg?alt=media&token=b69792bb-4a06-4668-b5a6-552807bd6170"
           },
           "sub_58" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema.jpeg?alt=media&token=30b161ba-d0d7-407c-bc05-53d9b9869391",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema.jpg?alt=media&token=30b161ba-d0d7-407c-bc05-53d9b9869391",
             "id" : 58,
             "name" : "Zee Cinema HD",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeecinemahd/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 469,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema.jpeg?alt=media&token=30b161ba-d0d7-407c-bc05-53d9b9869391"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema.jpg?alt=media&token=30b161ba-d0d7-407c-bc05-53d9b9869391"
           },
           "sub_59" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-Me.jpeg?alt=media&token=f0fff86e-5c23-42de-b6ec-e573baa83d93",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-Me.jpg?alt=media&token=f0fff86e-5c23-42de-b6ec-e573baa83d93",
             "id" : 59,
             "name" : "Zee Cinema ME",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeecinemame/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 472,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-Me.jpeg?alt=media&token=f0fff86e-5c23-42de-b6ec-e573baa83d93"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-Me.jpg?alt=media&token=f0fff86e-5c23-42de-b6ec-e573baa83d93"
           },
           "sub_6" : {
             "auto_banner" : false,
@@ -5883,103 +5883,103 @@
           },
           "sub_60" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-UK.jpeg?alt=media&token=eefd4caf-4f6e-4843-8dd3-883cc2def00f",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-UK.jpg?alt=media&token=eefd4caf-4f6e-4843-8dd3-883cc2def00f",
             "id" : 60,
             "name" : "Zee Cinema UK",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/ZeeCinemaUK/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 471,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-UK.jpeg?alt=media&token=eefd4caf-4f6e-4843-8dd3-883cc2def00f"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-UK.jpg?alt=media&token=eefd4caf-4f6e-4843-8dd3-883cc2def00f"
           },
           "sub_61" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-India.jpeg?alt=media&token=150f5fa4-8776-46ba-8c52-93613997de15",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-India.jpg?alt=media&token=150f5fa4-8776-46ba-8c52-93613997de15",
             "id" : 61,
             "name" : "Zee Cinema INDIA",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeecinema/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 470,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-India.jpeg?alt=media&token=150f5fa4-8776-46ba-8c52-93613997de15"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cinema-India.jpg?alt=media&token=150f5fa4-8776-46ba-8c52-93613997de15"
           },
           "sub_62" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-yuva.jpeg?alt=media&token=6b4b9322-e878-4a81-872c-f0c1d986aaad",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-yuva.jpg?alt=media&token=6b4b9322-e878-4a81-872c-f0c1d986aaad",
             "id" : 62,
             "name" : "Zee Yuva",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/zeeyuva/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7604,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-yuva.jpeg?alt=media&token=6b4b9322-e878-4a81-872c-f0c1d986aaad"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-yuva.jpg?alt=media&token=6b4b9322-e878-4a81-872c-f0c1d986aaad"
           },
           "sub_63" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Salaam.jpeg?alt=media&token=af5106c0-b258-418b-b6d0-468f61514998",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Salaam.jpg?alt=media&token=af5106c0-b258-418b-b6d0-468f61514998",
             "id" : 63,
             "name" : "Zee Salaam",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeesalam/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 464,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Salaam.jpeg?alt=media&token=af5106c0-b258-418b-b6d0-468f61514998"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Salaam.jpg?alt=media&token=af5106c0-b258-418b-b6d0-468f61514998"
           },
           "sub_64" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Tokies.jpeg?alt=media&token=ce11128b-abde-4fba-8ddf-007ac41b41ed",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Tokies.jpg?alt=media&token=ce11128b-abde-4fba-8ddf-007ac41b41ed",
             "id" : 64,
             "name" : "Zee Tokies",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/zeetalkies/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 482,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Tokies.jpeg?alt=media&token=ce11128b-abde-4fba-8ddf-007ac41b41ed"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Tokies.jpg?alt=media&token=ce11128b-abde-4fba-8ddf-007ac41b41ed"
           },
           "sub_65" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Studio.jpeg?alt=media&token=d4f2d936-a997-4041-bebf-306b670dd42a",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Studio.jpg?alt=media&token=d4f2d936-a997-4041-bebf-306b670dd42a",
             "id" : 65,
             "name" : "Zee Studio",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeestudio/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 476,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Studio.jpeg?alt=media&token=d4f2d936-a997-4041-bebf-306b670dd42a"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Studio.jpg?alt=media&token=d4f2d936-a997-4041-bebf-306b670dd42a"
           },
           "sub_66" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-News.jpeg?alt=media&token=b48a6c20-ad93-4e2f-a472-4cc7b2abb9ac",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-News.jpg?alt=media&token=b48a6c20-ad93-4e2f-a472-4cc7b2abb9ac",
             "id" : 66,
             "name" : "Zee News",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/zeenews/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 468,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-News.jpeg?alt=media&token=b48a6c20-ad93-4e2f-a472-4cc7b2abb9ac"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-News.jpg?alt=media&token=b48a6c20-ad93-4e2f-a472-4cc7b2abb9ac"
           },
           "sub_67" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-mpcg.jpeg?alt=media&token=1ecaeaa7-6217-4027-aadb-64cf370407ad",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-mpcg.jpg?alt=media&token=1ecaeaa7-6217-4027-aadb-64cf370407ad",
             "id" : 67,
             "name" : "Zee Madhy Pradesh Chattisgadh",
             "stream_url" : "http://185.21.216.194:7071/tinybeta/zeempcg/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 79059,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-mpcg.jpeg?alt=media&token=1ecaeaa7-6217-4027-aadb-64cf370407ad"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-mpcg.jpg?alt=media&token=1ecaeaa7-6217-4027-aadb-64cf370407ad"
           },
           "sub_68" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-marathi.jpeg?alt=media&token=7f65d817-bd29-4080-851a-933fbfabb8af",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-marathi.jpg?alt=media&token=7f65d817-bd29-4080-851a-933fbfabb8af",
             "id" : 68,
             "name" : "Zee Marathi",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/zeemarathi/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78403,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-marathi.jpeg?alt=media&token=7f65d817-bd29-4080-851a-933fbfabb8af"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-marathi.jpg?alt=media&token=7f65d817-bd29-4080-851a-933fbfabb8af"
           },
           "sub_69" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Living-HD.jpeg?alt=media&token=04e0ae65-a407-4b5c-b547-f31591a99678",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Living-HD.jpg?alt=media&token=04e0ae65-a407-4b5c-b547-f31591a99678",
             "id" : 69,
             "name" : "Zee Living HD",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/zeelivinghd/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 473,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Living-HD.jpeg?alt=media&token=04e0ae65-a407-4b5c-b547-f31591a99678"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Living-HD.jpg?alt=media&token=04e0ae65-a407-4b5c-b547-f31591a99678"
           },
           "sub_7" : {
             "auto_banner" : false,
@@ -5994,83 +5994,83 @@
           },
           "sub_70" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-hindustan.jpeg?alt=media&token=08742500-f5d1-4167-b1fb-7b0f50a9b220",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-hindustan.jpg?alt=media&token=08742500-f5d1-4167-b1fb-7b0f50a9b220",
             "id" : 70,
             "name" : "Zee Hindustan",
             "stream_url" : "http://185.21.216.194:7071/tinybeta/zeehindustan/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 79057,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-hindustan.jpeg?alt=media&token=08742500-f5d1-4167-b1fb-7b0f50a9b220"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-hindustan.jpg?alt=media&token=08742500-f5d1-4167-b1fb-7b0f50a9b220"
           },
           "sub_71" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-ETC.jpeg?alt=media&token=242f6aa4-0c33-479e-9874-1416e14c0175",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-ETC.jpg?alt=media&token=242f6aa4-0c33-479e-9874-1416e14c0175",
             "id" : 71,
             "name" : "Zee ETC",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/zeeetc/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 467,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-ETC.jpeg?alt=media&token=242f6aa4-0c33-479e-9874-1416e14c0175"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-ETC.jpg?alt=media&token=242f6aa4-0c33-479e-9874-1416e14c0175"
           },
           "sub_72" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Classic.jpeg?alt=media&token=f9412375-fc53-4fbe-a1d2-715f285cc32c",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Classic.jpg?alt=media&token=f9412375-fc53-4fbe-a1d2-715f285cc32c",
             "id" : 72,
             "name" : "Zee Classic",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/ZEECLASSIC/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 457,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Classic.jpeg?alt=media&token=f9412375-fc53-4fbe-a1d2-715f285cc32c"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Classic.jpg?alt=media&token=f9412375-fc53-4fbe-a1d2-715f285cc32c"
           },
           "sub_73" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cafe.jpeg?alt=media&token=67ae39f4-070c-448d-90ae-fbd2f5817c79",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cafe.jpg?alt=media&token=67ae39f4-070c-448d-90ae-fbd2f5817c79",
             "id" : 73,
             "name" : "Zee Cafe",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeecafe/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 475,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cafe.jpeg?alt=media&token=67ae39f4-070c-448d-90ae-fbd2f5817c79"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Cafe.jpg?alt=media&token=67ae39f4-070c-448d-90ae-fbd2f5817c79"
           },
           "sub_74" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Business.jpeg?alt=media&token=44f3226c-3ab6-4941-b24c-48101a97a90d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Business.jpg?alt=media&token=44f3226c-3ab6-4941-b24c-48101a97a90d",
             "id" : 74,
             "name" : "Zee Business",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/ZeeBusiness/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 465,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Business.jpeg?alt=media&token=44f3226c-3ab6-4941-b24c-48101a97a90d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Business.jpg?alt=media&token=44f3226c-3ab6-4941-b24c-48101a97a90d"
           },
           "sub_75" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Anmol.jpeg?alt=media&token=bfdd699a-1f5e-4afd-bfbf-716a1956d988",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Anmol.jpg?alt=media&token=bfdd699a-1f5e-4afd-bfbf-716a1956d988",
             "id" : 75,
             "name" : "Zee Anmol",
             "stream_url" : "http://185.21.217.31:7071/newserver/zeeanmol/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 479,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Anmol.jpeg?alt=media&token=bfdd699a-1f5e-4afd-bfbf-716a1956d988"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Anmol.jpg?alt=media&token=bfdd699a-1f5e-4afd-bfbf-716a1956d988"
           },
           "sub_76" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Action.jpeg?alt=media&token=309ba2ea-d8de-4235-90e4-e45a41aadd37",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Action.jpg?alt=media&token=309ba2ea-d8de-4235-90e4-e45a41aadd37",
             "id" : 76,
             "name" : "Zee Action",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/ZEETVACTION/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 462,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Action.jpeg?alt=media&token=309ba2ea-d8de-4235-90e4-e45a41aadd37"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zee-Action.jpg?alt=media&token=309ba2ea-d8de-4235-90e4-e45a41aadd37"
           },
           "sub_77" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-24-taas.jpeg?alt=media&token=9ba7f878-b113-4da8-a228-6c98eafd8fe8",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-24-taas.jpg?alt=media&token=9ba7f878-b113-4da8-a228-6c98eafd8fe8",
             "id" : 77,
             "name" : "Zee 24 TAAS",
             "stream_url" : "http://185.21.216.194:7071/tinybeta/zee24taas/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 79058,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-24-taas.jpeg?alt=media&token=9ba7f878-b113-4da8-a228-6c98eafd8fe8"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/zee-24-taas.jpg?alt=media&token=9ba7f878-b113-4da8-a228-6c98eafd8fe8"
           },
           "sub_78" : {
             "auto_banner" : false,
@@ -6234,23 +6234,23 @@
           },
           "sub_92" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-movies.jpeg?alt=media&token=583e4984-649c-417e-96de-24395665b3f7",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-movies.jpg?alt=media&token=583e4984-649c-417e-96de-24395665b3f7",
             "id" : 92,
             "name" : "UTV Movies International",
             "stream_url" : "http://185.21.217.31:7071/newserver/UTVMoviesInternational/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 525,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-movies.jpeg?alt=media&token=583e4984-649c-417e-96de-24395665b3f7"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-movies.jpg?alt=media&token=583e4984-649c-417e-96de-24395665b3f7"
           },
           "sub_93" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-Action.jpeg?alt=media&token=5081842a-bdaa-4598-bdfc-7febadac91d4",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-Action.jpg?alt=media&token=5081842a-bdaa-4598-bdfc-7febadac91d4",
             "id" : 93,
             "name" : "UTV Action",
             "stream_url" : "http://185.21.217.31:7071/newserver/utvaction/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 526,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-Action.jpeg?alt=media&token=5081842a-bdaa-4598-bdfc-7febadac91d4"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/utv-Action.jpg?alt=media&token=5081842a-bdaa-4598-bdfc-7febadac91d4"
           },
           "sub_94" : {
             "auto_banner" : false,
@@ -6284,13 +6284,13 @@
           },
           "sub_97" : {
             "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpeg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b",
             "id" : 97,
             "name" : "Zing IN",
             "stream_url" : "http://185.21.217.31:7071/newserver/zingin/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 535,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpeg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b"
           },
           "sub_98" : {
             "auto_banner" : false,
@@ -8110,353 +8110,353 @@
         "sub" : {
           "sub_1" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/madani-tv.jpeg?alt=media&token=29ec8259-1e44-4079-b112-d1965932241c",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/madani-tv.jpeg?alt=media&token=29ec8259-1e44-4079-b112-d1965932241c",
             "id" : 1,
             "name" : "Madani TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/madani/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/madani-tv.jpeg?alt=media&token=29ec8259-1e44-4079-b112-d1965932241c"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/madani-tv.jpeg?alt=media&token=29ec8259-1e44-4079-b112-d1965932241c"
           },
           "sub_10" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel.jpeg?alt=media&token=bee3b961-2bdb-4acc-bf42-0651a3b391d6",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel.jpeg?alt=media&token=bee3b961-2bdb-4acc-bf42-0651a3b391d6",
             "id" : 10,
             "name" : "Islam Channel",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/islamchannel/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7358,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel.jpeg?alt=media&token=bee3b961-2bdb-4acc-bf42-0651a3b391d6"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel.jpeg?alt=media&token=bee3b961-2bdb-4acc-bf42-0651a3b391d6"
           },
           "sub_11" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel-urdu.jpeg?alt=media&token=7670b6f3-5811-416a-9d69-ba90470c62f2",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel-urdu.jpeg?alt=media&token=7670b6f3-5811-416a-9d69-ba90470c62f2",
             "id" : 11,
             "name" : "Islam Channel Urdu",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/islamchannelurdu/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7607,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel-urdu.jpeg?alt=media&token=7670b6f3-5811-416a-9d69-ba90470c62f2"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/islam-channel-urdu.jpeg?alt=media&token=7670b6f3-5811-416a-9d69-ba90470c62f2"
           },
           "sub_12" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Raham-TV.jpeg?alt=media&token=a9417d11-309c-465d-ae7e-b35c83cc4c3b",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Raham-TV.jpeg?alt=media&token=a9417d11-309c-465d-ae7e-b35c83cc4c3b",
             "id" : 12,
             "name" : "Raham TV",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/rahamtv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7617,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Raham-TV.jpeg?alt=media&token=a9417d11-309c-465d-ae7e-b35c83cc4c3b"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Raham-TV.jpeg?alt=media&token=a9417d11-309c-465d-ae7e-b35c83cc4c3b"
           },
           "sub_13" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Noor-TV.jpeg?alt=media&token=13e8a67c-1b78-4a11-9e49-d478af8bab30",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Noor-TV.jpeg?alt=media&token=13e8a67c-1b78-4a11-9e49-d478af8bab30",
             "id" : 13,
             "name" : "Noor TV",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/noortv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7618,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Noor-TV.jpeg?alt=media&token=13e8a67c-1b78-4a11-9e49-d478af8bab30"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Noor-TV.jpeg?alt=media&token=13e8a67c-1b78-4a11-9e49-d478af8bab30"
           },
           "sub_14" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-pushto.jpeg?alt=media&token=ba8bc95c-5150-4f65-b6d5-0005e9931510",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-pushto.jpeg?alt=media&token=ba8bc95c-5150-4f65-b6d5-0005e9931510",
             "id" : 14,
             "name" : "Paigham Pushto",
             "stream_url" : "http://185.21.217.31:7071/newserver/paighampushto/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7619,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-pushto.jpeg?alt=media&token=ba8bc95c-5150-4f65-b6d5-0005e9931510"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-pushto.jpeg?alt=media&token=ba8bc95c-5150-4f65-b6d5-0005e9931510"
           },
           "sub_15" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/huda-tv.jpeg?alt=media&token=44282986-1468-4e3b-a3d1-0c4cd84c0e27",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/huda-tv.jpeg?alt=media&token=44282986-1468-4e3b-a3d1-0c4cd84c0e27",
             "id" : 15,
             "name" : "Huda TV",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/hudatv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7620,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/huda-tv.jpeg?alt=media&token=44282986-1468-4e3b-a3d1-0c4cd84c0e27"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/huda-tv.jpeg?alt=media&token=44282986-1468-4e3b-a3d1-0c4cd84c0e27"
           },
           "sub_16" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/AHAD-TV.jpeg?alt=media&token=a31d74d7-a34a-4d0b-8796-0fe27faabc53",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/AHAD-TV.jpeg?alt=media&token=a31d74d7-a34a-4d0b-8796-0fe27faabc53",
             "id" : 16,
             "name" : "AHAD TV",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/ahadtv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7798,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/AHAD-TV.jpeg?alt=media&token=a31d74d7-a34a-4d0b-8796-0fe27faabc53"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/AHAD-TV.jpeg?alt=media&token=a31d74d7-a34a-4d0b-8796-0fe27faabc53"
           },
           "sub_17" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/MTA-International.jpeg?alt=media&token=488e2af6-9202-4007-a134-c8db7f744291",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/MTA-International.jpeg?alt=media&token=488e2af6-9202-4007-a134-c8db7f744291",
             "id" : 17,
             "name" : "MTA International",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/mtatv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7621,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/MTA-International.jpeg?alt=media&token=488e2af6-9202-4007-a134-c8db7f744291"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/MTA-International.jpeg?alt=media&token=488e2af6-9202-4007-a134-c8db7f744291"
           },
           "sub_18" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/tahzeeb-tv.jpeg?alt=media&token=841ddac1-7085-4828-9956-b6d1a7614380",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/tahzeeb-tv.jpeg?alt=media&token=841ddac1-7085-4828-9956-b6d1a7614380",
             "id" : 18,
             "name" : "Tahzeeb TV",
             "stream_url" : "http://cdn.ebound.tv/tv/tehzeeb/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7797,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/tahzeeb-tv.jpeg?alt=media&token=841ddac1-7085-4828-9956-b6d1a7614380"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/tahzeeb-tv.jpeg?alt=media&token=841ddac1-7085-4828-9956-b6d1a7614380"
           },
           "sub_19" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/pirai-tv.jpeg?alt=media&token=6334613d-598c-43de-bf95-019575717bd0",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/pirai-tv.jpeg?alt=media&token=6334613d-598c-43de-bf95-019575717bd0",
             "id" : 19,
             "name" : "Pirai TV",
             "stream_url" : "http://185.21.217.31:7071/newserver/piraitv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7799,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/pirai-tv.jpeg?alt=media&token=6334613d-598c-43de-bf95-019575717bd0"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/pirai-tv.jpeg?alt=media&token=6334613d-598c-43de-bf95-019575717bd0"
           },
           "sub_2" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-urdu.jpeg?alt=media&token=e81a95c2-b102-476d-bdc0-899038e7b94f",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-urdu.jpeg?alt=media&token=e81a95c2-b102-476d-bdc0-899038e7b94f",
             "id" : 2,
             "name" : "Peace TV Urdu",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/PEACETVURDU/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 79,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-urdu.jpeg?alt=media&token=e81a95c2-b102-476d-bdc0-899038e7b94f"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-urdu.jpeg?alt=media&token=e81a95c2-b102-476d-bdc0-899038e7b94f"
           },
           "sub_20" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/zindagi-tv.jpeg?alt=media&token=67cc9aa7-6e22-4a9e-ac77-1fa32d3356da",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/zindagi-tv.jpeg?alt=media&token=67cc9aa7-6e22-4a9e-ac77-1fa32d3356da",
             "id" : 20,
             "name" : "Zindagi TV",
             "stream_url" : "http://185.21.217.31:7071/newserver/zindagitv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7800,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/zindagi-tv.jpeg?alt=media&token=67cc9aa7-6e22-4a9e-ac77-1fa32d3356da"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/zindagi-tv.jpeg?alt=media&token=67cc9aa7-6e22-4a9e-ac77-1fa32d3356da"
           },
           "sub_21" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/makkah-tv.jpeg?alt=media&token=42ae8ce2-d8cb-40da-9fee-40dd9a75b5b7",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/makkah-tv.jpeg?alt=media&token=42ae8ce2-d8cb-40da-9fee-40dd9a75b5b7",
             "id" : 21,
             "name" : "Makkah TV",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/makkah/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 6975,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/makkah-tv.jpeg?alt=media&token=42ae8ce2-d8cb-40da-9fee-40dd9a75b5b7"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/makkah-tv.jpeg?alt=media&token=42ae8ce2-d8cb-40da-9fee-40dd9a75b5b7"
           },
           "sub_22" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/ahlulbayt-tv.jpeg?alt=media&token=34cde495-1b78-4a1b-8171-97843d477b5d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/ahlulbayt-tv.jpeg?alt=media&token=34cde495-1b78-4a1b-8171-97843d477b5d",
             "id" : 22,
             "name" : "Ahlulbayt TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/ahlulbayttv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78812,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/ahlulbayt-tv.jpeg?alt=media&token=34cde495-1b78-4a1b-8171-97843d477b5d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/ahlulbayt-tv.jpeg?alt=media&token=34cde495-1b78-4a1b-8171-97843d477b5d"
           },
           "sub_23" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Barkat-tv.jpeg?alt=media&token=48eeca06-b851-4a08-8ac8-14178293934d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Barkat-tv.jpeg?alt=media&token=48eeca06-b851-4a08-8ac8-14178293934d",
             "id" : 23,
             "name" : "Barkat TV",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/barkattv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78583,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Barkat-tv.jpeg?alt=media&token=48eeca06-b851-4a08-8ac8-14178293934d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Barkat-tv.jpeg?alt=media&token=48eeca06-b851-4a08-8ac8-14178293934d"
           },
           "sub_24" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/safeer-tv.jpeg?alt=media&token=fae5f11c-84df-4c3a-a398-78336824fe1d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/safeer-tv.jpeg?alt=media&token=fae5f11c-84df-4c3a-a398-78336824fe1d",
             "id" : 24,
             "name" : "Safeer TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/safeertv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78809,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/safeer-tv.jpeg?alt=media&token=fae5f11c-84df-4c3a-a398-78336824fe1d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/safeer-tv.jpeg?alt=media&token=fae5f11c-84df-4c3a-a398-78336824fe1d"
           },
           "sub_25" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/AHLEBAIT-TV.jpeg?alt=media&token=5df04cf5-d78a-4b5e-8094-d0b5da278f6c",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/AHLEBAIT-TV.jpeg?alt=media&token=5df04cf5-d78a-4b5e-8094-d0b5da278f6c",
             "id" : 25,
             "name" : "Ahlebait TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/ahlebaittv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78813,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/AHLEBAIT-TV.jpeg?alt=media&token=5df04cf5-d78a-4b5e-8094-d0b5da278f6c"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/AHLEBAIT-TV.jpeg?alt=media&token=5df04cf5-d78a-4b5e-8094-d0b5da278f6c"
           },
           "sub_26" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Iqra-Bangla.jpeg?alt=media&token=543e8838-1c67-4582-8a0d-ae0c788137a0",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Iqra-Bangla.jpeg?alt=media&token=543e8838-1c67-4582-8a0d-ae0c788137a0",
             "id" : 26,
             "name" : "Iqra Bangla",
             "stream_url" : "http://185.21.216.192:7071/newserver/iqrabangla/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78818,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Iqra-Bangla.jpeg?alt=media&token=543e8838-1c67-4582-8a0d-ae0c788137a0"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Iqra-Bangla.jpeg?alt=media&token=543e8838-1c67-4582-8a0d-ae0c788137a0"
           },
           "sub_27" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/karbala-tv.jpeg?alt=media&token=d29214af-0ab9-470f-a36e-9ced0c484de1",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/karbala-tv.jpeg?alt=media&token=d29214af-0ab9-470f-a36e-9ced0c484de1",
             "id" : 27,
             "name" : "Karbala TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/karablatv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78837,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/karbala-tv.jpeg?alt=media&token=d29214af-0ab9-470f-a36e-9ced0c484de1"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/karbala-tv.jpeg?alt=media&token=d29214af-0ab9-470f-a36e-9ced0c484de1"
           },
           "sub_28" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/tv-one-uk.jpeg?alt=media&token=9af70df3-31d8-426a-b200-63caf7ea947a",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/tv-one-uk.jpeg?alt=media&token=9af70df3-31d8-426a-b200-63caf7ea947a",
             "id" : 28,
             "name" : "TV ONE UK",
             "stream_url" : "http://185.21.216.192:7071/newserver/tvone/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78820,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/tv-one-uk.jpeg?alt=media&token=9af70df3-31d8-426a-b200-63caf7ea947a"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/tv-one-uk.jpeg?alt=media&token=9af70df3-31d8-426a-b200-63caf7ea947a"
           },
           "sub_29" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/atn-islamic-tv.jpeg?alt=media&token=0bbb051a-f041-46c7-b807-288b98f6cbfd",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/atn-islamic-tv.jpeg?alt=media&token=0bbb051a-f041-46c7-b807-288b98f6cbfd",
             "id" : 29,
             "name" : "ATN Islamic TV",
             "stream_url" : "http://185.21.216.192:7071/newserver/atnislamic/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78821,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/atn-islamic-tv.jpeg?alt=media&token=0bbb051a-f041-46c7-b807-288b98f6cbfd"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/atn-islamic-tv.jpeg?alt=media&token=0bbb051a-f041-46c7-b807-288b98f6cbfd"
           },
           "sub_3" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-english.jpeg?alt=media&token=11317ecf-64f5-467f-91be-b8892173296e",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-english.jpeg?alt=media&token=11317ecf-64f5-467f-91be-b8892173296e",
             "id" : 3,
             "name" : "Peace TV English",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/PEACETVENG/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 81,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-english.jpeg?alt=media&token=11317ecf-64f5-467f-91be-b8892173296e"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-english.jpeg?alt=media&token=11317ecf-64f5-467f-91be-b8892173296e"
           },
           "sub_30" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Hidayat-tv.jpeg?alt=media&token=ac678f01-8905-467e-80af-caa9eb13a664",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Hidayat-tv.jpeg?alt=media&token=ac678f01-8905-467e-80af-caa9eb13a664",
             "id" : 30,
             "name" : "Hidayat TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/hidayattv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78838,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Hidayat-tv.jpeg?alt=media&token=ac678f01-8905-467e-80af-caa9eb13a664"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Hidayat-tv.jpeg?alt=media&token=ac678f01-8905-467e-80af-caa9eb13a664"
           },
           "sub_31" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Channel-win.jpeg?alt=media&token=caaf20b9-d2cc-4b64-8bab-a9bfd4cbb5e6",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Channel-win.jpeg?alt=media&token=caaf20b9-d2cc-4b64-8bab-a9bfd4cbb5e6",
             "id" : 31,
             "name" : "Channel win",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/channelwin/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78841,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Channel-win.jpeg?alt=media&token=caaf20b9-d2cc-4b64-8bab-a9bfd4cbb5e6"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Channel-win.jpeg?alt=media&token=caaf20b9-d2cc-4b64-8bab-a9bfd4cbb5e6"
           },
           "sub_32" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/zainabia-channel.jpeg?alt=media&token=fcbbf6a2-68ce-4e54-bcca-c7ab59177e84",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/zainabia-channel.jpeg?alt=media&token=fcbbf6a2-68ce-4e54-bcca-c7ab59177e84",
             "id" : 32,
             "name" : "Zainabia Channel",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/zainabiatv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78839,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/zainabia-channel.jpeg?alt=media&token=fcbbf6a2-68ce-4e54-bcca-c7ab59177e84"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/zainabia-channel.jpeg?alt=media&token=fcbbf6a2-68ce-4e54-bcca-c7ab59177e84"
           },
           "sub_33" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/imam-hissain.jpeg?alt=media&token=df524d0c-f242-4d18-9363-f6d4f296023d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/imam-hissain.jpeg?alt=media&token=df524d0c-f242-4d18-9363-f6d4f296023d",
             "id" : 33,
             "name" : "Imam Hussain",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/imamhussainshrine/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78840,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/imam-hissain.jpeg?alt=media&token=df524d0c-f242-4d18-9363-f6d4f296023d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/imam-hissain.jpeg?alt=media&token=df524d0c-f242-4d18-9363-f6d4f296023d"
           },
           "sub_34" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Shifa-TV.jpeg?alt=media&token=3acd1c8b-4078-4a14-9d27-eb273f458e92",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Shifa-TV.jpeg?alt=media&token=3acd1c8b-4078-4a14-9d27-eb273f458e92",
             "id" : 34,
             "name" : "Shifa TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/shifatv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78843,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Shifa-TV.jpeg?alt=media&token=3acd1c8b-4078-4a14-9d27-eb273f458e92"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Shifa-TV.jpeg?alt=media&token=3acd1c8b-4078-4a14-9d27-eb273f458e92"
           },
           "sub_35" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/mahid-tv.jpeg?alt=media&token=cc32fca0-a84d-41a1-a3d1-d3a00613c850",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/mahid-tv.jpeg?alt=media&token=cc32fca0-a84d-41a1-a3d1-d3a00613c850",
             "id" : 35,
             "name" : "Mahdi TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/almahditv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 78842,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/mahid-tv.jpeg?alt=media&token=cc32fca0-a84d-41a1-a3d1-d3a00613c850"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/mahid-tv.jpeg?alt=media&token=cc32fca0-a84d-41a1-a3d1-d3a00613c850"
           },
           "sub_4" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-bangla.jpeg?alt=media&token=3d24d2f9-babc-4150-aafd-5fcdb55774e4",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-bangla.jpeg?alt=media&token=3d24d2f9-babc-4150-aafd-5fcdb55774e4",
             "id" : 4,
             "name" : "Peace TV Bangla",
             "stream_url" : "http://185.21.217.31:7071/newserver/peacetvbangla/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 334,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-bangla.jpeg?alt=media&token=3d24d2f9-babc-4150-aafd-5fcdb55774e4"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/peace-tv-bangla.jpeg?alt=media&token=3d24d2f9-babc-4150-aafd-5fcdb55774e4"
           },
           "sub_5" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-tv.jpeg?alt=media&token=dddf60c6-7743-4829-8210-d51097b2b394",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-tv.jpeg?alt=media&token=dddf60c6-7743-4829-8210-d51097b2b394",
             "id" : 5,
             "name" : "Paigham TV",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/paigham/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 80,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-tv.jpeg?alt=media&token=dddf60c6-7743-4829-8210-d51097b2b394"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/paigham-tv.jpeg?alt=media&token=dddf60c6-7743-4829-8210-d51097b2b394"
           },
           "sub_6" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Hadi-TV.jpeg?alt=media&token=c14a9c9a-8758-4f56-81bb-df8ade90de8c",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Hadi-TV.jpeg?alt=media&token=c14a9c9a-8758-4f56-81bb-df8ade90de8c",
             "id" : 6,
             "name" : "Hadi TV",
             "stream_url" : "http://185.21.217.34:7071/tinybeta/haditv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 82,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Hadi-TV.jpeg?alt=media&token=c14a9c9a-8758-4f56-81bb-df8ade90de8c"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Hadi-TV.jpeg?alt=media&token=c14a9c9a-8758-4f56-81bb-df8ade90de8c"
           },
           "sub_7" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Ary-Qtv.jpeg?alt=media&token=f27778d0-b2aa-47c3-8d9c-97567a8170fd",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Ary-Qtv.jpeg?alt=media&token=f27778d0-b2aa-47c3-8d9c-97567a8170fd",
             "id" : 7,
             "name" : "Ary Qtv",
             "stream_url" : "http://185.21.216.137:7071/tinybeta/aryqtv/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 6970,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Ary-Qtv.jpeg?alt=media&token=f27778d0-b2aa-47c3-8d9c-97567a8170fd"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Ary-Qtv.jpeg?alt=media&token=f27778d0-b2aa-47c3-8d9c-97567a8170fd"
           },
           "sub_8" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/nakkah-tv-hd.jpeg?alt=media&token=079db054-e2de-4ae1-8178-ad9cf7a2be7d",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/nakkah-tv-hd.jpeg?alt=media&token=079db054-e2de-4ae1-8178-ad9cf7a2be7d",
             "id" : 8,
             "name" : "Makkah TV HD",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/makkah/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 6975,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/nakkah-tv-hd.jpeg?alt=media&token=079db054-e2de-4ae1-8178-ad9cf7a2be7d"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/nakkah-tv-hd.jpeg?alt=media&token=079db054-e2de-4ae1-8178-ad9cf7a2be7d"
           },
           "sub_9" : {
             "auto_banner" : false,
-            "banner_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Madina-Tv-Hd.jpeg?alt=media&token=c86120a9-f7ce-4876-acdc-af8a79a013c8",
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Madina-Tv-Hd.jpeg?alt=media&token=c86120a9-f7ce-4876-acdc-af8a79a013c8",
             "id" : 9,
             "name" : "Madina TV HD",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/madina/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 6976,
-            "thumbnail_url" : "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Religious/Madina-Tv-Hd.jpeg?alt=media&token=c86120a9-f7ce-4876-acdc-af8a79a013c8"
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Madina-Tv-Hd.jpeg?alt=media&token=c86120a9-f7ce-4876-acdc-af8a79a013c8"
           }
         },
         "sub_name" : "Channels",
