@@ -963,13 +963,13 @@
           },
           "sub_119": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpeg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd",
             "id": 119,
             "name": "wow Cinema",
             "stream_url": "http://185.21.217.31:7071/newserver/wowcinema/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7589,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpeg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/wow-cinema.jpg?alt=media&token=946feb60-d55a-4e18-8991-6625cf2b09fd"
           },
           "sub_120": {
             "auto_banner": false,
@@ -1033,13 +1033,13 @@
           },
           "sub_97": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpeg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b",
             "id": 97,
             "name": "Zing IN",
             "stream_url": "http://185.21.217.31:7071/newserver/zingin/playlist.m3u8",
             "sub_name": "",
             "swift_id": 535,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpeg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b"
           },
           "sub_upgrade": {
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
@@ -8542,123 +8542,123 @@
         "sub": {
           "sub_11": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-21-tv.jpeg?alt=media&token=f659d5c6-09c5-4fd0-bd28-72d8d96ffe76",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-21-tv.jpeg?alt=media&token=f659d5c6-09c5-4fd0-bd28-72d8d96ffe76",
             "id": 11,
             "name": "Bangla 21 TV",
             "stream_url": "http://185.21.216.192:7071/newserver/bangla21/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78863,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-21-tv.jpeg?alt=media&token=f659d5c6-09c5-4fd0-bd28-72d8d96ffe76"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-21-tv.jpeg?alt=media&token=f659d5c6-09c5-4fd0-bd28-72d8d96ffe76"
           },
           "sub_16": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-Vision.jpeg?alt=media&token=198b95e1-6dfd-4df0-b0ca-b95d2c4dce9c",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-Vision.jpeg?alt=media&token=198b95e1-6dfd-4df0-b0ca-b95d2c4dce9c",
             "id": 16,
             "name": "Bangla Vision",
             "stream_url": "http://185.21.217.31:7071/newserver/banglavision/playlist.m3u8",
             "sub_name": "",
             "swift_id": 321,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-Vision.jpeg?alt=media&token=198b95e1-6dfd-4df0-b0ca-b95d2c4dce9c"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-Vision.jpeg?alt=media&token=198b95e1-6dfd-4df0-b0ca-b95d2c4dce9c"
           },
           "sub_17": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Boidhakhi.jpeg?alt=media&token=be4fb77d-ca78-4fae-8419-867cfdca6b84",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Boidhakhi.jpeg?alt=media&token=be4fb77d-ca78-4fae-8419-867cfdca6b84",
             "id": 17,
             "name": "Boishakhi",
             "stream_url": "http://185.21.217.31:7071/newserver/Boishakhi/playlist.m3u8",
             "sub_name": "",
             "swift_id": 272,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Boidhakhi.jpeg?alt=media&token=be4fb77d-ca78-4fae-8419-867cfdca6b84"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Boidhakhi.jpeg?alt=media&token=be4fb77d-ca78-4fae-8419-867cfdca6b84"
           },
           "sub_24": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Channel-S-BD.jpeg?alt=media&token=850ab4fe-f1f3-46c2-9852-4ab1398b86b8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Channel-S-BD.jpeg?alt=media&token=850ab4fe-f1f3-46c2-9852-4ab1398b86b8",
             "id": 24,
             "name": "Channel S BD",
             "stream_url": "http://185.21.216.192:7071/newserver/channelsbd/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78806,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Channel-S-BD.jpeg?alt=media&token=850ab4fe-f1f3-46c2-9852-4ab1398b86b8"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Channel-S-BD.jpeg?alt=media&token=850ab4fe-f1f3-46c2-9852-4ab1398b86b8"
           },
           "sub_30": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Deepto-TV.jpeg?alt=media&token=9cf58a34-8813-44b0-8d47-7ae9a2eac98c",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Deepto-TV.jpeg?alt=media&token=9cf58a34-8813-44b0-8d47-7ae9a2eac98c",
             "id": 30,
             "name": "Deepto TV",
             "stream_url": "http://185.21.217.31:7071/newserver/deeptotv/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7368,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Deepto-TV.jpeg?alt=media&token=9cf58a34-8813-44b0-8d47-7ae9a2eac98c"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Deepto-TV.jpeg?alt=media&token=9cf58a34-8813-44b0-8d47-7ae9a2eac98c"
           },
           "sub_33": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Desh-TV.jpeg?alt=media&token=d1b37ca3-3e53-4c78-a904-f95ac586273d",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Desh-TV.jpeg?alt=media&token=d1b37ca3-3e53-4c78-a904-f95ac586273d",
             "id": 33,
             "name": "Desh TV",
             "stream_url": "http://185.21.217.31:7071/newserver/deshtv/playlist.m3u8",
             "sub_name": "",
             "swift_id": 323,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Desh-TV.jpeg?alt=media&token=d1b37ca3-3e53-4c78-a904-f95ac586273d"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Desh-TV.jpeg?alt=media&token=d1b37ca3-3e53-4c78-a904-f95ac586273d"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/AAkash-TV.jpeg?alt=media&token=1db69777-74b9-4282-823c-853bcbb4f33f",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/AAkash-TV.jpeg?alt=media&token=1db69777-74b9-4282-823c-853bcbb4f33f",
             "id": 4,
             "name": "Aakash TV",
             "stream_url": "http://185.21.217.34:7071/tinybeta/aakash/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78602,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/AAkash-TV.jpeg?alt=media&token=1db69777-74b9-4282-823c-853bcbb4f33f"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/AAkash-TV.jpeg?alt=media&token=1db69777-74b9-4282-823c-853bcbb4f33f"
           },
           "sub_45": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Mohona-TV.jpeg?alt=media&token=e16d7d16-367b-4f90-b8e6-757882a4146b",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Mohona-TV.jpeg?alt=media&token=e16d7d16-367b-4f90-b8e6-757882a4146b",
             "id": 45,
             "name": "Mohona TV",
             "stream_url": "http://185.21.216.192:7071/newserver/mohana/playlist.m3u8",
             "sub_name": "",
             "swift_id": 328,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Mohona-TV.jpeg?alt=media&token=e16d7d16-367b-4f90-b8e6-757882a4146b"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Mohona-TV.jpeg?alt=media&token=e16d7d16-367b-4f90-b8e6-757882a4146b"
           },
           "sub_57": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Rang-TV.jpeg?alt=media&token=f2b862c7-2c36-42fa-a5ce-8b5e8249bb92",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Rang-TV.jpeg?alt=media&token=f2b862c7-2c36-42fa-a5ce-8b5e8249bb92",
             "id": 57,
             "name": "Rang TV",
             "stream_url": "http://185.21.216.192:7071/newserver/rangtv/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78595,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Rang-TV.jpeg?alt=media&token=f2b862c7-2c36-42fa-a5ce-8b5e8249bb92"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Rang-TV.jpeg?alt=media&token=f2b862c7-2c36-42fa-a5ce-8b5e8249bb92"
           },
           "sub_60": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Ruposhi-Bangla.jpeg?alt=media&token=21b15706-9973-4946-a58e-0c188cd639f6",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Ruposhi-Bangla.jpeg?alt=media&token=21b15706-9973-4946-a58e-0c188cd639f6",
             "id": 60,
             "name": "Ruposhi Bangla",
             "stream_url": "http://185.21.217.31:7071/newserver/ruposhibangla/playlist.m3u8",
             "sub_name": "",
             "swift_id": 331,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Ruposhi-Bangla.jpeg?alt=media&token=21b15706-9973-4946-a58e-0c188cd639f6"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Ruposhi-Bangla.jpeg?alt=media&token=21b15706-9973-4946-a58e-0c188cd639f6"
           },
           "sub_63": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Sangsad-TV.jpeg?alt=media&token=1d5ed063-29db-4c1e-9c8b-0180a26822ef",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Sangsad-TV.jpeg?alt=media&token=1d5ed063-29db-4c1e-9c8b-0180a26822ef",
             "id": 63,
             "name": "Sangsad TV",
             "stream_url": "http://185.21.216.192:7071/newserver/SANGSADTV/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78836,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Sangsad-TV.jpeg?alt=media&token=1d5ed063-29db-4c1e-9c8b-0180a26822ef"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Sangsad-TV.jpeg?alt=media&token=1d5ed063-29db-4c1e-9c8b-0180a26822ef"
           },
           "sub_70": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Tara-Muzik.jpeg?alt=media&token=47452c23-fa41-4a41-9cef-9beb55ad04d1",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Tara-Muzik.jpeg?alt=media&token=47452c23-fa41-4a41-9cef-9beb55ad04d1",
             "id": 70,
             "name": "Tara Muzik",
             "stream_url": "http://185.21.217.31:7071/newserver/taramuzik/playlist.m3u8",
             "sub_name": "",
             "swift_id": 332,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Bangla/Tara-Muzik.jpeg?alt=media&token=47452c23-fa41-4a41-9cef-9beb55ad04d1"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Tara-Muzik.jpeg?alt=media&token=47452c23-fa41-4a41-9cef-9beb55ad04d1"
           },
           "sub_upgrade": {
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
@@ -8693,73 +8693,73 @@
         "sub": {
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/4e.jpeg?alt=media&token=73e4e9b8-c714-4b15-83eb-9c68bdfcd6c6",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/4e.jpeg?alt=media&token=73e4e9b8-c714-4b15-83eb-9c68bdfcd6c6",
             "id": 2,
             "name": "4e",
             "stream_url": "http://185.21.216.192:7071/newserver/4E/playlist.m3u8",
             "sub_name": "",
             "swift_id": 653,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/4e.jpeg?alt=media&token=73e4e9b8-c714-4b15-83eb-9c68bdfcd6c6"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/4e.jpeg?alt=media&token=73e4e9b8-c714-4b15-83eb-9c68bdfcd6c6"
           },
           "sub_23": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Dave.jpeg?alt=media&token=27dc0a63-a182-4317-a160-5e662fcc8fd9",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Dave.jpeg?alt=media&token=27dc0a63-a182-4317-a160-5e662fcc8fd9",
             "id": 23,
             "name": "Dave",
             "stream_url": "http://185.21.216.192:7071/newserver/Dave/playlist.m3u8",
             "sub_name": "",
             "swift_id": 658,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Dave.jpeg?alt=media&token=27dc0a63-a182-4317-a160-5e662fcc8fd9"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Dave.jpeg?alt=media&token=27dc0a63-a182-4317-a160-5e662fcc8fd9"
           },
           "sub_27": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/dmax.jpeg?alt=media&token=c752e239-f400-4791-bf5a-71b0de112198",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/dmax.jpeg?alt=media&token=c752e239-f400-4791-bf5a-71b0de112198",
             "id": 27,
             "name": "DMAX",
             "stream_url": "http://185.21.216.194:7071/tinybeta/dmax/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78433,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/dmax.jpeg?alt=media&token=c752e239-f400-4791-bf5a-71b0de112198"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/dmax.jpeg?alt=media&token=c752e239-f400-4791-bf5a-71b0de112198"
           },
           "sub_33": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Good-Food.jpeg?alt=media&token=fa86bba1-7ef5-4919-913e-e2741aa58d0c",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Good-Food.jpeg?alt=media&token=fa86bba1-7ef5-4919-913e-e2741aa58d0c",
             "id": 33,
             "name": "Good Food",
             "stream_url": "http://185.21.216.159:7071/tinybeta/goodfood/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78797,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Good-Food.jpeg?alt=media&token=fa86bba1-7ef5-4919-913e-e2741aa58d0c"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Good-Food.jpeg?alt=media&token=fa86bba1-7ef5-4919-913e-e2741aa58d0c"
           },
           "sub_40": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/More-4.jpeg?alt=media&token=5c85cb5e-7b7b-4bec-8e7d-e11627cd5bc0",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/More-4.jpeg?alt=media&token=5c85cb5e-7b7b-4bec-8e7d-e11627cd5bc0",
             "id": 40,
             "name": "More 4",
             "stream_url": "http://185.21.216.192:7071/newserver/MORE4/playlist.m3u8",
             "sub_name": "",
             "swift_id": 657,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/More-4.jpeg?alt=media&token=5c85cb5e-7b7b-4bec-8e7d-e11627cd5bc0"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/More-4.jpeg?alt=media&token=5c85cb5e-7b7b-4bec-8e7d-e11627cd5bc0"
           },
           "sub_53": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/quest-tv.jpeg?alt=media&token=a37ecbc5-4006-4fc2-b367-844de173a034",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/quest-tv.jpeg?alt=media&token=a37ecbc5-4006-4fc2-b367-844de173a034",
             "id": 53,
             "name": "QUEST TV",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/quest/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78593,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/quest-tv.jpeg?alt=media&token=a37ecbc5-4006-4fc2-b367-844de173a034"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/quest-tv.jpeg?alt=media&token=a37ecbc5-4006-4fc2-b367-844de173a034"
           },
           "sub_82": {
             "auto_banner": false,
-            "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Watch.jpeg?alt=media&token=3258404e-b4e9-40f5-8ff6-4c26eba3cee7",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Watch.jpeg?alt=media&token=3258404e-b4e9-40f5-8ff6-4c26eba3cee7",
             "id": 82,
             "name": "Watch",
             "stream_url": "http://185.21.216.192:7071/newserver/Watch/playlist.m3u8",
             "sub_name": "",
             "swift_id": 662,
-            "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/UK/Watch.jpeg?alt=media&token=3258404e-b4e9-40f5-8ff6-4c26eba3cee7"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Watch.jpeg?alt=media&token=3258404e-b4e9-40f5-8ff6-4c26eba3cee7"
           },
           "sub_upgrade": {
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
