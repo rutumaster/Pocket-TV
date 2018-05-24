@@ -134,7 +134,7 @@
         "success_btn_name": "OPEN NOW",
         "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
         "success_title": "Success",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
@@ -151,7 +151,7 @@
         "success_btn_name": "OPEN NOW",
         "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
         "success_title": "Success",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FWorld-TV.jpeg?alt=media&token=6f778848-3cd1-449e-963c-bf068d264a8b",
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/World-TV.jpeg?alt=media&token=6f778848-3cd1-449e-963c-bf068d264a8b",
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
@@ -186,7 +186,7 @@
       "main_1": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
         "id": 1,
         "name": "Sports Live",
         "sub": {
@@ -265,19 +265,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
       },
       "main_10": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FAustraliya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9",
         "id": 10,
         "name": "Australia Live",
         "sub": {
@@ -326,19 +326,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FAustraliya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9"
       },
       "main_11": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FGermany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3",
         "id": 11,
         "name": "Germany Live",
         "sub": {
@@ -387,19 +387,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FGermany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3"
       },
       "main_12": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSoudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60",
         "id": 12,
         "name": "Soudi Arabia Live",
         "sub": {
@@ -468,19 +468,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSoudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60"
       },
       "main_13": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPhilippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50",
         "id": 13,
         "name": "Philippines Live",
         "sub": {
@@ -529,19 +529,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPhilippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50"
       },
       "main_14": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIndonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366",
         "id": 14,
         "name": "Indonesia Live",
         "sub": {
@@ -590,19 +590,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIndonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366"
       },
       "main_15": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSrilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33",
         "id": 15,
         "name": "Srilanka Live",
         "sub": {
@@ -651,19 +651,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSrilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33"
       },
       "main_16": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FAfghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17",
         "id": 16,
         "name": "Afghan Live",
         "sub": {
@@ -712,19 +712,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FAfghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17"
       },
       "main_17": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FFrance-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5",
         "id": 17,
         "name": "France Live",
         "sub": {
@@ -793,19 +793,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FFrance-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5"
       },
       "main_18": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FBelgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f",
         "id": 18,
         "name": "Belgium Live",
         "sub": {
@@ -854,19 +854,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FBelgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f"
       },
       "main_19": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIrani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf",
         "id": 19,
         "name": "Irani Live",
         "sub": {
@@ -915,19 +915,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIrani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf"
       },
       "main_2": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIndia-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
         "id": 2,
         "name": "Indian Live",
         "sub": {
@@ -1056,19 +1056,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FIndia-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb"
       },
       "main_20": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FMauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f",
         "id": 20,
         "name": "Mauritius Live",
         "sub": {
@@ -1117,19 +1117,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FMauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f"
       },
       "main_21": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPortugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d",
         "id": 21,
         "name": "Portugal Live",
         "sub": {
@@ -1178,19 +1178,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPortugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d"
       },
       "main_22": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FItaly-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e",
         "id": 22,
         "name": "Italy Live",
         "sub": {
@@ -1249,19 +1249,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FItaly-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e"
       },
       "main_23": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FTurkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12",
         "id": 23,
         "name": "Turkish Live",
         "sub": {
@@ -1350,19 +1350,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FTurkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12"
       },
       "main_28": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FWild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
         "id": 28,
         "name": "Wild Life/Science Live",
         "sub": {
@@ -1391,19 +1391,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FWild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242"
       },
       "main_29": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FReligious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
         "id": 29,
         "name": "Religious Live",
         "sub": {
@@ -1452,19 +1452,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FReligious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
       },
       "main_3": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a",
         "id": 3,
         "name": "Pakistani Live",
         "sub": {
@@ -1593,19 +1593,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a"
       },
       "main_30": {
         "auto_banner": true,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSongs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d",
         "id": 30,
         "name": "Songs",
         "playlist_id": "PL4uUU2x5ZgR1JOlcY9SZB94MW6fBE8ovU",
@@ -5017,12 +5017,12 @@
           }
         },
         "sub_name": "Songs",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSongs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d"
       },
       "main_31": {
         "auto_banner": true,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FMovies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d",
         "id": 31,
         "name": "Movies",
         "playlist_id": "UUyoXW-Dse7fURq30EWl_CUA",
@@ -8107,14 +8107,14 @@
           }
         },
         "sub_name": "",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FMovies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
       },
       "main_33": {
         "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FTVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
         "id": 33,
         "initial_btn_name": "SETUP TV",
         "initial_desc": "(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
@@ -8124,7 +8124,7 @@
         "success_btn_name": "OPEN NOW",
         "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
         "success_title": "Success",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FTVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
@@ -8132,7 +8132,7 @@
       "main_34": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FKidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
         "id": 34,
         "name": "Kids Zone Live",
         "sub": {
@@ -8201,14 +8201,14 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FKidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
       },
       "main_35": {
         "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
@@ -8225,7 +8225,7 @@
         "success_btn_name": "OPEN NOW",
         "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
         "success_title": "Success",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
@@ -8233,7 +8233,7 @@
       "main_4": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FUSA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11",
         "id": 4,
         "name": "American Live",
         "sub": {
@@ -8312,19 +8312,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FUSA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11"
       },
       "main_5": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSouth-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4",
         "id": 5,
         "name": "South India Live",
         "sub": {
@@ -8423,19 +8423,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FSouth-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4"
       },
       "main_6": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPunjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e",
         "id": 6,
         "name": "Punjabi Live",
         "sub": {
@@ -8524,19 +8524,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPunjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e"
       },
       "main_7": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FBangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149",
         "id": 7,
         "name": "Bangla Live",
         "sub": {
@@ -8675,19 +8675,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FBangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149"
       },
       "main_8": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FUK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808",
         "id": 8,
         "name": "UK Live",
         "sub": {
@@ -8776,19 +8776,19 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FUK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808"
       },
       "main_9": {
         "auto_banner": false,
         "auto_thumbnail": false,
-        "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FNepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444",
+        "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444",
         "id": 9,
         "name": "Nepal Live",
         "sub": {
@@ -8837,14 +8837,14 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FPro_PocketTV-Logo.jpeg?alt=media&token=063bb2ee-6d82-4a60-a430-5903e775e661",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/All%20TV%2FNepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444"
+        "thumbnail_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444"
       }
     },
     "Chromecast_Setting": {
