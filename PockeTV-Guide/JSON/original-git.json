@@ -83,7 +83,7 @@
       "progress_install_message": "Install Now"
     },
     "App_Information_Popup": {
-      "info_guide_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FRemove-Ads.jpeg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+      "info_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
       "info_initial_description": "Are you tired for lots of Ads?\nwe provide support of \"Remove Ads\".\nHere you can remove ads permanently from app.\nFor that you have to follow two simple steps :\n\n(1). Open menu and select \"Remove Ads\" option.\n(2). Select first button shown in above image and do payment.",
       "info_remind_id": "1",
       "info_title": "Remove Ads Guidance"
@@ -8849,7 +8849,7 @@
     },
     "Chromecast_Setting": {
       "cast_agent": "09",
-      "cast_guide_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FChromecast_Notification.jpeg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
+      "cast_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Chromecast_Notification.jpg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
       "cast_package_name": "com.instantbits.cast.webvideo",
       "cast_referer": "https://www.metube.id",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
@@ -8893,7 +8893,7 @@
       "sub_P_Tab": 4
     },
     "Donation_Settings": {
-      "donation_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FDonate-us---Copy.jpeg?alt=media&token=63e799ba-079c-4838-86fb-bf424302a545",
+      "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
       "donation_title": "Donate Us",
       "donation_url": "https://www.paypal.me/PocketTV",
       "initial_donation_message": "If you are Satisfied with Pocket TV, Donate Us and Help to Improve.\nDonation is the key to keep our app running and active. Please click on the \"DONATE\" button.\nEvery single bit of donations is very important to us and give your hands to us. \n\nThank you\nPocket TV Developer",
@@ -9048,7 +9048,7 @@
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isOtherPlayerOption": true,
       "is_Inapp_Purchase": true,
-      "other_player_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FPlayer-select.jpeg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+      "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
       "parsing_from_package_id": "com.rutu.master.pockettvguide",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
