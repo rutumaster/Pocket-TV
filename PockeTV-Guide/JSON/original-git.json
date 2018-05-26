@@ -991,16 +991,6 @@
             "swift_id": 78366,
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/dabang-sabgroup.jpeg?alt=media&token=1595cf42-c51c-48c2-9ad5-2eceba208367"
           },
-          "sub_127": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/epic_tv.jpeg?alt=media&token=5c8b592d-8ec0-4181-bf59-9cc8d8a2f0c2",
-            "id": 127,
-            "name": "Epic",
-            "stream_url": "http://185.21.217.31:7071/newserver/epic/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 415,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/epic_tv.jpeg?alt=media&token=5c8b592d-8ec0-4181-bf59-9cc8d8a2f0c2"
-          },
           "sub_129": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/republic-tv.jpeg?alt=media&token=ee3bf63e-e5c1-4cce-84d9-1cd553b6de8e",
