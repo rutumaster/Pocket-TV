@@ -23659,7 +23659,7 @@
       "is_texture_centercrop" : false,
       "package_Id" : "com.rutu.master.pockettvguide",
       "share_message" : "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.pockettvguide",
-      "texture_Bg_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture%2Ft5.png?alt=media&token=bec9d375-854f-4c26-abfa-3d61718788cd"
+      "texture_Bg_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv" : {
       "app_already_dialog_message" : "App already Install please find it and open it.",
