@@ -223,7 +223,6 @@
           "sub_59": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/mutv.jpeg?alt=media&token=f56ab776-dedb-4131-8392-50a989c046cc",
-            "id": 59,
             "name": "MUTV",
             "stream_url": "http://185.21.217.34:7071/tinybeta/MUTV/playlist.m3u8",
             "sub_name": "",
@@ -234,7 +233,7 @@
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/Al-Kass-SP-1.jpeg?alt=media&token=0c598098-d53f-40f3-81e2-c3a6ae68bac4",
             "id": 7,
-            "name": "Al Kass Sports 4",
+            "name": "7 One",
             "stream_url": "http://185.21.216.159:7071/tinybeta/alkass4/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7592,
@@ -304,7 +303,6 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Australia/Aus-Plus.jpeg?alt=media&token=58a26b50-f560-4e62-9fff-b9624b7a7266",
-            "id": 8,
             "name": "Aus Plus",
             "stream_url": "http://185.21.217.31:7071/newserver/ausplus/playlist.m3u8",
             "sub_name": "",
@@ -406,7 +404,6 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Soudi%20Arabia/Abudhabi-AlQula.jpeg?alt=media&token=7b58386e-7815-43d8-919a-442e8ccefe88",
-            "id": 1,
             "name": "Abudhabi Al Qula",
             "stream_url": "http://185.21.217.31:7071/newserver/AbuDhabiALOula/playlist.m3u8",
             "sub_name": "",
@@ -873,7 +870,6 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/IRANI/IRIB-Salamat.jpeg?alt=media&token=fa919a7f-879c-471c-87a8-ce878eeb4753",
-            "id": 19,
             "name": "IRIB Salamat",
             "stream_url": "http://185.21.216.159:7071/tinybeta/iribsalamat/playlist.m3u8",
             "sub_name": "",
@@ -934,7 +930,6 @@
           "sub_101": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/AAstha-TV.jpeg?alt=media&token=13032026-a493-4ad8-b7f9-6639ef13112c",
-            "id": 101,
             "name": "AAstha TV",
             "stream_url": "http://185.21.217.31:7071/newserver/aasthatv/playlist.m3u8",
             "sub_name": "",
@@ -984,7 +979,6 @@
           "sub_126": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/dabang-sabgroup.jpeg?alt=media&token=1595cf42-c51c-48c2-9ad5-2eceba208367",
-            "id": 126,
             "name": "Dabang Sabgroup",
             "stream_url": "http://185.21.217.31:7071/newserver/dabang/playlist.m3u8",
             "sub_name": "",
@@ -1024,7 +1018,6 @@
           "sub_97": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b",
-            "id": 97,
             "name": "Zing IN",
             "stream_url": "http://185.21.217.31:7071/newserver/zingin/playlist.m3u8",
             "sub_name": "",
@@ -1146,7 +1139,6 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Portugal/Baby-TV.jpeg?alt=media&token=e989ca45-e06a-4bb4-ac86-fba304231e92",
-            "id": 4,
             "name": "Baby TV",
             "stream_url": "http://185.21.216.137:7071/tinybeta/babytvpt/playlist.m3u8",
             "sub_name": "",
@@ -1197,7 +1189,6 @@
           "sub_31": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Italy/Studio-Universal.jpeg?alt=media&token=dcbd95a8-6e4c-43cc-87e3-311eb2a4df37",
-            "id": 31,
             "name": "Studio Universal",
             "stream_url": "http://185.21.216.137:7071/tinybeta/studiouniversal/playlist.m3u8",
             "sub_name": "",
@@ -1491,7 +1482,6 @@
           "sub_49": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/JAG-TV.jpeg?alt=media&token=b5432987-3b8b-465c-ac9d-13093e5e0a63",
-            "id": 49,
             "name": "Jaag TV",
             "stream_url": "http://113.203.232.3:1935/live/jaagstream/playlist.m3u8",
             "sub_name": "",
@@ -1511,7 +1501,6 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/AONA-Channel.jpeg?alt=media&token=b43a4ca8-1ba3-47bc-8346-1325b2a9aa0e",
-            "id": 6,
             "name": "Apna Channel",
             "stream_url": "http://185.21.216.159:7071/tinybeta/apna/playlist.m3u8",
             "sub_name": "",
@@ -8129,7 +8118,6 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Baby-tv.jpeg?alt=media&token=c86889e4-7d65-4943-8fe7-0bf75a2edc0e",
-            "id": 1,
             "name": "Baby TV",
             "stream_url": "http://185.21.216.159:7071/tinybeta/babytv/playlist.m3u8",
             "sub_name": "",
@@ -8139,7 +8127,6 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/chutti-tv-tamil.jpeg?alt=media&token=f970cf90-62fc-4bb9-b0c3-8e1ef4e3cbcc",
-            "id": 14,
             "name": "Chutti TV Tamil",
             "stream_url": "http://185.21.216.192:7071/newserver/chuttitv/playlist.m3u8",
             "sub_name": "",
@@ -8256,7 +8243,6 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/USA/FX-tv.jpeg?alt=media&token=56e098a5-3820-46d5-b988-8282685d526b",
-            "id": 16,
             "name": "FX TV",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/fxusa/playlist.m3u8",
             "sub_name": "",
@@ -8266,7 +8252,6 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/USA/fxx.jpeg?alt=media&token=8acf7c84-f4f3-49dc-beb3-070acf69bd04",
-            "id": 17,
             "name": "FXX TV",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/fxx/playlist.m3u8",
             "sub_name": "",
@@ -8347,7 +8332,6 @@
           "sub_28": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Jaihind-TV.jpeg?alt=media&token=ece87e6b-b4ae-43ec-8128-4720a56692ae",
-            "id": 28,
             "name": "Jaihind TV",
             "stream_url": "http://185.21.216.182:7071/tinybeta/JaihindTV/playlist.m3u8",
             "sub_name": "",
@@ -8417,7 +8401,6 @@
           "sub_99": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Vissa-TV.jpeg?alt=media&token=6a5f53bd-4c48-4ead-b2a7-fb1d86f6b93a",
-            "id": 99,
             "name": "Vissa TV",
             "stream_url": "http://185.21.216.182:7071/tinybeta/TeleuguVissaTV/playlist.m3u8",
             "sub_name": "",
@@ -8468,7 +8451,6 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Punjabi/Desi-Beats-HD.jpeg?alt=media&token=c20a6b6e-cdd1-4a00-aec6-81f10b48ecb7",
-            "id": 12,
             "name": "Desi Beats HD",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/desibeats/playlist.m3u8",
             "sub_name": "",
@@ -8478,7 +8460,6 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Punjabi/Garv-Punjabi.jpeg?alt=media&token=a2f43914-efaf-4f2c-a4c6-57214086d6e7",
-            "id": 15,
             "name": "Garv Punjabi",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/garvpunjabi/playlist.m3u8",
             "sub_name": "",
@@ -8569,7 +8550,6 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Bangla-Vision.jpeg?alt=media&token=198b95e1-6dfd-4df0-b0ca-b95d2c4dce9c",
-            "id": 16,
             "name": "Bangla Vision",
             "stream_url": "http://185.21.217.31:7071/newserver/banglavision/playlist.m3u8",
             "sub_name": "",
@@ -8619,7 +8599,6 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/AAkash-TV.jpeg?alt=media&token=1db69777-74b9-4282-823c-853bcbb4f33f",
-            "id": 4,
             "name": "Aakash TV",
             "stream_url": "http://185.21.217.34:7071/tinybeta/aakash/playlist.m3u8",
             "sub_name": "",
@@ -8740,7 +8719,6 @@
           "sub_33": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Good-Food.jpeg?alt=media&token=fa86bba1-7ef5-4919-913e-e2741aa58d0c",
-            "id": 33,
             "name": "Good Food",
             "stream_url": "http://185.21.216.159:7071/tinybeta/goodfood/playlist.m3u8",
             "sub_name": "",
@@ -8760,7 +8738,6 @@
           "sub_53": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/quest-tv.jpeg?alt=media&token=a37ecbc5-4006-4fc2-b367-844de173a034",
-            "id": 53,
             "name": "QUEST TV",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/quest/playlist.m3u8",
             "sub_name": "",
