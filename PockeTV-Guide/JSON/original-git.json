@@ -1462,7 +1462,6 @@
           "sub_26": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Dhanak-tv.jpeg?alt=media&token=86214bcb-7e92-489a-b5cb-6883c6524f4e",
-            "id": 26,
             "name": "Dhanak TV",
             "stream_url": "http://server4.servep2p.com:7071/tinybeta/dhanaktv/playlist.m3u8",
             "sub_name": "",
@@ -1472,7 +1471,6 @@
           "sub_31": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Falak-tv.jpeg?alt=media&token=96139b19-96b2-4abf-89b0-710ee7bad00a",
-            "id": 31,
             "name": "Falak TV",
             "stream_url": "http://185.21.216.159:7071/tinybeta/falaktv/playlist.m3u8",
             "sub_name": "",
