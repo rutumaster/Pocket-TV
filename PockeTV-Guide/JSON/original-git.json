@@ -8904,7 +8904,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 0,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2FWorld.png?alt=media&token=92a62012-f679-4bdc-87a9-5ec8e30fa74e",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/World.png?alt=media&token=92a62012-f679-4bdc-87a9-5ec8e30fa74e",
         "initial_desc": "20+ Country and Regional Channels",
         "page_Color": "#586162",
         "title": "Worldwide"
@@ -8913,7 +8913,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 1,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2FSports-3.png?alt=media&token=197a585d-9e64-4395-af42-5c2fe568c57b",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/Sports-3.png?alt=media&token=197a585d-9e64-4395-af42-5c2fe568c57b",
         "initial_desc": "All Sports Live Channels",
         "page_Color": "#2977b9",
         "title": "Sports"
@@ -8922,7 +8922,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 2,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Fnews-2.png?alt=media&token=b5f5910b-18c0-4a17-a066-7803edcec6e4",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/news-2.png?alt=media&token=b5f5910b-18c0-4a17-a066-7803edcec6e4",
         "initial_desc": "All News Live Channels",
         "page_Color": "#a90000",
         "title": "News"
@@ -8931,7 +8931,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 3,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Fentertainment-2.png?alt=media&token=a15ca4c0-19ee-4509-b279-17214f718a6f",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/entertainment-2.png?alt=media&token=a15ca4c0-19ee-4509-b279-17214f718a6f",
         "initial_desc": "All Entertainment Live Channels",
         "page_Color": "#2da1be",
         "title": "Entertainment"
@@ -8940,7 +8940,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 4,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Fwild-life--2.png?alt=media&token=82e30eb3-3838-4692-bdf4-04f511fd414e",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/wild-life--2.png?alt=media&token=82e30eb3-3838-4692-bdf4-04f511fd414e",
         "initial_desc": "All Wild Life / Science Live Channels",
         "page_Color": "#8eb021",
         "title": "Wild Life / Science"
@@ -8949,7 +8949,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 5,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2FReligious.png?alt=media&token=42aa5228-c306-4e4f-bd81-a5ae351956bb",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/Religious.png?alt=media&token=42aa5228-c306-4e4f-bd81-a5ae351956bb",
         "initial_desc": "All Relegious Live Channels",
         "page_Color": "#ffa800",
         "title": "Relegious"
@@ -8958,7 +8958,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 6,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2FMovie-2.png?alt=media&token=b86c3a10-d37b-4ce2-ab8e-469260bdee0a",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/Movie-2.png?alt=media&token=b86c3a10-d37b-4ce2-ab8e-469260bdee0a",
         "initial_desc": "All Movies Free",
         "page_Color": "#5b48a2",
         "title": "Movies"
@@ -8967,7 +8967,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 7,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Fsongs-2.png?alt=media&token=16d5ad1b-9a8f-4c17-8fd7-780022bcd0d2",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/songs-2.png?alt=media&token=16d5ad1b-9a8f-4c17-8fd7-780022bcd0d2",
         "initial_desc": "All Songs Free",
         "page_Color": "#79302a",
         "title": "Songs"
@@ -8976,7 +8976,7 @@
         "dot_Active_Color": "#C8FFFFFF",
         "dot_InActive_Color": "#4B000000",
         "id": 8,
-        "img_Url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Fkidz-2.png?alt=media&token=8cb93373-53a2-4f83-9124-32823407b16d",
+        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/kidz-2.png?alt=media&token=8cb93373-53a2-4f83-9124-32823407b16d",
         "initial_desc": "All Kids Live Channels",
         "page_Color": "#b7a271",
         "title": "Kids Zone"
@@ -9075,7 +9075,7 @@
       "is_texture_centercrop": false,
       "package_Id": "com.rutu.master.pockettvguide",
       "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.pockettvguide",
-      "texture_Bg_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Ftexture%2Ft5.png?alt=media&token=bec9d375-854f-4c26-abfa-3d61718788cd"
+      "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture%2Ft5.png?alt=media&token=bec9d375-854f-4c26-abfa-3d61718788cd"
     },
     "Setup_Tv": {
       "app_already_dialog_message": "App already Install please find it and open it.",
