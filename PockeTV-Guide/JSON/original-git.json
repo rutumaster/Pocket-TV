@@ -1589,7 +1589,7 @@
         "sub": {
           "sub_1": {
             "auto_banner": true,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Gujarati.jpeg?alt=media&token=13c416d5-a599-45a1-9ffb-a8c71a71fdfd",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg?alt=media&token=13c416d5-a599-45a1-9ffb-a8c71a71fdfd",
             "id": 1,
             "name": "Gujarati Songs",
             "playlist_id": "UUZRIvleceNUxAQpVQdQwLAg",
@@ -1944,7 +1944,7 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Gujarati.jpeg?alt=media&token=13c416d5-a599-45a1-9ffb-a8c71a71fdfd"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg?alt=media&token=13c416d5-a599-45a1-9ffb-a8c71a71fdfd"
           },
           "sub_2": {
             "auto_banner": true,
@@ -2098,7 +2098,7 @@
                     "name": "Nitin Mukesh",
                     "playlist_id": "PLQnkAG81IZS3-BkQveJUYSsP_0VOMvrdP",
                     "sub_name": "",
-                    "thumbnail_url": "http://www.khabar.com/Mukesh_1667_300.jpeg?w=400"
+                    "thumbnail_url": "http://www.khabar.com/Mukesh_1667_300.JPG?w=400"
                   },
                   "sab_17": {
                     "auto_banner": true,
@@ -2758,7 +2758,7 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Hindi.jpeg?alt=media&token=ceaa84e3-18da-4095-8a9d-0b587073ffa9"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Hindi.jpg?alt=media&token=ceaa84e3-18da-4095-8a9d-0b587073ffa9"
           },
           "sub_3": {
             "auto_banner": true,
@@ -3335,11 +3335,11 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/English.jpeg?alt=media&token=41def6db-6ecc-49b3-9da0-c52774d505c0"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/English.jpg?alt=media&token=41def6db-6ecc-49b3-9da0-c52774d505c0"
           },
           "sub_4": {
             "auto_banner": true,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Punjabi.jpeg?alt=media&token=c2a74138-6b92-43cd-9577-2611a2180492",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Punjabi.jpg?alt=media&token=c2a74138-6b92-43cd-9577-2611a2180492",
             "id": 4,
             "name": "Punjabi Songs",
             "playlist_id": "PL-oM5qTjmK2vxdTsj2Xghu5fjxhtuMaxo",
@@ -3540,7 +3540,7 @@
                     "name": "SURJIT SINGH BINDERAKHIA",
                     "playlist_id": "PLqrHpA94UkXKZBP9P1knAbRHdg6-f3cRR",
                     "sub_name": "",
-                    "thumbnail_url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/15623847_596459217211209_805863790330511360_n.jpeg?ig_cache_key=MTQxOTExNzAxNTczNDI3MTMwNA%3D%3D.2"
+                    "thumbnail_url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/15623847_596459217211209_805863790330511360_n.jpg?ig_cache_key=MTQxOTExNzAxNTczNDI3MTMwNA%3D%3D.2"
                   },
                   "sub_15": {
                     "auto_banner": true,
@@ -3610,7 +3610,7 @@
                     "name": "AMRINDER GILL",
                     "playlist_id": "PLSfDruz8NTbybqj3_xRvmvjwZ3-iy3Axj",
                     "sub_name": "",
-                    "thumbnail_url": "https://www.partymap.in/amrindergill/amrindergill.jpeg?1472385604"
+                    "thumbnail_url": "https://www.partymap.in/amrindergill/amrindergill.jpg?1472385604"
                   },
                   "sub_4": {
                     "auto_banner": true,
@@ -3840,11 +3840,11 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Punjabi.jpeg?alt=media&token=c2a74138-6b92-43cd-9577-2611a2180492"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Punjabi.jpg?alt=media&token=c2a74138-6b92-43cd-9577-2611a2180492"
           },
           "sub_5": {
             "auto_banner": true,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Bhojpuri.jpeg?alt=media&token=52274126-06eb-4a48-82ec-ae6b37e745a2",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Bhojpuri.jpg?alt=media&token=52274126-06eb-4a48-82ec-ae6b37e745a2",
             "id": 5,
             "name": "Bhojpuri Songs",
             "playlist_id": "PLgT6KlZuvjnkbaXWosnyTcRxXc5yEIpjg",
@@ -4035,7 +4035,7 @@
                     "name": "Bharat Sharma Vyas",
                     "playlist_id": "PLTgvwj622tUjMltquVPFEdCC-hZhL_GLi",
                     "sub_name": "",
-                    "thumbnail_url": "https://sites.google.com/site/vermafriendsgroup/_/rsrc/1307080476757/home/bhojpuri-movies/bharat-sharma-songs/bharat_s.jpeg?height=200&width=200"
+                    "thumbnail_url": "https://sites.google.com/site/vermafriendsgroup/_/rsrc/1307080476757/home/bhojpuri-movies/bharat-sharma-songs/bharat_s.jpg?height=200&width=200"
                   },
                   "sub_10": {
                     "auto_banner": true,
@@ -4075,7 +4075,7 @@
                     "name": "Ajay Pandey",
                     "playlist_id": "PLVhcL6zrb7jFUnMZOtCHtyi45mCSY7r7D",
                     "sub_name": "",
-                    "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/maxresdefault.jpeg?alt=media&token=9c2f30a3-7194-4804-9a39-f8711fab2777"
+                    "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/maxresdefault.jpg?alt=media&token=9c2f30a3-7194-4804-9a39-f8711fab2777"
                   },
                   "sub_14": {
                     "auto_banner": true,
@@ -4135,7 +4135,7 @@
                     "name": "Anjali Jain",
                     "playlist_id": "PLqEXCqQ0HLN4rXLpB5aPYfPBNlIdaPg8W",
                     "sub_name": "",
-                    "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/maxresdefault1.jpeg?alt=media&token=4ca50778-aa56-4ece-8115-81dbd5c703ac"
+                    "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/maxresdefault1.jpg?alt=media&token=4ca50778-aa56-4ece-8115-81dbd5c703ac"
                   },
                   "sub_2": {
                     "auto_banner": true,
@@ -4235,7 +4235,7 @@
                     "name": "Dinesh Lal Yadav",
                     "playlist_id": "PLJ3M6AoVR-gY-SvR1ipSkzjvakrXuuEo2",
                     "sub_name": "",
-                    "thumbnail_url": "https://www.pinkvilla.com/files/styles/contentpreview/public/Dinesh_Lal_Yadav_0.jpeg?itok=PD5edYjz"
+                    "thumbnail_url": "https://www.pinkvilla.com/files/styles/contentpreview/public/Dinesh_Lal_Yadav_0.jpg?itok=PD5edYjz"
                   },
                   "sub_6": {
                     "auto_banner": true,
@@ -4279,7 +4279,7 @@
                   }
                 },
                 "sub_name": "",
-                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Singers.jpeg?alt=media&token=02d1d12d-5de9-474a-be2e-7208d48608f4"
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Singers.jpg?alt=media&token=02d1d12d-5de9-474a-be2e-7208d48608f4"
               },
               "main_4": {
                 "auto_banner": true,
@@ -4395,11 +4395,11 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Bhojpuri.jpeg?alt=media&token=52274126-06eb-4a48-82ec-ae6b37e745a2"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Bhojpuri.jpg?alt=media&token=52274126-06eb-4a48-82ec-ae6b37e745a2"
           },
           "sub_6": {
             "auto_banner": true,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Telugu.jpeg?alt=media&token=ec56db4e-47df-4c83-8ee9-d9ecbc24b408",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Telugu.jpg?alt=media&token=ec56db4e-47df-4c83-8ee9-d9ecbc24b408",
             "id": 6,
             "name": "Telugu Songs",
             "playlist_id": "PL50745DEC00F50131",
@@ -4834,7 +4834,7 @@
                   }
                 },
                 "sub_name": "",
-                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/south%2FSouth.jpeg?alt=media&token=a7eb3bed-34ae-4c8e-9dfb-8bd427329353"
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/south%2FSouth.jpg?alt=media&token=a7eb3bed-34ae-4c8e-9dfb-8bd427329353"
               },
               "sub_30": {
                 "auto_banner": true,
@@ -4990,7 +4990,7 @@
               }
             },
             "sub_name": "",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Songs/Telugu.jpeg?alt=media&token=ec56db4e-47df-4c83-8ee9-d9ecbc24b408"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Telugu.jpg?alt=media&token=ec56db4e-47df-4c83-8ee9-d9ecbc24b408"
           }
         },
         "sub_name": "Songs",
