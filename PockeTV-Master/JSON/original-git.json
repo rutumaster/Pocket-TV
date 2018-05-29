@@ -9907,6 +9907,527 @@
         "sub_name" : "Channels",
         "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg"
       },
+      "main_34" : {
+        "auto_banner" : true,
+        "auto_thumbnail" : false,
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
+        "id" : 34,
+        "name" : "Kids Zone Live",
+        "sub" : {
+          "sub_1" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Baby-tv.jpeg?alt=media&token=c86889e4-7d65-4943-8fe7-0bf75a2edc0e",
+            "id" : 1,
+            "name" : "Baby TV",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/babytv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7364,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Baby-tv.jpeg?alt=media&token=c86889e4-7d65-4943-8fe7-0bf75a2edc0e"
+          },
+          "sub_10" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Telugu.jpeg?alt=media&token=a90541c7-c4a5-4752-8098-ad21cc304a7a",
+            "id" : 10,
+            "name" : "Cartoon Network Telugu",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/cntelugu/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78722,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Telugu.jpeg?alt=media&token=a90541c7-c4a5-4752-8098-ad21cc304a7a"
+          },
+          "sub_11" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoon-network-tamil.jpeg?alt=media&token=fe536826-0bae-4838-9ec2-2347e8d38819",
+            "id" : 11,
+            "name" : "Cartoon Network Tamil",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/cntamil/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78684,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoon-network-tamil.jpeg?alt=media&token=fe536826-0bae-4838-9ec2-2347e8d38819"
+          },
+          "sub_12" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbbc.jpeg?alt=media&token=0b2a277b-7630-411e-9a64-952f2fdd0aa8",
+            "id" : 12,
+            "name" : "cbbc",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/CBBC/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78359,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbbc.jpeg?alt=media&token=0b2a277b-7630-411e-9a64-952f2fdd0aa8"
+          },
+          "sub_13" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbeebies.jpeg?alt=media&token=842094ad-1af7-4153-a716-8ef8c40e9607",
+            "id" : 13,
+            "name" : "Cbeebies",
+            "stream_url" : "http://server4.servep2p.com:7071/tinybeta/cbeebies/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78590,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbeebies.jpeg?alt=media&token=842094ad-1af7-4153-a716-8ef8c40e9607"
+          },
+          "sub_14" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/chutti-tv-tamil.jpeg?alt=media&token=f970cf90-62fc-4bb9-b0c3-8e1ef4e3cbcc",
+            "id" : 14,
+            "name" : "Chutti TV Tamil",
+            "stream_url" : "http://185.21.216.192:7071/newserver/chuttitv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78687,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/chutti-tv-tamil.jpeg?alt=media&token=f970cf90-62fc-4bb9-b0c3-8e1ef4e3cbcc"
+          },
+          "sub_15" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids.jpeg?alt=media&token=6e2d3e12-499c-45f4-8b42-c160ee9db111",
+            "id" : 15,
+            "name" : "Discovery Kids",
+            "stream_url" : "http://185.21.217.34:7071/tinybeta/discoverykids/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78470,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids.jpeg?alt=media&token=6e2d3e12-499c-45f4-8b42-c160ee9db111"
+          },
+          "sub_16" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids-tamil.jpeg?alt=media&token=e5d059ed-8831-4d66-96d9-d4b36e02fcb0",
+            "id" : 16,
+            "name" : "Discovery Kids Tamil",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/discoverykidstm/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78685,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids-tamil.jpeg?alt=media&token=e5d059ed-8831-4d66-96d9-d4b36e02fcb0"
+          },
+          "sub_17" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Channel.jpeg?alt=media&token=75e89e89-21c4-41c2-88ac-ce818bfff38b",
+            "id" : 17,
+            "name" : "Disney Channel",
+            "stream_url" : "http://185.21.216.192:7071/newserver/Disney/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 309,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Channel.jpeg?alt=media&token=75e89e89-21c4-41c2-88ac-ce818bfff38b"
+          },
+          "sub_18" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Hindi.jpeg?alt=media&token=8effa57a-7ff9-4246-8fa3-59ff7ac6cd0a",
+            "id" : 18,
+            "name" : "Disney Hindi",
+            "stream_url" : "http://185.21.216.153:7071/tinybeta/disneyhindi/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7599,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Hindi.jpeg?alt=media&token=8effa57a-7ff9-4246-8fa3-59ff7ac6cd0a"
+          },
+          "sub_19" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Junior.jpeg?alt=media&token=bbb4f2a8-baa1-4609-8efc-bc1e6d915b17",
+            "id" : 19,
+            "name" : "Disney Junior",
+            "stream_url" : "http://185.21.216.192:7071/newserver/DisneyJR/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79236,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Junior.jpeg?alt=media&token=bbb4f2a8-baa1-4609-8efc-bc1e6d915b17"
+          },
+          "sub_2" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/bein-junior.jpeg?alt=media&token=1575d7e0-b1fd-4957-a022-91d771ecfd53",
+            "id" : 2,
+            "name" : "Bein Junior",
+            "stream_url" : "http://185.21.216.194:7071/tinybeta/beinjr/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79116,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/bein-junior.jpeg?alt=media&token=1575d7e0-b1fd-4957-a022-91d771ecfd53"
+          },
+          "sub_20" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-XD.jpeg?alt=media&token=3003e8ff-021d-4189-b017-6ba7cb1f1c47",
+            "id" : 20,
+            "name" : "Disney XD",
+            "stream_url" : "http://185.21.216.192:7071/newserver/DisneyXD/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 313,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-XD.jpeg?alt=media&token=3003e8ff-021d-4189-b017-6ba7cb1f1c47"
+          },
+          "sub_21" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Hungama-TV.jpeg?alt=media&token=fd5e9c3b-fd61-41fd-b786-9f20c05b020c",
+            "id" : 21,
+            "name" : "Hungama TV",
+            "stream_url" : "http://185.21.216.153:7071/tinybeta/hungama/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7362,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Hungama-TV.jpeg?alt=media&token=fd5e9c3b-fd61-41fd-b786-9f20c05b020c"
+          },
+          "sub_22" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Jeem-Tv.jpeg?alt=media&token=4640ef83-b273-41bd-bc07-10fd742d138b",
+            "id" : 22,
+            "name" : "Jeem TV",
+            "stream_url" : "http://185.21.217.34:7071/tinybeta/jeemtv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78618,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Jeem-Tv.jpeg?alt=media&token=4640ef83-b273-41bd-bc07-10fd742d138b"
+          },
+          "sub_23" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/khushi-tv-telugu.jpeg?alt=media&token=00422abe-85dc-4f69-bf0c-70c984a36458",
+            "id" : 23,
+            "name" : "Khushi TV Telugu",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/khushitv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78723,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/khushi-tv-telugu.jpeg?alt=media&token=00422abe-85dc-4f69-bf0c-70c984a36458"
+          },
+          "sub_24" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Kix-tv.jpeg?alt=media&token=da806561-8e11-475d-b4a4-282132c5d3f2",
+            "id" : 24,
+            "name" : "Kix TV",
+            "stream_url" : "http://185.21.216.192:7071/newserver/kix/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7678,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Kix-tv.jpeg?alt=media&token=da806561-8e11-475d-b4a4-282132c5d3f2"
+          },
+          "sub_25" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/kochu-tv.jpeg?alt=media&token=3f1fb3a2-212c-4ddb-a2d7-a0f266c87d57",
+            "id" : 25,
+            "name" : "kochu TV",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/kochutv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78856,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/kochu-tv.jpeg?alt=media&token=3f1fb3a2-212c-4ddb-a2d7-a0f266c87d57"
+          },
+          "sub_26" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Majid-Kids.jpeg?alt=media&token=5de5f57f-c58e-4265-afeb-8f4a5e107741",
+            "id" : 26,
+            "name" : "Majid Kids",
+            "stream_url" : "http://185.21.217.34:7071/tinybeta/majidkids/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78557,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Majid-Kids.jpeg?alt=media&token=5de5f57f-c58e-4265-afeb-8f4a5e107741"
+          },
+          "sub_27" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/mickey-tv.jpeg?alt=media&token=34cc8bf8-134e-4848-8aa9-7914b1de06d7",
+            "id" : 27,
+            "name" : "Mickey TV",
+            "stream_url" : "http://185.21.217.31:7071/newserver/mickeytv/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78804,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/mickey-tv.jpeg?alt=media&token=34cc8bf8-134e-4848-8aa9-7914b1de06d7"
+          },
+          "sub_28" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Maha-Cartoon-tv.jpeg?alt=media&token=2e83759b-b7fc-4f38-9180-a167ae99a8ab",
+            "id" : 28,
+            "name" : "Maha Cartoon TV",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/mahacartoon/playlist.",
+            "sub_name" : "",
+            "swift_id" : 78358,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Maha-Cartoon-tv.jpeg?alt=media&token=2e83759b-b7fc-4f38-9180-a167ae99a8ab"
+          },
+          "sub_29" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon.jpeg?alt=media&token=54ac8804-6d64-4e02-88b3-5a236ee32362",
+            "id" : 29,
+            "name" : "Nickelodeon",
+            "stream_url" : "http://185.21.216.192:7071/newserver/Nickelodeon/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79276,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon.jpeg?alt=media&token=54ac8804-6d64-4e02-88b3-5a236ee32362"
+          },
+          "sub_3" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/canal-j.jpeg?alt=media&token=0427507b-1aff-4455-949b-258b30e2a183",
+            "id" : 3,
+            "name" : "Canal J",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/canalj/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7784,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/canal-j.jpeg?alt=media&token=0427507b-1aff-4455-949b-258b30e2a183"
+          },
+          "sub_30" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon-Hindi.jpeg?alt=media&token=9545418f-ad3c-4906-a1fc-3e3dae2b1c23",
+            "id" : 30,
+            "name" : "Nickelodeon Hindi",
+            "stream_url" : "http://185.21.216.192:7071/newserver/nickelodeonhindi/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7600,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon-Hindi.jpeg?alt=media&token=9545418f-ad3c-4906-a1fc-3e3dae2b1c23"
+          },
+          "sub_31" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-hd%2B.jpeg?alt=media&token=ddf59c12-7d8a-4093-8221-73d5071ddeb8",
+            "id" : 31,
+            "name" : "Nick HD",
+            "stream_url" : "http://185.21.216.192:7071/newserver/nickhdplus/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78815,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-hd%2B.jpeg?alt=media&token=ddf59c12-7d8a-4093-8221-73d5071ddeb8"
+          },
+          "sub_32" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nick-Toons.jpeg?alt=media&token=a308ad2f-d389-4127-bc23-9bbc6ba6298f",
+            "id" : 32,
+            "name" : "nick Toons",
+            "stream_url" : "http://185.21.216.192:7071/newserver/NickToons/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 312,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nick-Toons.jpeg?alt=media&token=a308ad2f-d389-4127-bc23-9bbc6ba6298f"
+          },
+          "sub_34" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-pakistan.jpeg?alt=media&token=2fd0a02e-362b-4fe8-94b6-a821333b27d6",
+            "id" : 34,
+            "name" : "nick Pakistan",
+            "stream_url" : "http://185.21.216.192:7071/newserver/nickpak/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78819,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-pakistan.jpeg?alt=media&token=2fd0a02e-362b-4fe8-94b6-a821333b27d6"
+          },
+          "sub_35" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-taml.jpeg?alt=media&token=0a070ec1-3900-4b4d-93b4-7c41808fdcc2",
+            "id" : 35,
+            "name" : "nick Tamil",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/nicktamil/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78683,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-taml.jpeg?alt=media&token=0a070ec1-3900-4b4d-93b4-7c41808fdcc2"
+          },
+          "sub_36" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-telugu.jpeg?alt=media&token=4f9875c2-ce82-477f-9610-624666785473",
+            "id" : 36,
+            "name" : "nick Telugu",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/nicktelugu/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78721,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-telugu.jpeg?alt=media&token=4f9875c2-ce82-477f-9610-624666785473"
+          },
+          "sub_37" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr.jpeg?alt=media&token=442b9fb2-7d81-4e50-b3d5-4518e5fc22d5",
+            "id" : 37,
+            "name" : "nick Jr",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/nickjr/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 315,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr.jpeg?alt=media&token=442b9fb2-7d81-4e50-b3d5-4518e5fc22d5"
+          },
+          "sub_38" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-2.jpeg?alt=media&token=72f2bacf-2c51-4d0c-9658-19be50e22085",
+            "id" : 38,
+            "name" : "nick Jr 2",
+            "stream_url" : "http://185.21.216.192:7071/newserver/NickJr2/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 316,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-2.jpeg?alt=media&token=72f2bacf-2c51-4d0c-9658-19be50e22085"
+          },
+          "sub_39" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-Hindi.jpeg?alt=media&token=0198531d-b498-44cf-ad0e-16c3637acd85",
+            "id" : 39,
+            "name" : "nick Jr Hindi",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/nickjrhindi/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7601,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-Hindi.jpeg?alt=media&token=0198531d-b498-44cf-ad0e-16c3637acd85"
+          },
+          "sub_4" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoonito.jpeg?alt=media&token=393f015f-fca0-430a-9579-bcd857955c9e",
+            "id" : 4,
+            "name" : "Cartoonito",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/cartoonito/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78355,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoonito.jpeg?alt=media&token=393f015f-fca0-430a-9579-bcd857955c9e"
+          },
+          "sub_40" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pbs-kids.jpeg?alt=media&token=7a6a718a-68cf-4edc-af44-dc4b2250c05b",
+            "id" : 40,
+            "name" : "PBS Kids",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/pbs/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78360,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pbs-kids.jpeg?alt=media&token=7a6a718a-68cf-4edc-af44-dc4b2250c05b"
+          },
+          "sub_41" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-hindi.jpeg?alt=media&token=609c245f-709a-4374-afad-284b1e402b54",
+            "id" : 41,
+            "name" : "pogo Hindi",
+            "stream_url" : "http://50.7.198.18:8081/Ind/POGO/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7602,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-hindi.jpeg?alt=media&token=609c245f-709a-4374-afad-284b1e402b54"
+          },
+          "sub_42" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pogo-Tamil.jpeg?alt=media&token=d0ffc1b1-2881-4515-ab7f-110e6d67629f",
+            "id" : 42,
+            "name" : "pogo Tamil",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/pogotamil/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78686,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pogo-Tamil.jpeg?alt=media&token=d0ffc1b1-2881-4515-ab7f-110e6d67629f"
+          },
+          "sub_43" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-english.jpeg?alt=media&token=8e3ae6ca-4d8e-45d8-bf41-a34a3dabe9ee",
+            "id" : 43,
+            "name" : "pogo English",
+            "stream_url" : "http://185.21.217.31:7071/newserver/pogoeng/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 317,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-english.jpeg?alt=media&token=8e3ae6ca-4d8e-45d8-bf41-a34a3dabe9ee"
+          },
+          "sub_44" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pop-Tv.jpeg?alt=media&token=b0eefc62-3df1-43ba-b094-d5c4280c4665",
+            "id" : 44,
+            "name" : "Pop Tv",
+            "stream_url" : "http://185.21.216.192:7071/newserver/pop/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7679,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pop-Tv.jpeg?alt=media&token=b0eefc62-3df1-43ba-b094-d5c4280c4665"
+          },
+          "sub_45" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/smile-kids.jpeg?alt=media&token=6dfbc866-cb54-48df-b2e9-b57ab61a4ebd",
+            "id" : 45,
+            "name" : "smile Kids",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/smile/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78361,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/smile-kids.jpeg?alt=media&token=6dfbc866-cb54-48df-b2e9-b57ab61a4ebd"
+          },
+          "sub_46" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sonic.jpeg?alt=media&token=5ed1a72a-664b-44f5-8e86-c8ed34f2db91",
+            "id" : 46,
+            "name" : "Sonic Nickelodeon",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/sonic/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7327,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sonic.jpeg?alt=media&token=5ed1a72a-664b-44f5-8e86-c8ed34f2db91"
+          },
+          "sub_47" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY.jpeg?alt=media&token=b3b2ba64-12c7-4fcf-a08e-83a8c7ca5b0f",
+            "id" : 47,
+            "name" : "Sony YAY",
+            "stream_url" : "http://185.21.217.34:7071/tinybeta/sonyyay/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78469,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY.jpeg?alt=media&token=b3b2ba64-12c7-4fcf-a08e-83a8c7ca5b0f"
+          },
+          "sub_48" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY-Telugu.jpeg?alt=media&token=d8d9d4b0-8713-439b-8641-30eea781377d",
+            "id" : 48,
+            "name" : "Sony YAY Telugu",
+            "stream_url" : "http://185.21.216.137:7071/tinybeta/sonyyaytelugu/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78724,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY-Telugu.jpeg?alt=media&token=d8d9d4b0-8713-439b-8641-30eea781377d"
+          },
+          "sub_49" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiji.jpeg?alt=media&token=21c7254b-cbf0-4521-b874-2fa19d841467",
+            "id" : 49,
+            "name" : "tiji",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/tiji/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7787,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiji.jpeg?alt=media&token=21c7254b-cbf0-4521-b874-2fa19d841467"
+          },
+          "sub_5" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Boomrang.jpeg?alt=media&token=28ee1dfe-c419-4e54-9f91-4935b33cae34",
+            "id" : 5,
+            "name" : "Boomrang",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/boomerang/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7795,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Boomrang.jpeg?alt=media&token=28ee1dfe-c419-4e54-9f91-4935b33cae34"
+          },
+          "sub_50" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiny-pop.jpeg?alt=media&token=8a7ed994-fb31-44a4-ad74-09be89db1df8",
+            "id" : 50,
+            "name" : "tiny pop",
+            "stream_url" : "http://185.21.216.192:7071/newserver/tinypop/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7363,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiny-pop.jpeg?alt=media&token=8a7ed994-fb31-44a4-ad74-09be89db1df8"
+          },
+          "sub_51" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8",
+            "id" : 51,
+            "name" : "Toonami",
+            "stream_url" : "http://185.21.217.34:7071/tinybeta/toonami/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 78471,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8"
+          },
+          "sub_52" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/wow-kidz.jpeg?alt=media&token=e9bfd471-4e5c-45f5-817c-6c9458f6f541",
+            "id" : 52,
+            "name" : "Wow Kidz",
+            "stream_url" : "http://185.21.216.194:7071/tinybeta/wowkids/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79113,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/wow-kidz.jpeg?alt=media&token=e9bfd471-4e5c-45f5-817c-6c9458f6f541"
+          },
+          "sub_6" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network.jpeg?alt=media&token=e7a6a215-b69a-4bfe-8866-452521654597",
+            "id" : 6,
+            "name" : "Cartoon Network English",
+            "stream_url" : "http://185.21.216.192:7071/newserver/CartoonNetwork/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79246,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network.jpeg?alt=media&token=e7a6a215-b69a-4bfe-8866-452521654597"
+          },
+          "sub_7" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Araboc.jpeg?alt=media&token=ca284b80-619a-4a3e-b69a-97e2122fc46d",
+            "id" : 7,
+            "name" : "Cartoon Network Araboc",
+            "stream_url" : "http://185.21.216.192:7071/newserver/cartoonarabic/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7770,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Araboc.jpeg?alt=media&token=ca284b80-619a-4a3e-b69a-97e2122fc46d"
+          },
+          "sub_8" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-network-pakistan.jpeg?alt=media&token=d1cb48a1-53ec-40e8-8e52-d43467dc738a",
+            "id" : 8,
+            "name" : "Cartoon Network Pakistan",
+            "stream_url" : "http://185.21.216.194:7071/tinybeta/cartoonnetpak/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 79098,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-network-pakistan.jpeg?alt=media&token=d1cb48a1-53ec-40e8-8e52-d43467dc738a"
+          },
+          "sub_9" : {
+            "auto_banner" : false,
+            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Hindi.jpeg?alt=media&token=0fdf08f0-4e36-406b-8708-223ef438e307",
+            "id" : 9,
+            "name" : "Cartoon Network Hindi",
+            "stream_url" : "http://185.21.216.159:7071/tinybeta/cartoonhindi/playlist.m3u8",
+            "sub_name" : "",
+            "swift_id" : 7342,
+            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Hindi.jpeg?alt=media&token=0fdf08f0-4e36-406b-8708-223ef438e307"
+          }
+        },
+        "sub_name" : "Channels",
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
+      },
       "main_35" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
@@ -21475,527 +21996,6 @@
         },
         "sub_name" : "",
         "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227"
-      },
-      "main_40" : {
-        "auto_banner" : true,
-        "auto_thumbnail" : false,
-        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
-        "id" : 40,
-        "name" : "Kids Zone Live",
-        "sub" : {
-          "sub_1" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Baby-tv.jpeg?alt=media&token=c86889e4-7d65-4943-8fe7-0bf75a2edc0e",
-            "id" : 1,
-            "name" : "Baby TV",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/babytv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7364,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Baby-tv.jpeg?alt=media&token=c86889e4-7d65-4943-8fe7-0bf75a2edc0e"
-          },
-          "sub_10" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Telugu.jpeg?alt=media&token=a90541c7-c4a5-4752-8098-ad21cc304a7a",
-            "id" : 10,
-            "name" : "Cartoon Network Telugu",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/cntelugu/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78722,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Telugu.jpeg?alt=media&token=a90541c7-c4a5-4752-8098-ad21cc304a7a"
-          },
-          "sub_11" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoon-network-tamil.jpeg?alt=media&token=fe536826-0bae-4838-9ec2-2347e8d38819",
-            "id" : 11,
-            "name" : "Cartoon Network Tamil",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/cntamil/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78684,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoon-network-tamil.jpeg?alt=media&token=fe536826-0bae-4838-9ec2-2347e8d38819"
-          },
-          "sub_12" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbbc.jpeg?alt=media&token=0b2a277b-7630-411e-9a64-952f2fdd0aa8",
-            "id" : 12,
-            "name" : "cbbc",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/CBBC/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78359,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbbc.jpeg?alt=media&token=0b2a277b-7630-411e-9a64-952f2fdd0aa8"
-          },
-          "sub_13" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbeebies.jpeg?alt=media&token=842094ad-1af7-4153-a716-8ef8c40e9607",
-            "id" : 13,
-            "name" : "Cbeebies",
-            "stream_url" : "http://server4.servep2p.com:7071/tinybeta/cbeebies/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78590,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cbeebies.jpeg?alt=media&token=842094ad-1af7-4153-a716-8ef8c40e9607"
-          },
-          "sub_14" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/chutti-tv-tamil.jpeg?alt=media&token=f970cf90-62fc-4bb9-b0c3-8e1ef4e3cbcc",
-            "id" : 14,
-            "name" : "Chutti TV Tamil",
-            "stream_url" : "http://185.21.216.192:7071/newserver/chuttitv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78687,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/chutti-tv-tamil.jpeg?alt=media&token=f970cf90-62fc-4bb9-b0c3-8e1ef4e3cbcc"
-          },
-          "sub_15" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids.jpeg?alt=media&token=6e2d3e12-499c-45f4-8b42-c160ee9db111",
-            "id" : 15,
-            "name" : "Discovery Kids",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/discoverykids/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78470,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids.jpeg?alt=media&token=6e2d3e12-499c-45f4-8b42-c160ee9db111"
-          },
-          "sub_16" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids-tamil.jpeg?alt=media&token=e5d059ed-8831-4d66-96d9-d4b36e02fcb0",
-            "id" : 16,
-            "name" : "Discovery Kids Tamil",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/discoverykidstm/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78685,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/discovery-kids-tamil.jpeg?alt=media&token=e5d059ed-8831-4d66-96d9-d4b36e02fcb0"
-          },
-          "sub_17" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Channel.jpeg?alt=media&token=75e89e89-21c4-41c2-88ac-ce818bfff38b",
-            "id" : 17,
-            "name" : "Disney Channel",
-            "stream_url" : "http://185.21.216.192:7071/newserver/Disney/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 309,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Channel.jpeg?alt=media&token=75e89e89-21c4-41c2-88ac-ce818bfff38b"
-          },
-          "sub_18" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Hindi.jpeg?alt=media&token=8effa57a-7ff9-4246-8fa3-59ff7ac6cd0a",
-            "id" : 18,
-            "name" : "Disney Hindi",
-            "stream_url" : "http://185.21.216.153:7071/tinybeta/disneyhindi/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7599,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Hindi.jpeg?alt=media&token=8effa57a-7ff9-4246-8fa3-59ff7ac6cd0a"
-          },
-          "sub_19" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Junior.jpeg?alt=media&token=bbb4f2a8-baa1-4609-8efc-bc1e6d915b17",
-            "id" : 19,
-            "name" : "Disney Junior",
-            "stream_url" : "http://185.21.216.192:7071/newserver/DisneyJR/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79236,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-Junior.jpeg?alt=media&token=bbb4f2a8-baa1-4609-8efc-bc1e6d915b17"
-          },
-          "sub_2" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/bein-junior.jpeg?alt=media&token=1575d7e0-b1fd-4957-a022-91d771ecfd53",
-            "id" : 2,
-            "name" : "Bein Junior",
-            "stream_url" : "http://185.21.216.194:7071/tinybeta/beinjr/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79116,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/bein-junior.jpeg?alt=media&token=1575d7e0-b1fd-4957-a022-91d771ecfd53"
-          },
-          "sub_20" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-XD.jpeg?alt=media&token=3003e8ff-021d-4189-b017-6ba7cb1f1c47",
-            "id" : 20,
-            "name" : "Disney XD",
-            "stream_url" : "http://185.21.216.192:7071/newserver/DisneyXD/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 313,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Disney-XD.jpeg?alt=media&token=3003e8ff-021d-4189-b017-6ba7cb1f1c47"
-          },
-          "sub_21" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Hungama-TV.jpeg?alt=media&token=fd5e9c3b-fd61-41fd-b786-9f20c05b020c",
-            "id" : 21,
-            "name" : "Hungama TV",
-            "stream_url" : "http://185.21.216.153:7071/tinybeta/hungama/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7362,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Hungama-TV.jpeg?alt=media&token=fd5e9c3b-fd61-41fd-b786-9f20c05b020c"
-          },
-          "sub_22" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Jeem-Tv.jpeg?alt=media&token=4640ef83-b273-41bd-bc07-10fd742d138b",
-            "id" : 22,
-            "name" : "Jeem TV",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/jeemtv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78618,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Jeem-Tv.jpeg?alt=media&token=4640ef83-b273-41bd-bc07-10fd742d138b"
-          },
-          "sub_23" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/khushi-tv-telugu.jpeg?alt=media&token=00422abe-85dc-4f69-bf0c-70c984a36458",
-            "id" : 23,
-            "name" : "Khushi TV Telugu",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/khushitv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78723,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/khushi-tv-telugu.jpeg?alt=media&token=00422abe-85dc-4f69-bf0c-70c984a36458"
-          },
-          "sub_24" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Kix-tv.jpeg?alt=media&token=da806561-8e11-475d-b4a4-282132c5d3f2",
-            "id" : 24,
-            "name" : "Kix TV",
-            "stream_url" : "http://185.21.216.192:7071/newserver/kix/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7678,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Kix-tv.jpeg?alt=media&token=da806561-8e11-475d-b4a4-282132c5d3f2"
-          },
-          "sub_25" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/kochu-tv.jpeg?alt=media&token=3f1fb3a2-212c-4ddb-a2d7-a0f266c87d57",
-            "id" : 25,
-            "name" : "kochu TV",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/kochutv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78856,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/kochu-tv.jpeg?alt=media&token=3f1fb3a2-212c-4ddb-a2d7-a0f266c87d57"
-          },
-          "sub_26" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Majid-Kids.jpeg?alt=media&token=5de5f57f-c58e-4265-afeb-8f4a5e107741",
-            "id" : 26,
-            "name" : "Majid Kids",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/majidkids/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78557,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Majid-Kids.jpeg?alt=media&token=5de5f57f-c58e-4265-afeb-8f4a5e107741"
-          },
-          "sub_27" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/mickey-tv.jpeg?alt=media&token=34cc8bf8-134e-4848-8aa9-7914b1de06d7",
-            "id" : 27,
-            "name" : "Mickey TV",
-            "stream_url" : "http://185.21.217.31:7071/newserver/mickeytv/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78804,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/mickey-tv.jpeg?alt=media&token=34cc8bf8-134e-4848-8aa9-7914b1de06d7"
-          },
-          "sub_28" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Maha-Cartoon-tv.jpeg?alt=media&token=2e83759b-b7fc-4f38-9180-a167ae99a8ab",
-            "id" : 28,
-            "name" : "Maha Cartoon TV",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/mahacartoon/playlist.",
-            "sub_name" : "",
-            "swift_id" : 78358,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Maha-Cartoon-tv.jpeg?alt=media&token=2e83759b-b7fc-4f38-9180-a167ae99a8ab"
-          },
-          "sub_29" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon.jpeg?alt=media&token=54ac8804-6d64-4e02-88b3-5a236ee32362",
-            "id" : 29,
-            "name" : "Nickelodeon",
-            "stream_url" : "http://185.21.216.192:7071/newserver/Nickelodeon/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79276,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon.jpeg?alt=media&token=54ac8804-6d64-4e02-88b3-5a236ee32362"
-          },
-          "sub_3" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/canal-j.jpeg?alt=media&token=0427507b-1aff-4455-949b-258b30e2a183",
-            "id" : 3,
-            "name" : "Canal J",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/canalj/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7784,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/canal-j.jpeg?alt=media&token=0427507b-1aff-4455-949b-258b30e2a183"
-          },
-          "sub_30" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon-Hindi.jpeg?alt=media&token=9545418f-ad3c-4906-a1fc-3e3dae2b1c23",
-            "id" : 30,
-            "name" : "Nickelodeon Hindi",
-            "stream_url" : "http://185.21.216.192:7071/newserver/nickelodeonhindi/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7600,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nickelodeon-Hindi.jpeg?alt=media&token=9545418f-ad3c-4906-a1fc-3e3dae2b1c23"
-          },
-          "sub_31" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-hd%2B.jpeg?alt=media&token=ddf59c12-7d8a-4093-8221-73d5071ddeb8",
-            "id" : 31,
-            "name" : "Nick HD",
-            "stream_url" : "http://185.21.216.192:7071/newserver/nickhdplus/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78815,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-hd%2B.jpeg?alt=media&token=ddf59c12-7d8a-4093-8221-73d5071ddeb8"
-          },
-          "sub_32" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nick-Toons.jpeg?alt=media&token=a308ad2f-d389-4127-bc23-9bbc6ba6298f",
-            "id" : 32,
-            "name" : "nick Toons",
-            "stream_url" : "http://185.21.216.192:7071/newserver/NickToons/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 312,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Nick-Toons.jpeg?alt=media&token=a308ad2f-d389-4127-bc23-9bbc6ba6298f"
-          },
-          "sub_34" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-pakistan.jpeg?alt=media&token=2fd0a02e-362b-4fe8-94b6-a821333b27d6",
-            "id" : 34,
-            "name" : "nick Pakistan",
-            "stream_url" : "http://185.21.216.192:7071/newserver/nickpak/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78819,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-pakistan.jpeg?alt=media&token=2fd0a02e-362b-4fe8-94b6-a821333b27d6"
-          },
-          "sub_35" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-taml.jpeg?alt=media&token=0a070ec1-3900-4b4d-93b4-7c41808fdcc2",
-            "id" : 35,
-            "name" : "nick Tamil",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/nicktamil/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78683,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-taml.jpeg?alt=media&token=0a070ec1-3900-4b4d-93b4-7c41808fdcc2"
-          },
-          "sub_36" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-telugu.jpeg?alt=media&token=4f9875c2-ce82-477f-9610-624666785473",
-            "id" : 36,
-            "name" : "nick Telugu",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/nicktelugu/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78721,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-telugu.jpeg?alt=media&token=4f9875c2-ce82-477f-9610-624666785473"
-          },
-          "sub_37" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr.jpeg?alt=media&token=442b9fb2-7d81-4e50-b3d5-4518e5fc22d5",
-            "id" : 37,
-            "name" : "nick Jr",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/nickjr/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 315,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr.jpeg?alt=media&token=442b9fb2-7d81-4e50-b3d5-4518e5fc22d5"
-          },
-          "sub_38" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-2.jpeg?alt=media&token=72f2bacf-2c51-4d0c-9658-19be50e22085",
-            "id" : 38,
-            "name" : "nick Jr 2",
-            "stream_url" : "http://185.21.216.192:7071/newserver/NickJr2/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 316,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-2.jpeg?alt=media&token=72f2bacf-2c51-4d0c-9658-19be50e22085"
-          },
-          "sub_39" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-Hindi.jpeg?alt=media&token=0198531d-b498-44cf-ad0e-16c3637acd85",
-            "id" : 39,
-            "name" : "nick Jr Hindi",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/nickjrhindi/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7601,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/nick-Jr-Hindi.jpeg?alt=media&token=0198531d-b498-44cf-ad0e-16c3637acd85"
-          },
-          "sub_4" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoonito.jpeg?alt=media&token=393f015f-fca0-430a-9579-bcd857955c9e",
-            "id" : 4,
-            "name" : "Cartoonito",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/cartoonito/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78355,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/cartoonito.jpeg?alt=media&token=393f015f-fca0-430a-9579-bcd857955c9e"
-          },
-          "sub_40" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pbs-kids.jpeg?alt=media&token=7a6a718a-68cf-4edc-af44-dc4b2250c05b",
-            "id" : 40,
-            "name" : "PBS Kids",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/pbs/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78360,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pbs-kids.jpeg?alt=media&token=7a6a718a-68cf-4edc-af44-dc4b2250c05b"
-          },
-          "sub_41" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-hindi.jpeg?alt=media&token=609c245f-709a-4374-afad-284b1e402b54",
-            "id" : 41,
-            "name" : "pogo Hindi",
-            "stream_url" : "http://50.7.198.18:8081/Ind/POGO/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7602,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-hindi.jpeg?alt=media&token=609c245f-709a-4374-afad-284b1e402b54"
-          },
-          "sub_42" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pogo-Tamil.jpeg?alt=media&token=d0ffc1b1-2881-4515-ab7f-110e6d67629f",
-            "id" : 42,
-            "name" : "pogo Tamil",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/pogotamil/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78686,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pogo-Tamil.jpeg?alt=media&token=d0ffc1b1-2881-4515-ab7f-110e6d67629f"
-          },
-          "sub_43" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-english.jpeg?alt=media&token=8e3ae6ca-4d8e-45d8-bf41-a34a3dabe9ee",
-            "id" : 43,
-            "name" : "pogo English",
-            "stream_url" : "http://185.21.217.31:7071/newserver/pogoeng/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 317,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/pogo-english.jpeg?alt=media&token=8e3ae6ca-4d8e-45d8-bf41-a34a3dabe9ee"
-          },
-          "sub_44" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pop-Tv.jpeg?alt=media&token=b0eefc62-3df1-43ba-b094-d5c4280c4665",
-            "id" : 44,
-            "name" : "Pop Tv",
-            "stream_url" : "http://185.21.216.192:7071/newserver/pop/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7679,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pop-Tv.jpeg?alt=media&token=b0eefc62-3df1-43ba-b094-d5c4280c4665"
-          },
-          "sub_45" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/smile-kids.jpeg?alt=media&token=6dfbc866-cb54-48df-b2e9-b57ab61a4ebd",
-            "id" : 45,
-            "name" : "smile Kids",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/smile/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78361,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/smile-kids.jpeg?alt=media&token=6dfbc866-cb54-48df-b2e9-b57ab61a4ebd"
-          },
-          "sub_46" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sonic.jpeg?alt=media&token=5ed1a72a-664b-44f5-8e86-c8ed34f2db91",
-            "id" : 46,
-            "name" : "Sonic Nickelodeon",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/sonic/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7327,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sonic.jpeg?alt=media&token=5ed1a72a-664b-44f5-8e86-c8ed34f2db91"
-          },
-          "sub_47" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY.jpeg?alt=media&token=b3b2ba64-12c7-4fcf-a08e-83a8c7ca5b0f",
-            "id" : 47,
-            "name" : "Sony YAY",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/sonyyay/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78469,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY.jpeg?alt=media&token=b3b2ba64-12c7-4fcf-a08e-83a8c7ca5b0f"
-          },
-          "sub_48" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY-Telugu.jpeg?alt=media&token=d8d9d4b0-8713-439b-8641-30eea781377d",
-            "id" : 48,
-            "name" : "Sony YAY Telugu",
-            "stream_url" : "http://185.21.216.137:7071/tinybeta/sonyyaytelugu/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78724,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Sony-YAY-Telugu.jpeg?alt=media&token=d8d9d4b0-8713-439b-8641-30eea781377d"
-          },
-          "sub_49" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiji.jpeg?alt=media&token=21c7254b-cbf0-4521-b874-2fa19d841467",
-            "id" : 49,
-            "name" : "tiji",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/tiji/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7787,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiji.jpeg?alt=media&token=21c7254b-cbf0-4521-b874-2fa19d841467"
-          },
-          "sub_5" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Boomrang.jpeg?alt=media&token=28ee1dfe-c419-4e54-9f91-4935b33cae34",
-            "id" : 5,
-            "name" : "Boomrang",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/boomerang/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7795,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Boomrang.jpeg?alt=media&token=28ee1dfe-c419-4e54-9f91-4935b33cae34"
-          },
-          "sub_50" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiny-pop.jpeg?alt=media&token=8a7ed994-fb31-44a4-ad74-09be89db1df8",
-            "id" : 50,
-            "name" : "tiny pop",
-            "stream_url" : "http://185.21.216.192:7071/newserver/tinypop/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7363,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiny-pop.jpeg?alt=media&token=8a7ed994-fb31-44a4-ad74-09be89db1df8"
-          },
-          "sub_51" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8",
-            "id" : 51,
-            "name" : "Toonami",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/toonami/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78471,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8"
-          },
-          "sub_52" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/wow-kidz.jpeg?alt=media&token=e9bfd471-4e5c-45f5-817c-6c9458f6f541",
-            "id" : 52,
-            "name" : "Wow Kidz",
-            "stream_url" : "http://185.21.216.194:7071/tinybeta/wowkids/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79113,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/wow-kidz.jpeg?alt=media&token=e9bfd471-4e5c-45f5-817c-6c9458f6f541"
-          },
-          "sub_6" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network.jpeg?alt=media&token=e7a6a215-b69a-4bfe-8866-452521654597",
-            "id" : 6,
-            "name" : "Cartoon Network English",
-            "stream_url" : "http://185.21.216.192:7071/newserver/CartoonNetwork/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79246,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network.jpeg?alt=media&token=e7a6a215-b69a-4bfe-8866-452521654597"
-          },
-          "sub_7" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Araboc.jpeg?alt=media&token=ca284b80-619a-4a3e-b69a-97e2122fc46d",
-            "id" : 7,
-            "name" : "Cartoon Network Araboc",
-            "stream_url" : "http://185.21.216.192:7071/newserver/cartoonarabic/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7770,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Araboc.jpeg?alt=media&token=ca284b80-619a-4a3e-b69a-97e2122fc46d"
-          },
-          "sub_8" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-network-pakistan.jpeg?alt=media&token=d1cb48a1-53ec-40e8-8e52-d43467dc738a",
-            "id" : 8,
-            "name" : "Cartoon Network Pakistan",
-            "stream_url" : "http://185.21.216.194:7071/tinybeta/cartoonnetpak/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 79098,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-network-pakistan.jpeg?alt=media&token=d1cb48a1-53ec-40e8-8e52-d43467dc738a"
-          },
-          "sub_9" : {
-            "auto_banner" : false,
-            "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Hindi.jpeg?alt=media&token=0fdf08f0-4e36-406b-8708-223ef438e307",
-            "id" : 9,
-            "name" : "Cartoon Network Hindi",
-            "stream_url" : "http://185.21.216.159:7071/tinybeta/cartoonhindi/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 7342,
-            "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Cartoon-Network-Hindi.jpeg?alt=media&token=0fdf08f0-4e36-406b-8708-223ef438e307"
-          }
-        },
-        "sub_name" : "Channels",
-        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
       },
       "main_4" : {
         "auto_banner" : false,
