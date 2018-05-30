@@ -18054,12 +18054,12 @@
               "id" : 39,
               "name" : "TV Shows",
               "sub" : {
-                "sub_1" : {
+                "sub_0" : {
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F5182475815001%2F2018%2F01%2F5182475815001_5704890651001_5704893697001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5704893697001",
                   "banner_url1" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F03%2F4338955589001_5380327010001_4600324971001-th.jpg%3FpubId%3D4338955589001",
-                  "id" : 1,
+                  "id" : 0,
                   "name" : "SAB TV",
                   "sub" : {
                     "sub_-1" : {
@@ -18800,6 +18800,1327 @@
                   },
                   "sub_name" : "Shows",
                   "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/SAB%20TV.jpeg?alt=media&token=c0fdc769-19a4-4ba7-a5ff-d2eed9cead71"
+                },
+                "sub_1" : {
+                  "auto_banner" : false,
+                  "auto_thumbnail" : false,
+                  "banner_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg",
+                  "id" : 1,
+                  "name" : "SAB TV",
+                  "sub" : {
+                    "sub_0" : {
+                      "auto_banner" : true,
+                      "auto_thumbnail" : true,
+                      "banner_url" : "",
+                      "id" : 0,
+                      "name" : "Weekly Reliv For All Shows",
+                      "playlist_id" : "PLzufeTFnhupwANYG2CUoWBPX4jYHOF73f",
+                      "sub_name" : "",
+                      "thumbnail_url" : ""
+                    },
+                    "sub_1" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg",
+                      "id" : 1,
+                      "name" : "Porus",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzJy74jvgC_1HpHjesSvK80",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5658165633001/Porus"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupyA2qRNGA2yJqBWFP_iSDPL",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupzJy74jvgC_1HpHjesSvK80",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "playlist_id" : "PLh66Lysb46ynktZmhGPOMpQHktwOB8J0a",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "zsLroBEb_eg"
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Interview",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "NYkuRfkyzY0"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg"
+                    },
+                    "sub_10" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5527473358001_4849325207001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 10,
+                      "name" : "The Kapil Sharma Show",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupyFjNWbjUCMHWDXf1x3XOpC",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/4849325207001/The-Kapil-Sharma-Show"
+                        },
+                        "sub_10" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 10,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "FzpU2Hn0dR0"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5527473358001_4849325207001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupyFjNWbjUCMHWDXf1x3XOpC",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5527473358001_4849325207001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Diwali Special",
+                          "playlist_id" : "PLzufeTFnhupzQfKZ-h6VV3dJfFkX0_leV",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Hassi Ke Gubbare",
+                          "playlist_id" : "PLzufeTFnhupxgsd5nA3_J2OXIYhN-IePj",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Best of Indian Comedy",
+                          "playlist_id" : "PLzufeTFnhupyl_AOklmrf-_i21Sq7O7Kx",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Best - Moments",
+                          "playlist_id" : "PLzufeTFnhupxrNHOt0niMIngbRfWKKrXf",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Top 10 Popular",
+                          "playlist_id" : "PLzufeTFnhupzSAsCjN7zT_iKxAzsS1go5",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Kapil Sharma Special",
+                          "playlist_id" : "PLzufeTFnhupy1uGt_tDDVmWu75mEzFWDO",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_9" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 9,
+                          "name" : "Laugh Out Loud",
+                          "playlist_id" : "PLzufeTFnhupyLI1CqrvcHE9dN9gsDz5Ba",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5527473358001_4849325207001-th.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_11" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5566308614001_5550198773001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 11,
+                      "name" : "Kaun Banega Crorepati Season 9",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupxWQMQdGO0aa_Cn_eRGGNpK",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5550198773001/Kaun-Banega-Crorepati"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5566308614001_5550198773001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 2,
+                          "name" : "Best Of KBC Moments",
+                          "playlist_id" : "PLzufeTFnhupxWQMQdGO0aa_Cn_eRGGNpK",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5566308614001_5550198773001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "XGX1sJTfNP4"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5566308614001_5550198773001-th.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_12" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927358001_kuch-rang-pyar-ke-aise-bhi-720x405.jpg%3FpubId%3D4338955589001",
+                      "id" : 12,
+                      "name" : "Kuch Rang Pyar Ke Aise Bhi Season 2",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupw42v9TfVj14MLCoSGKjcoD",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/4749637830001/Kuch-Rang-Pyar-Ke-Aise-Bhi"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzBcrrPhuxfUyXfoQSMKHsg",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupxQJOgnN5lkkolne5UMfGLe",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927358001_kuch-rang-pyar-ke-aise-bhi-720x405.jpg%3FpubId%3D4338955589001",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupw42v9TfVj14MLCoSGKjcoD",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927358001_kuch-rang-pyar-ke-aise-bhi-720x405.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Season - 1",
+                          "playlist_id" : "PLzufeTFnhupwG5eD3SeVrCBvQJ58o0wDJ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Season - 1 | Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupyjl5UjSI2mOwjV3NkglCbQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Kuch Rang Pyaar ke Aise Bhi - Songs",
+                          "playlist_id" : "PLzufeTFnhupyWDPWhmLidJsB2k2iPTI4N",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "mxzdY_6Srb0"
+                        },
+                        "sub_9" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 9,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "bcUx_rnGKK0"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927358001_kuch-rang-pyar-ke-aise-bhi-720x405.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_13" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 13,
+                      "name" : "Mere Sai",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzCh5sM7oLGw2aR9TNNx175",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5587707349001/Mere-Sai---Shraddha-Aur-Saburi"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupz9L_mykvJ3iaAmv9E2nKll",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupzyvgPBLroio9UVRxMHMNSR",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupzCh5sM7oLGw2aR9TNNx175",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "w5Wl2ZrcCao"
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "_BFE6yGjPMg"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_14" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5591848581001_5591815263001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 14,
+                      "name" : "Super Dancer: Chapter 2",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupxKjbe80IUdw3vNj6uCTtCr",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5591815263001/Super-Dancer-Chapter-2"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5591848581001_5591815263001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 3,
+                          "name" : "Clips",
+                          "playlist_id" : "PLzufeTFnhupxKjbe80IUdw3vNj6uCTtCr",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5591848581001_5591815263001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "hNL2YLtTdds"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5591848581001_5591815263001-th.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_15" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5544533008001_5544530366001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 15,
+                      "name" : "Vighnaharta Ganesha",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupwIh58lg2qHdJQtx_dIGnRW",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5544530366001/Vighnaharta-Ganesh"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupygZG_sczSJ_j7efFT1Kst_",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupx7szSaulpdJvkWOMjPQjoT",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5544533008001_5544530366001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupwIh58lg2qHdJQtx_dIGnRW",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5544533008001_5544530366001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Vighnaharta Ganesha Songs",
+                          "playlist_id" : "PLzufeTFnhupxhVhcmZuDOy90AypUOnFVw",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "dASCBlLXRYU"
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "SG_MW7hcsKM"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F08%2F4338955589001_5544533008001_5544530366001-th.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_2" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "https://d3fxehhzqt25no.cloudfront.net/slider/Show-Slider-Ek-Rishta.jpg",
+                      "id" : 2,
+                      "name" : "Rishta Likhenge Hum Naya",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupw-BL3ef8_wqxX0bC7Bos9j",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5637779954001/Rishta-Likhenge-Hum-Naya"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupxhB4tWSOUTUElH3iRoDW4o",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "https://i.ytimg.com/vi/v_oH2i3IPiY/maxresdefault.jpg",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupw-BL3ef8_wqxX0bC7Bos9j",
+                          "sub_name" : "",
+                          "thumbnail_url" : "https://i.ytimg.com/vi/v_oH2i3IPiY/maxresdefault.jpg"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "P5Hv68jGrnw"
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "n1kV45H6Suw"
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Interview",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "qm-mzYOrjLM"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "https://d3fxehhzqt25no.cloudfront.net/slider/Show-Slider-Ek-Rishta.jpg"
+                    },
+                    "sub_3" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "https://i.ytimg.com/vi/1rbq2oYgeeY/maxresdefault.jpg",
+                      "id" : 3,
+                      "name" : "Haasil",
+                      "sub" : {
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupwtavW2Q9UprGDwMV13b7QQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5629673453001/Haasil"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupzYLN3Y_BWyQdZ71LAxeHRR",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupzLo1gYyXS5RWfTwjp_WSFU",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "dndr6Fe4pWA"
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "5uNb5vCHtPw"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "https://i.ytimg.com/vi/1rbq2oYgeeY/maxresdefault.jpg"
+                    },
+                    "sub_4" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "https://laado2.com/wp-content/uploads/2017/09/Sony-TVs-Ek-Deewana-Tha-Serial-Promo-Its-one-Kind-of-love-stroy-390x220.jpg",
+                      "id" : 4,
+                      "name" : "Ek Deewaana Tha",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupwM1ypHJ1oxUY4rYj-zT8ee",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5622321687001/Ek-Deewaana-Tha"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupzHkKzVBdCIyHW1NP1O6mOS",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 4,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupxXMckBJBhkS9aqfKE533d6",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5587709404001_5587707349001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "FgR3cRRhEjc"
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "xnCvUIFPSn8"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "https://laado2.com/wp-content/uploads/2017/09/Sony-TVs-Ek-Deewana-Tha-Serial-Promo-Its-one-Kind-of-love-stroy-390x220.jpg"
+                    },
+                    "sub_5" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F10%2F4338955589001_5154036300001_Beyhadh-720x405.jpg%3FpubId%3D4338955589001",
+                      "id" : 5,
+                      "name" : "Beyhadh",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzMXKYVxLRIn56jnl62y7Rp",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5467882071001/TV,-Biwi-Aur-Main"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F10%2F4338955589001_5154036300001_Beyhadh-720x405.jpg%3FpubId%3D4338955589001",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzMXKYVxLRIn56jnl62y7Rp",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F10%2F4338955589001_5154036300001_Beyhadh-720x405.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupyGcbKvgnG5wdpC6iaHTa_y",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupyQ2TCkTrYsAFJ2BFbHue-e",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "LtaKJ-om9Ig"
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "SReM7dumbK4"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F10%2F4338955589001_5154036300001_Beyhadh-720x405.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_6" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631744001_CID-720x405.jpg%3FpubId%3D4338955589001",
+                      "id" : 6,
+                      "name" : "C.I.D.",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupxVg-1DHmZAsaWLZ_kKPNRh",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/4705475579001/CID"
+                        },
+                        "sub_10" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 10,
+                          "name" : "Popular CID Cases",
+                          "playlist_id" : "PLzufeTFnhupw7JE5aNpLf8h9lRqxsQCu2",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_11" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 11,
+                          "name" : "Top 10 Popular",
+                          "playlist_id" : "PLzufeTFnhupxL4mkRUpIknz-zWDAZhZDQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_12" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 12,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupyV9WkXFhzWzAu8PbIKCwDH",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_13" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 13,
+                          "name" : "Best Of CID",
+                          "playlist_id" : "PLzufeTFnhupwKaXDkcaH3DOHCQNjhNxeQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_14" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 14,
+                          "name" : "Celebrity Special",
+                          "playlist_id" : "PLzufeTFnhupyOKg2j5eyeX2gWQkcZjK5Q",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_15" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 15,
+                          "name" : "CID Episode 753 onwards",
+                          "playlist_id" : "PLB1AA7FBC9B178782",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_16" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 16,
+                          "name" : "CID - Best of 2014",
+                          "playlist_id" : "PLzufeTFnhupxCAls6HIM3iexkBrl41Wya",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_17" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 17,
+                          "name" : "CID - Old Episode",
+                          "playlist_id" : "PLzufeTFnhupwYFfG5jexAeLIpK4uMUEkb",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_18" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 18,
+                          "name" : "CID - Files",
+                          "playlist_id" : "PLzufeTFnhupzXNykg4X63E6v1YRztnYNp",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_19" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 19,
+                          "name" : "CID Chhote Heroes",
+                          "playlist_id" : "PLzufeTFnhupxBmbvIUZ4PZGcB8noYUIAa",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_2" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631744001_CID-720x405.jpg%3FpubId%3D4338955589001",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupxVg-1DHmZAsaWLZ_kKPNRh",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631744001_CID-720x405.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_20" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 20,
+                          "name" : "CID Kolkata Bureau",
+                          "playlist_id" : "PLzufeTFnhupz2rpZY3yBuOKImehdEVwWW",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_21" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 21,
+                          "name" : "New Promos",
+                          "playlist_id" : "PLkkD4FjQ-HLpG2EMKrUSl__K6n9Z3ebYH",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_22" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 22,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "5LrmPBv7YyA"
+                        },
+                        "sub_3" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 3,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupw2dHq6qo8nDp9QhXC9VPVm",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Season 8",
+                          "playlist_id" : "ELPWEXouazvJRidwsyO_ICQg",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Season 7",
+                          "playlist_id" : "ELkOuZg6u_-D0",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Season 6",
+                          "playlist_id" : "ELP9pYbcCdHxU",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Season 5",
+                          "playlist_id" : "ELY78ICSNx-lE",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Season 4",
+                          "playlist_id" : "ELwq5BORLuJ1w",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_9" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 9,
+                          "name" : "Season 3",
+                          "playlist_id" : "ELzhwiGyCnPKQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631744001_CID-720x405.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_7" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631749001_crime-patrol-dial-100-720x405.jpg%3FpubId%3D4338955589001",
+                      "id" : 7,
+                      "name" : "Crime Patrol Dial 100",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupyQam2PgecINuc8VzcWbxuk",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/4682167166001/Crime-Patrol-Dial-100"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupza0aEZ_FKj0mBguCdtwU_c",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631749001_crime-patrol-dial-100-720x405.jpg%3FpubId%3D4338955589001",
+                          "id" : 3,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupyQam2PgecINuc8VzcWbxuk",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631749001_crime-patrol-dial-100-720x405.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Coming Up Next",
+                          "playlist_id" : "PLzufeTFnhupzswaI9iCSEdNMUbaZSN3FZ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Crime Patrol - Season 2",
+                          "playlist_id" : "PLzufeTFnhupzvDmEVQayGEEUcXlb03kN2",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Best Of Crime Patrol Satark",
+                          "playlist_id" : "PLzufeTFnhupzmzTUmYFZJe4UhLkm23APh",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Crime Patrol - Best of 2014",
+                          "playlist_id" : "PLzufeTFnhupzJlqfHt8hk7C4Xv_MJkYyN",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "WFDkoSQ1CI4"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089631749001_crime-patrol-dial-100-720x405.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_8" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927348001_crime-patrol-satark-revised-720x405.jpg%3FpubId%3D4338955589001",
+                      "id" : 8,
+                      "name" : "Crime Patrol Satark",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzrSctRCX9xUOgX4Vil79Sd",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/4615507371001/Crime-Patrol-Satark"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupza0aEZ_FKj0mBguCdtwU_c",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927348001_crime-patrol-satark-revised-720x405.jpg%3FpubId%3D4338955589001",
+                          "id" : 3,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupzrSctRCX9xUOgX4Vil79Sd",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927348001_crime-patrol-satark-revised-720x405.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Crime Patrol Dastak",
+                          "playlist_id" : "PL833C709A13077D03",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Crime Patrol - Season 4",
+                          "playlist_id" : "ELrsVTXb3mEAM",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_6" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 6,
+                          "name" : "Crime Patrol - Season 2",
+                          "playlist_id" : "ELq6Y05se31ZQ",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_7" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 7,
+                          "name" : "Best Of Crime Patrol",
+                          "playlist_id" : "PLzufeTFnhupw2P3qYHh1jaTTPsGU0jKGV",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Crime Patrol - Best of 2014",
+                          "playlist_id" : "PLzufeTFnhupzJlqfHt8hk7C4Xv_MJkYyN",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_9" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 9,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "RxhFAF53UKo"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2016%2F08%2F4338955589001_5089927348001_crime-patrol-satark-revised-720x405.jpg%3FpubId%3D4338955589001"
+                    },
+                    "sub_9" : {
+                      "auto_banner" : false,
+                      "auto_thumbnail" : false,
+                      "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5594171679001_5506217906001-th.jpg%3FpubId%3D4338955589001",
+                      "id" : 9,
+                      "name" : "The Drama Company",
+                      "sub" : {
+                        "sub_1" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 1,
+                          "name" : "HD Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzQsJI_IUrPDo8Fin46xvBK",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "website_url" : "http://www.sonyliv.com/details/show/5506217906001/The-Drama-Company"
+                        },
+                        "sub_2" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 2,
+                          "name" : "Full Episodes",
+                          "playlist_id" : "PLzufeTFnhupzkpeOvZH74ZQq8U3DY4s5-",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_3" : {
+                          "auto_banner" : false,
+                          "auto_thumbnail" : false,
+                          "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5594171679001_5506217906001-th.jpg%3FpubId%3D4338955589001",
+                          "id" : 3,
+                          "name" : "Short Episodes",
+                          "playlist_id" : "PLzufeTFnhupzQsJI_IUrPDo8Fin46xvBK",
+                          "sub_name" : "",
+                          "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5594171679001_5506217906001-th.jpg%3FpubId%3D4338955589001"
+                        },
+                        "sub_4" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 4,
+                          "name" : "Comedy Show | Parts",
+                          "playlist_id" : "PLzufeTFnhupz7NuNDinr9G055uDe-ZFE9",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_5" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 5,
+                          "name" : "Comedy Show | Best",
+                          "playlist_id" : "PLzufeTFnhupynCCv3LgdvfzCi9qqmzyNE",
+                          "sub_name" : "",
+                          "thumbnail_url" : ""
+                        },
+                        "sub_8" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 8,
+                          "name" : "Promo",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "Q3vJQBGkacU"
+                        },
+                        "sub_9" : {
+                          "auto_banner" : true,
+                          "auto_thumbnail" : true,
+                          "banner_url" : "",
+                          "id" : 9,
+                          "name" : "Star Casting",
+                          "sub_name" : "",
+                          "thumbnail_url" : "",
+                          "youtube_video_id" : "uvQYBuwOUu0"
+                        }
+                      },
+                      "sub_name" : "",
+                      "thumbnail_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F09%2F4338955589001_5594171679001_5506217906001-th.jpg%3FpubId%3D4338955589001"
+                    }
+                  },
+                  "sub_name" : "Shows",
+                  "thumbnail_url" : "ttps://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/SAB%20TV.jpeg?alt=media&token=c0fdc769-19a4-4ba7-a5ff-d2eed9cead71"
                 },
                 "sub_2" : {
                   "auto_banner" : false,
@@ -20120,7 +21441,7 @@
                     }
                   },
                   "sub_name" : "Shows",
-                  "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpeg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663"
+                  "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Sony-TV.jpg?alt=media&token=57a361a4-0627-4233-b93a-a3471f5b2663"
                 },
                 "sub_3" : {
                   "auto_banner" : false,
