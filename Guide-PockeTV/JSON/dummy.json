@@ -18059,7 +18059,6 @@
                   "auto_thumbnail" : false,
                   "banner_url" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F5182475815001%2F2018%2F01%2F5182475815001_5704890651001_5704893697001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5704893697001",
                   "banner_url1" : "http://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_auto,e_contrast:30,e_brightness:10/http%3A%2F%2Fsetindiapd.brightcove.com.edgesuite.net%2F4338955589001%2F2017%2F03%2F4338955589001_5380327010001_4600324971001-th.jpg%3FpubId%3D4338955589001",
-                  "id" : 0,
                   "name" : "SAB TV",
                   "sub" : {
                     "sub_-1" : {
@@ -18805,7 +18804,6 @@
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg",
-                  "id" : 1,
                   "name" : "SAB TV",
                   "sub" : {
                     "sub_-1" : {
@@ -19551,7 +19549,6 @@
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://www.tellyupdates.com/wp-content/uploads/2017/11/Porus.jpg",
-                  "id" : 2,
                   "name" : "SONY TV",
                   "sub" : {
                     "sub_0" : {
@@ -20872,7 +20869,6 @@
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "https://secure-media1.hotstar.com/r1/thumbs/PCTV/67/9567/PCTV-9567-hd.jpg",
-                  "id" : 3,
                   "name" : "STAR PLUS",
                   "sub" : {
                     "sub_1" : {
@@ -21105,7 +21101,6 @@
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://static02.colorstv.com/d295ef40409e4151a035a2d036c6d603.jpg",
-                  "id" : 4,
                   "name" : "COLORS TV",
                   "sub" : {
                     "sub_1" : {
@@ -21317,7 +21312,6 @@
                   "auto_banner" : true,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/did-574x35-40ad4efd656b7cb.jpg",
-                  "id" : 5,
                   "name" : "ZEE TV",
                   "sub" : {
                     "sub_0" : {
@@ -21438,7 +21432,6 @@
                   "auto_banner" : false,
                   "auto_thumbnail" : false,
                   "banner_url" : "https://secure-media0.hotstar.com/r1/thumbs/PCTV/34/15034/PCTV-15034-hd.jpg",
-                  "id" : 6,
                   "name" : "LIFE OK",
                   "sub" : {
                     "sub_1" : {
@@ -21499,7 +21492,6 @@
                   "auto_banner" : true,
                   "auto_thumbnail" : false,
                   "banner_url" : "http://akamai.vidz.zeecdn.com/ozee/shows/bhabhi-ji-ghar-par-hain---shanivaar-special/listing-image-small-sani.jpg",
-                  "id" : 7,
                   "name" : "&TV",
                   "sub" : {
                     "sub_1" : {
@@ -21610,7 +21602,6 @@
                   "auto_banner" : true,
                   "auto_thumbnail" : false,
                   "banner_url" : "https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/series_cover_image/splitsvilla-web-v2_108.jpg",
-                  "id" : 8,
                   "name" : "MTV",
                   "sub" : {
                     "sub_1" : {
