@@ -8197,7 +8197,6 @@
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "",
-        "id": 35,
         "initial_btn_name": "SETUP TV",
         "initial_desc": "(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
         "initial_title": "Follow Below Step",
