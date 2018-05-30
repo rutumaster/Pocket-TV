@@ -8092,7 +8092,7 @@
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
-            "banner_url": "",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
             "initial_btn_name": "SETUP TV",
             "initial_desc": "(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
             "initial_title": "Follow Below Step",
@@ -8101,7 +8101,7 @@
             "success_btn_name": "OPEN NOW",
             "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
             "success_title": "Success",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pro_PocketTV-Logo.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
             "video_title": "How to setup",
             "video_url": "",
             "youtube_video_id": ""
