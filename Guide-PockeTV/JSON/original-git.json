@@ -257,7 +257,7 @@
             "auto_thumbnail": false,
             "banner_url": "",
             "initial_btn_name": "SETUP TV",
-            "initial_desc": "(0). Download Link : <a href='https://www.android-examples.com//'>Android-Examples.com</a>\n\n(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
+            "initial_desc": "(0). Download Link : <a href='https://www.android-examples.com//'>Android-Examples.com</a><br><br>(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.",
             "initial_title": "Follow Below Step",
             "name": "Upgrade Me",
             "sub_name": "2000+ Channels",
