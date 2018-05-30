@@ -8819,7 +8819,7 @@
             "auto_thumbnail": false,
             "banner_url": "",
             "initial_btn_name": "SETUP TV",
-            "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/Guide-PockeTV/APKS/PocketTV-Live-v3.apk'>DOWNLOAD HERE</a><br><br>",
+            "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a><br><br>",
             "initial_title": "Follow Below Step",
             "name": "Upgrade Me",
             "sub_name": "2000+ Channels",
@@ -8843,7 +8843,7 @@
       "cast_referer": "https://www.metube.id",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
       "filename": "RUTU_CHROMECAST.apk",
-      "initial_cast_message": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Pocket TV and you will see your plugin activated.",
+      "initial_cast_message": "Do you need Chromecast support then follow below steps :<br><br>(1). Press \"SETUP\" button.<br>(2). If It will ask for permission please allow.<br>(3). It will open download dialog and please wait till download completion.<br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br>(5). After It will popup for installation screen and then \"INSTALL\" it.<br>(6). After installation complete press \"DONE\" button.<br>(7). Come back to Pocket TV and you will see your plugin activated.<br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/Guide-PockeTV/APKS/PocketTV-Live-v3.apk'>DOWNLOAD HERE</a><br><br>",
       "progress_download_message": "Downloading...",
       "progress_install_message": "Install Now",
       "success_cast_message": "Now You can Chromecast Your Video From Player."
