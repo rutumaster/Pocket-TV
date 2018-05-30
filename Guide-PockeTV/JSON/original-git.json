@@ -250,6 +250,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/Reak-Madrid-TV.jpeg?alt=media&token=075ecd80-2939-48a3-8cda-4607d4f2bc54"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -309,6 +310,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Australia/Aus-Plus.jpeg?alt=media&token=58a26b50-f560-4e62-9fff-b9624b7a7266"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -369,6 +371,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Germany/VOX.jpeg?alt=media&token=033f491c-e979-4ea7-a7e5-c13a592f2428"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -448,6 +451,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Soudi%20Arabia/Al-Hadath.jpeg?alt=media&token=1ee9be25-eb47-458e-b6c8-013b61dc0d16"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -508,6 +512,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Philippience/K-Channel.jpeg?alt=media&token=250bf218-5e0a-42e4-9d85-f9695bc29339"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -568,6 +573,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Indonesia/TVRI.jpeg?alt=media&token=be4ca8d6-34bf-4ca2-9144-63ce5e9c8c68"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -628,6 +634,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Srilanka/Hiru-TV.jpeg?alt=media&token=abc31155-21d8-49e6-9a89-71add987c943"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -688,6 +695,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Afghan/Rah-E-Farda.jpeg?alt=media&token=84d8fe39-13ef-4e5e-86f4-38b3882971b2"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -768,6 +776,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/France%20TV/TCM-Cinema.jpeg?alt=media&token=ec7ca8a7-d756-4856-8e31-618361a60930"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -828,6 +837,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Belgium/La-Deux.jpeg?alt=media&token=f60b3a47-70dc-4111-b898-46257da0d411"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -887,6 +897,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/IRANI/Gem-Junior.jpeg?alt=media&token=4cfabe20-b2eb-4de9-b34a-e49c767d83c3"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1014,6 +1025,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/Zing-TV.jpg?alt=media&token=bc141d64-d309-41e4-a379-4782ae318e9b"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1074,6 +1086,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Mauritius/Radio-Maurice.jpeg?alt=media&token=144bc647-6e0f-4b56-8c33-5c9510586f6f"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1133,6 +1146,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Portugal/Baby-TV.jpeg?alt=media&token=e989ca45-e06a-4bb4-ac86-fba304231e92"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1202,6 +1216,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Italy/Pre-Action.jpeg?alt=media&token=39cc38de-46d7-4c33-8e8d-ea26684a9f8a"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1302,6 +1317,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Turkish/TV2.jpeg?alt=media&token=ae1235a6-c978-4132-afb6-d57c90748a19"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1342,6 +1358,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Wild/History-tv-18-Telugu.jpeg?alt=media&token=52700b62-bc68-49f7-8dbc-f000b60290ba"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1402,6 +1419,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Religious/Hadi-TV.jpeg?alt=media&token=c14a9c9a-8758-4f56-81bb-df8ade90de8c"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -1538,6 +1556,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/vsh-tv.jpeg?alt=media&token=4efebee0-bc95-43b6-a146-a7cffe11e7ed"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8143,6 +8162,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Pop-Tv.jpeg?alt=media&token=b0eefc62-3df1-43ba-b094-d5c4280c4665"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8162,6 +8182,7 @@
             "youtube_video_id": ""
           },
           "sub_upgrade1": {
+            "id" : 999,
             "android_app_download_url": "",
             "website_url" : "https://www.google.com/",
             "is_system_browser" : true,
@@ -8276,6 +8297,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/USA/cbs-tv.jpeg?alt=media&token=f2eb4df6-4762-45ad-af07-710e8149a457"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8384,6 +8406,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Vissa-TV.jpeg?alt=media&token=6a5f53bd-4c48-4ead-b2a7-fb1d86f6b93a"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8482,6 +8505,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Punjabi/Britasia-TV.jpeg?alt=media&token=e36bb5f1-cc8b-4726-a25b-88aabcc14909"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8630,6 +8654,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Bangla/Tara-Muzik.jpeg?alt=media&token=47452c23-fa41-4a41-9cef-9beb55ad04d1"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8728,6 +8753,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Watch.jpeg?alt=media&token=3258404e-b4e9-40f5-8ff6-4c26eba3cee7"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
@@ -8788,6 +8814,7 @@
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Nepal/Image-TV.jpeg?alt=media&token=6ea4447f-9cdd-4a52-8882-d5a3d0e27a94"
           },
           "sub_upgrade": {
+            "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
