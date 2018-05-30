@@ -9095,20 +9095,6 @@
       "texture_Bg_url": "",
       "video_btn_Color": "#c0392b",
       "video_btn_title": "How to setup"
-    },
-    "Update_App": {
-      "alert_message": "Please, update app to new version to continue reposting.",
-      "alert_title": "New version available",
-      "download_url": "",
-      "filename": "RUTU.apk",
-      "force": true,
-      "is_system_browser": true,
-      "progress_download_message": "Downloading...",
-      "progress_install_message": "Install Now",
-      "update_current_version": "5.0.0",
-      "update_required": true,
-      "update_store_app_id": "com.rutu.master.pockettvguide",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.rutu.master.pockettvguide"
     }
   }
 }
