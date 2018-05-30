@@ -8087,25 +8087,25 @@
         "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
       },
       "main_33": {
-            "id" : 999,
-            "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
-            "android_app_id": "com.rutu.master.pockettv",
-            "auto_banner": false,
-            "auto_thumbnail": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
-            "initial_btn_name": "SETUP TV",
-            "initial_desc": "(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
-            "initial_title": "Follow Below Step",
-            "name": "TV Shows",
-            "sub_name": "",
-            "success_btn_name": "OPEN NOW",
-            "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
-            "success_title": "Success",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
-            "video_title": "How to setup",
-            "video_url": "",
-            "youtube_video_id": ""
-          },
+        "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
+        "android_app_id": "com.rutu.master.pockettv",
+        "auto_banner": false,
+        "auto_thumbnail": false,
+        "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
+        "id": 33,
+        "initial_btn_name": "SETUP TV",
+        "initial_desc": "(1). Press \"SETUP TV\" Button.\n\n(2). If It will ask for permission please allow.\n\n(3). It will open download dialog and please wait till download completion.\n\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n\n(5). After It will popup installation screen and then \"INSTALL\" it.\n\n(6). After installation complete press \"DONE\" button.\n\n(7). You will see here \"OPEN TV\" Button.\n\n(8). Now you can enjoy Pocket TV.",
+        "initial_title": "Follow Below Step",
+        "name": "TV Shows",
+        "sub_name": "",
+        "success_btn_name": "OPEN NOW",
+        "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
+        "success_title": "Success",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
+        "video_title": "How to setup",
+        "video_url": "",
+        "youtube_video_id": ""
+      },
       "main_34": {
         "auto_banner": false,
         "auto_thumbnail": false,
@@ -9040,7 +9040,7 @@
       "isOtherPlayerOption": true,
       "is_Inapp_Purchase": true,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id": "com.rutu.master.pockettvguide",
+      "parsing_from_package_id": "com.rutu.master.guidepockettv",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings": {
@@ -9061,20 +9061,20 @@
       "is_Inapp_Purchase": true,
       "is_Rate": true,
       "is_Share": true,
-      "parsing_from_package_id": "com.rutu.master.pockettvguide",
+      "parsing_from_package_id": "com.rutu.master.guidepockettv",
       "success_remove_ads_Permanent_message": "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings": {
       "developer_Id": "World+Pocket+TV+Inc.",
       "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
-      "dummy_version": "5.0.0",
+      "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.rutu.master.pockettvguide",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.pockettvguide",
+      "package_Id": "com.rutu.master.guidepockettv",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -9095,6 +9095,20 @@
       "texture_Bg_url": "",
       "video_btn_Color": "#c0392b",
       "video_btn_title": "How to setup"
+    },
+    "Update_App": {
+      "alert_message": "Please, update app to new version to continue reposting.",
+      "alert_title": "New version available",
+      "download_url": "",
+      "filename": "RUTU.apk",
+      "force": true,
+      "is_system_browser": true,
+      "progress_download_message": "Downloading...",
+      "progress_install_message": "Install Now",
+      "update_current_version": "2.0.0",
+      "update_required": true,
+      "update_store_app_id": "com.rutu.master.guidepockettv",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv"
     }
   }
 }
