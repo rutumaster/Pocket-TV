@@ -207,7 +207,7 @@
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
-            "swift_id": 7592,
+            "swift_id": 78448,
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
           },
           "sub_3": {
@@ -229,16 +229,6 @@
             "sub_name": "",
             "swift_id": 7413,
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
-          },
-          "sub_5": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
-            "id": 5,
-            "name": "Channel 5",
-            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 78448,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
           },
           "sub_upgrade": {
             "id" : 999,
