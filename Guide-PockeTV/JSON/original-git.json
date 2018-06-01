@@ -8584,18 +8584,7 @@
         "id": 3,
         "name": "Pakistani Live",
         "sub": {
-          "sub_15":
-          {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Atv.jpeg?alt=media&token=ae85c663-bfa8-4bb3-ae95-d6d4c9fa9e25",
-            "id": 15,
-            "name": "Atv",
-            "stream_url": "http://server4.servep2p.com:7071/tinybeta/atv/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 582,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Atv.jpeg?alt=media&token=ae85c663-bfa8-4bb3-ae95-d6d4c9fa9e25"
-          },
-          "sub_1": {
+           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
             "id": 1,
