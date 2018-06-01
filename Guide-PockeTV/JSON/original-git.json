@@ -9364,7 +9364,7 @@
       "nexgtvUrl": "http://93.174.93.84:8081/"
     },
     "Other_Player_Unlock": {
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
+      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2aiT7flRhcDj5SUg7iDNH/l30hpW5GNPbM+LxpKTfGI223JHJ8fitH0cKEh2H5fEH5QJOlvLn4iLihpZkuQFLluyHtTSIF80kJr9nzmbAO4EAIj9f2jrsn8KhPnefztsIqxJ89oKmKXxQ3G/O8Nalf/p8rXYT3gj4ylkV5wRcPnsPsK20Vk5BemhabxIR+rU40ZK6+2udc193vR6QeITQKPXwCyzu/bJAkQwptYXYclSiHy86lrJNU9NiTUjN+BV6KL8sEiqP6xeQ7gR20TCWPdGj7shEEqVtjcXmNt2dj//gcxTNWxGawZwF7OwwgOmjl5ej9pdIL1ln43Xo4bQwIDAQAB",
       "inapp_other_player_sku": "com.rutu.master.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isOtherPlayerOption": true,
@@ -9384,8 +9384,8 @@
       "sucess_rateus_message": "Congratulations!\nYou have sucessfully unlock."
     },
     "Remove_Ads_Setting": {
-      "delay_Activation_Milisecond": 3000,
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
+      "delay_Activation_Milisecond": 5000,
+      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2aiT7flRhcDj5SUg7iDNH/l30hpW5GNPbM+LxpKTfGI223JHJ8fitH0cKEh2H5fEH5QJOlvLn4iLihpZkuQFLluyHtTSIF80kJr9nzmbAO4EAIj9f2jrsn8KhPnefztsIqxJ89oKmKXxQ3G/O8Nalf/p8rXYT3gj4ylkV5wRcPnsPsK20Vk5BemhabxIR+rU40ZK6+2udc193vR6QeITQKPXwCyzu/bJAkQwptYXYclSiHy86lrJNU9NiTUjN+BV6KL8sEiqP6xeQ7gR20TCWPdGj7shEEqVtjcXmNt2dj//gcxTNWxGawZwF7OwwgOmjl5ej9pdIL1ln43Xo4bQwIDAQAB",
       "inapp_remove_ads_sku": "com.rutu.master.removeads",
       "initial_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase": true,
