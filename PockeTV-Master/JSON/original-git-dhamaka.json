@@ -8006,7 +8006,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/EPT-HD.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "EPT HD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8016,7 +8016,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/EPT-1.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "EPT 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8026,7 +8026,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/EPT-2.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "EPT 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8036,7 +8036,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://github.com/rutumaster/Pocket-TV/blob/Final-Apps/COMMON/Images-PocketTV/Greek/EPT-3.jpeg?raw=true",
-            "id": 4,
+            "ids": 4,
             "name": "EPT 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8046,7 +8046,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/SKAI.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "SKAI",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8056,7 +8056,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/ANT-1.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "ANT 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8066,7 +8066,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Mega.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "MEGA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8076,7 +8076,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Makedonia-TV.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "MAKEDONIA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8086,7 +8086,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/4E-TV.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "4E TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8096,7 +8096,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Action-24.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "ACTION 24",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8106,7 +8106,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Airqio-TV.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "AIGAIO TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8116,7 +8116,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/E-TV.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "E TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8126,7 +8126,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Discovery-ID.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "DISCOVERY ID",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8136,7 +8136,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/NAT-Geo.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "NAT GEO",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8146,7 +8146,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Kontra-TV.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "KONTRA TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8156,7 +8156,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Sigma-SY-TV.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "SIGMA SY TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8166,7 +8166,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Star-TV.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "STAR TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8176,7 +8176,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Nicklodeon.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "NICKLODEON",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8186,7 +8186,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/TLC-GR.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "TLC GR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8196,7 +8196,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/Travel-Channel.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "TRAVEL CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8206,7 +8206,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/TV-100.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "TV 1000",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8216,7 +8216,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/AB.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "AB",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8226,7 +8226,7 @@
           "sub_23": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/OTE-Cinema-1.jpeg",
-            "id": 23,
+            "ids": 23,
             "name": "OTE CINEMA 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8236,7 +8236,7 @@
           "sub_24": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/OTE-Cinema-2.jpeg",
-            "id": 24,
+            "ids": 24,
             "name": "OTE CINEMA 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8246,7 +8246,7 @@
           "sub_25": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/OTE-Cinema-3.jpeg",
-            "id": 25,
+            "ids": 25,
             "name": "OTE CINEMA 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8256,7 +8256,7 @@
           "sub_26": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Greek/OTE-Cinema-4.jpeg",
-            "id": 26,
+            "ids": 26,
             "name": "OTE CINEMA 4",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8277,7 +8277,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/NPO-1.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "NPO 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8287,7 +8287,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/NPO-2.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "NPO 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8297,7 +8297,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/NPO-3.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "NPO 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8307,7 +8307,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/RTL-4.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "RTL 4",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8317,7 +8317,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/RTL-5.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "RTL 5",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8327,7 +8327,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/RTL-7.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "RTL 7",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8337,7 +8337,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/RTL-8.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "RTL 8",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8347,7 +8347,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/SBS-6.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "SBS 6",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8357,7 +8357,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/SBS-9.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "SBS 9",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8367,7 +8367,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Extra-1.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "ZIGGO EXTRA 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8377,7 +8377,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Extra-2.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "ZIGGO EXTRA 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8387,7 +8387,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Golf.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "ZIGGO GOLF",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8397,7 +8397,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Racing.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "ZIGGO RACING",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8407,7 +8407,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Volebal.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "ZIGGO VOETBAL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8417,7 +8417,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Netharland/Ziggo-Select.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "ZIGGO SELECT",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8438,7 +8438,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/TVP-1.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "TVP 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8448,7 +8448,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/TVP-2.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "TVP 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8458,7 +8458,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-News.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "POLSAT NEWS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8468,7 +8468,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-Film.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "POLSAT FILM",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8478,7 +8478,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-Cafe.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "POLSAT CAFE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8488,7 +8488,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-Play.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "POLSAT PLAY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8498,7 +8498,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-1.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "POLSAT 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8508,7 +8508,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-2.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "POLSAT 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8518,7 +8518,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Filmbox-Action.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "FILMBOX ACTION",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8528,7 +8528,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Filmbox-Premium.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "FILMBOX PREMIUM",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8538,7 +8538,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/MTV-PL.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "MTV PL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8548,7 +8548,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Polsat-Romance.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "POLSAT ROMAS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8558,7 +8558,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/AXN-Pl.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "AXN PL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8568,7 +8568,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/BBC-Earth.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "EARTH BBC",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8578,7 +8578,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Discovery-PL.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "DISCOVERY PL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8588,7 +8588,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Discovery-Science-PL.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "DISCOVERY SCI PL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8598,7 +8598,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Eleven.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "ELEVEN",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8608,7 +8608,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Eleven-Sports.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "SPORTS ELEVEN",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8618,7 +8618,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/NAT-Geographic-PL.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "NAT GEOGRAPHIC",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8628,7 +8628,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/Nat-Geo-Wild-PL.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "NAT GEO WILD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8638,7 +8638,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/NICKLODEON.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "NICKLODEON",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8648,7 +8648,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/History-TV.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "HISTORY TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8658,7 +8658,7 @@
           "sub_23": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Poland/BBC-Poland.jpeg",
-            "id": 23,
+            "ids": 23,
             "name": "BBC POLAND",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8679,7 +8679,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/AMC.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "AMC",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8689,7 +8689,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Antena-3.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "ANTENA 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8699,7 +8699,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Disney-Channel.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "DISNEY CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8709,7 +8709,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Disney-Junior.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "DISNEY JR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8719,7 +8719,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Bein-Sports-ES.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "BEIN SPORTS ES",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8729,7 +8729,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Bein-Laliga.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "BEIN LALIGA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8739,7 +8739,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/FOX.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "FOX",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8749,7 +8749,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/History-Espanol.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "HISTORY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8759,7 +8759,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/LA-1.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "LA 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8769,7 +8769,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/LA-2.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "LA 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8779,7 +8779,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/LA-Sexta.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "LA SEXTA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8789,7 +8789,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Motogp.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "M MOTOTGP",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8799,7 +8799,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Cine-N.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "CINE M",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8809,7 +8809,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Formula-1.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "M FORMULA 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8819,7 +8819,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Futbol.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "M FUTBOL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8829,7 +8829,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Accion.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "M ACCION",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8839,7 +8839,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Comedia.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "M COMEDIA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8849,7 +8849,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-DCine.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "M DCINE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8859,7 +8859,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/M-Series-Xtra.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "M SERIES XTRA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8869,7 +8869,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/SyFy-TV.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "SYFY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8879,7 +8879,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/TNT.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "TNT",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8889,7 +8889,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Spain/Toros-TV.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "TOROS TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8910,7 +8910,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/NRT.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "NRT",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8920,7 +8920,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/NRT-2.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "NRT 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8930,7 +8930,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdmax-Show.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "Kurdmax",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8940,7 +8940,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Rudaw.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "Rudaw",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8950,7 +8950,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/KNN.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "KNN",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8960,7 +8960,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdistan-TV.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "KURDISTAN TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8970,7 +8970,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Speda-TV.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "Speda Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8980,7 +8980,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Newline-HD.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "Newline HD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -8990,7 +8990,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdmax-Pepule.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "Kurdmax Pepule",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9000,7 +9000,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdsat-TV.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "Kurdsat Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9010,7 +9010,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdistan-24.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "Kurdistan 24",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9020,7 +9020,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/VIN-TV.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "Vin Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9030,7 +9030,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Korek-TV.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "Korek Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9040,7 +9040,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Zagros-TV.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "Zagros Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9050,7 +9050,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Medya-Haber.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "Medya Haber",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9060,7 +9060,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Net-TV-HD.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "Net Tv HD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9070,7 +9070,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Ronahi-TV.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "Ronahi Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9080,7 +9080,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Kurdmax-Show.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "Kurdmax Show",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9090,7 +9090,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Pelistank-TV.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "Pelistank Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9100,7 +9100,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Zarok-TV.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "Zarok Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9110,7 +9110,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Gali-Kurdistan.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "Gali Kurdistan",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9120,7 +9120,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Sterk-TV.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "Sterk Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9130,7 +9130,7 @@
           "sub_23": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Aso-Sports.jpeg",
-            "id": 23,
+            "ids": 23,
             "name": "Aso Sports",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9140,7 +9140,7 @@
           "sub_24": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Asport.jpeg",
-            "id": 24,
+            "ids": 24,
             "name": "Asports",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9150,7 +9150,7 @@
           "sub_25": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Astera.jpeg",
-            "id": 25,
+            "ids": 25,
             "name": "Astera",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9160,7 +9160,7 @@
           "sub_26": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/I-Movies.jpeg",
-            "id": 26,
+            "ids": 26,
             "name": "I Movies",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9170,7 +9170,7 @@
           "sub_27": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Cira-TV.jpeg",
-            "id": 27,
+            "ids": 27,
             "name": "CIRA TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9180,7 +9180,7 @@
           "sub_28": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Lalish-TV.jpeg",
-            "id": 28,
+            "ids": 28,
             "name": "LALISH TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9201,7 +9201,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Aksion.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "FILM AKSION",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9211,7 +9211,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Autor.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "FILM AUTOR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9221,7 +9221,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Drame.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "FILM DRAME",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9231,7 +9231,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Hits.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "FILM HITS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9241,7 +9241,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Gold.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "FILM GOLD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9251,7 +9251,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Comedi.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "FILM COMEDI",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9261,7 +9261,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Natyra.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "FILM NATYRA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9271,7 +9271,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-NJE.jpeg",
-            "id": 81,
+            "ids": 81,
             "name": "FILM NJE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9281,7 +9281,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Skhence.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "FILM SKHENCE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9291,7 +9291,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-Thriller.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "FILM THRILLER",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9301,7 +9301,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Film-DY.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "FILM DY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9311,7 +9311,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/KLAN-TV.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "KLAN TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9321,7 +9321,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/KLAN-Kosova.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "KLAN KOSOVA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9331,7 +9331,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/RTV-21.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "RTV 21",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9341,7 +9341,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/RTV-21-Junior.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "RTV 21 JUNIOR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9351,7 +9351,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Life.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "TRING LIFE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9361,7 +9361,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Max.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "TRING MAX",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9371,7 +9371,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Planet.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "TRING PLANET",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9381,7 +9381,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Shqip.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "TRING SHQIP",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9391,7 +9391,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Sports-News.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "TRING SPORTS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9401,7 +9401,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Super.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "TRING SUPER",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9411,7 +9411,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Tring.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "TRING TRING",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9421,7 +9421,7 @@
           "sub_23": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-World.jpeg",
-            "id": 23,
+            "ids": 23,
             "name": "TRING WORLD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9431,7 +9431,7 @@
           "sub_24": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Pink-Comedy.jpeg",
-            "id": 24,
+            "ids": 24,
             "name": "PINK COMEDY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9441,7 +9441,7 @@
           "sub_25": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Pink-Romance.jpeg",
-            "id": 25,
+            "ids": 25,
             "name": "PINK ROMANCE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9451,7 +9451,7 @@
           "sub_26": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Pink-thriller.jpeg",
-            "id": 26,
+            "ids": 26,
             "name": "PINK THRILLER",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9461,7 +9461,7 @@
           "sub_27": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Pink-Zabava.jpeg",
-            "id": 27,
+            "ids": 27,
             "name": "PINK ZABAVA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9471,7 +9471,7 @@
           "sub_28": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Sport-1.jpeg",
-            "id": 28,
+            "ids": 28,
             "name": "TRING SP 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9481,7 +9481,7 @@
           "sub_29": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Sport-2.jpeg",
-            "id": 29,
+            "ids": 29,
             "name": "TRING SP 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9491,7 +9491,7 @@
           "sub_30": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Sport-3.jpeg",
-            "id": 30,
+            "ids": 30,
             "name": "TRING SP 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9501,7 +9501,7 @@
           "sub_31": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Tring-Sport-4.jpeg",
-            "id": 31,
+            "ids": 31,
             "name": "TRING SP 4",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9511,7 +9511,7 @@
           "sub_32": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/News-24-ALB.jpeg",
-            "id": 32,
+            "ids": 32,
             "name": "NEWS 24 ALB",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9521,7 +9521,7 @@
           "sub_33": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Vision-Plus.jpeg",
-            "id": 33,
+            "ids": 33,
             "name": "VIZION PLUS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9531,7 +9531,7 @@
           "sub_34": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Albania/Alpha.jpeg",
-            "id": 34,
+            "ids": 34,
             "name": "ALPHA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9552,7 +9552,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/acasa.jpeg",
-            "id": 1,
+            "ids": 1,
             "name": "ACASA",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9562,7 +9562,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Antena-1.jpeg",
-            "id": 2,
+            "ids": 2,
             "name": "ANTENA 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9572,7 +9572,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Antena-3.jpeg",
-            "id": 3,
+            "ids": 3,
             "name": "ANTENA 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9582,7 +9582,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Antena-Stars.jpeg",
-            "id": 4,
+            "ids": 4,
             "name": "ANTENA STAR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9592,7 +9592,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/AXN.jpeg",
-            "id": 5,
+            "ids": 5,
             "name": "AXN",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9602,7 +9602,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/AXN-Black.jpeg",
-            "id": 6,
+            "ids": 6,
             "name": "AXN BLACK",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9612,7 +9612,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/AXN-White.jpeg",
-            "id": 7,
+            "ids": 7,
             "name": "AXN WHITE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9622,7 +9622,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Digi-Animal-World.jpeg",
-            "id": 8,
+            "ids": 8,
             "name": "DIGI ANIMAL WORLD",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9632,7 +9632,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Digi-Film.jpeg",
-            "id": 9,
+            "ids": 9,
             "name": "DIGI FILM",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9642,7 +9642,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Disney-Channel.jpeg",
-            "id": 10,
+            "ids": 10,
             "name": "DISNEY CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9652,7 +9652,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Disney-JR.jpeg",
-            "id": 11,
+            "ids": 11,
             "name": "DISNEY JR",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9662,7 +9662,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Film-Cafe.jpeg",
-            "id": 12,
+            "ids": 12,
             "name": "FILM CAFE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9672,7 +9672,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Food-Network.jpeg",
-            "id": 13,
+            "ids": 13,
             "name": "FOOD NETWORK",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9682,7 +9682,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/HBO-1.jpeg",
-            "id": 14,
+            "ids": 14,
             "name": "HBO 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9692,7 +9692,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/HBO-2.jpeg",
-            "id": 15,
+            "ids": 15,
             "name": "HBO 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9702,7 +9702,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/HBO-3.jpeg",
-            "id": 16,
+            "ids": 16,
             "name": "HBO 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9712,7 +9712,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Nat-Geographic.jpeg",
-            "id": 17,
+            "ids": 17,
             "name": "NAT GEOGRAPHIC",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9722,7 +9722,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Nicklodeon.jpeg",
-            "id": 18,
+            "ids": 18,
             "name": "NICKLODEON",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9732,7 +9732,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Pro-TV.jpeg",
-            "id": 19,
+            "ids": 19,
             "name": "PRO TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9742,7 +9742,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Cartoon-Network.jpeg",
-            "id": 20,
+            "ids": 20,
             "name": "CARTOON NETWORK",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9752,7 +9752,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Digi-Sports-1.jpeg",
-            "id": 21,
+            "ids": 21,
             "name": "DIGI SPORTS 1",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9762,7 +9762,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Digi-Sports-2.jpeg",
-            "id": 22,
+            "ids": 22,
             "name": "DIGI SPORTS 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9772,7 +9772,7 @@
           "sub_23": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Viasat-History.jpeg",
-            "id": 23,
+            "ids": 23,
             "name": "VIASAT HISTORY",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9782,7 +9782,7 @@
           "sub_24": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Visat-Nature.jpeg",
-            "id": 24,
+            "ids": 24,
             "name": "VIASAT NATURE",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9792,7 +9792,7 @@
           "sub_25": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/History-TV.jpeg",
-            "id": 25,
+            "ids": 25,
             "name": "HISTORY TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9802,7 +9802,7 @@
           "sub_26": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/National-TV.jpeg",
-            "id": 26,
+            "ids": 26,
             "name": "NATIONAL TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9812,7 +9812,7 @@
           "sub_27": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Romania-TV.jpeg",
-            "id": 27,
+            "ids": 27,
             "name": "ROMANIA TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9822,7 +9822,7 @@
           "sub_28": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Kiss-TV.jpeg",
-            "id": 28,
+            "ids": 28,
             "name": "KISS TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9832,7 +9832,7 @@
           "sub_29": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Romania/Music-Channel.jpeg",
-            "id": 29,
+            "ids": 29,
             "name": "MUSIC CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9853,7 +9853,7 @@
           "sub_1": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Amarin-TV.jpg",
-            "id": 1,
+            "ids": 1,
             "name": "AMARIN TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9863,7 +9863,7 @@
           "sub_2": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Cartoon-club.jpg",
-            "id": 2,
+            "ids": 2,
             "name": "CARTOON CLUB",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9873,7 +9873,7 @@
           "sub_3": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Channel-2.jpg",
-            "id": 3,
+            "ids": 3,
             "name": "CHANNEL 2",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9883,7 +9883,7 @@
           "sub_4": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Channel-3.jpg",
-            "id": 4,
+            "ids": 4,
             "name": "CHANNEL 3",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9893,7 +9893,7 @@
           "sub_5": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Channel-5.jpg",
-            "id": 5,
+            "ids": 5,
             "name": "CHANNEL 5 ",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9903,7 +9903,7 @@
           "sub_6": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Channel-7.jpg",
-            "id": 6,
+            "ids": 6,
             "name": "CHANNEL 7",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9913,7 +9913,7 @@
           "sub_7": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Channel-8.jpg",
-            "id": 7,
+            "ids": 7,
             "name": "CHANNEL 8",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9923,7 +9923,7 @@
           "sub_8": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Mcot-TV.jpg",
-            "id": 8,
+            "ids": 8,
             "name": "MCOT TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9933,7 +9933,7 @@
           "sub_9": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/GMM-Channel.jpg",
-            "id": 9,
+            "ids": 9,
             "name": "GMM CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9943,7 +9943,7 @@
           "sub_10": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Good-TV.jpg",
-            "id": 10,
+            "ids": 10,
             "name": "GOOD TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9953,7 +9953,7 @@
           "sub_11": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Money-Channel.jpg",
-            "id": 11,
+            "ids": 11,
             "name": "MONEY CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9963,7 +9963,7 @@
           "sub_12": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Mono-29.jpg",
-            "id": 12,
+            "ids": 12,
             "name": "MONO 29",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9973,7 +9973,7 @@
           "sub_13": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Nation-TV.jpg",
-            "id": 13,
+            "ids": 13,
             "name": "NATION TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9983,7 +9983,7 @@
           "sub_14": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/NBT-Digital.jpg",
-            "id": 14,
+            "ids": 14,
             "name": "DIGITAL NBT",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -9993,7 +9993,7 @@
           "sub_15": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/New-18.jpg",
-            "id": 15,
+            "ids": 15,
             "name": "NEW 18",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10003,7 +10003,7 @@
           "sub_16": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/Now-26.jpg",
-            "id": 16,
+            "ids": 16,
             "name": "NOW 26",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10013,7 +10013,7 @@
           "sub_17": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/PPTV.jpg",
-            "id": 17,
+            "ids": 17,
             "name": "PPTV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10023,7 +10023,7 @@
           "sub_18": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/State-TV.jpg",
-            "id": 18,
+            "ids": 18,
             "name": "STATE TV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10033,7 +10033,7 @@
           "sub_19": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/TCC-TV.jpg",
-            "id": 19,
+            "ids": 19,
             "name": "TCCTV",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10043,7 +10043,7 @@
           "sub_20": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/True-Shopping.jpg",
-            "id": 20,
+            "ids": 20,
             "name": "TRUE SHOPPING",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10053,7 +10053,7 @@
           "sub_21": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/True-4U.jpg",
-            "id": 21,
+            "ids": 21,
             "name": "TRUE 4U",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
@@ -10063,7 +10063,7 @@
           "sub_22": {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Thailand/You-Channel.jpg",
-            "id": 22,
+            "ids": 22,
             "name": "YOU CHANNEL",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
