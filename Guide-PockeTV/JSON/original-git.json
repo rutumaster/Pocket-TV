@@ -19,15 +19,15 @@
         "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
         "visibility_Percentage": 0
       },
-      "default_Ads": "startapp_ads",
+      "default_Ads": "facebook_ads",
       "facebook_ads": {
-        "ads_app_id": "2078064885804841",
-        "banner_ad_unit_id": "2078064885804841_2078065275804802",
-        "interstitial_ad_unit_id": "2078064885804841_2078065662471430",
+        "ads_app_id": "147052839336335",
+        "banner_ad_unit_id": "147052839336335_147053916002894",
+        "interstitial_ad_unit_id": "147052839336335_147054086002877",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 1
+        "visibility_Percentage": 100
       },
       "google_ads": {
         "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
@@ -38,7 +38,7 @@
         "is_Interstitial_Ads": true,
         "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
-        "visibility_Percentage": 100
+        "visibility_Percentage": 0
       },
       "is_Banner_Ads": true,
       "is_Interstitial_Ads": true,
