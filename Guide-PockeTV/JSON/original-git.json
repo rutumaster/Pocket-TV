@@ -8584,7 +8584,8 @@
         "id": 3,
         "name": "Pakistani Live",
         "sub": {
-          "sub_15": {
+          "sub_15":
+          {
             "auto_banner": false,
             "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Atv.jpeg?alt=media&token=ae85c663-bfa8-4bb3-ae95-d6d4c9fa9e25",
             "id": 15,
@@ -8594,100 +8595,57 @@
             "swift_id": 582,
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Atv.jpeg?alt=media&token=ae85c663-bfa8-4bb3-ae95-d6d4c9fa9e25"
           },
-          "sub_26": {
+          "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Dhanak-tv.jpeg?alt=media&token=86214bcb-7e92-489a-b5cb-6883c6524f4e",
-            "name": "Dhanak TV",
-            "stream_url": "http://server4.servep2p.com:7071/tinybeta/dhanaktv/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 78581,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Dhanak-tv.jpeg?alt=media&token=86214bcb-7e92-489a-b5cb-6883c6524f4e"
-          },
-          "sub_31": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Falak-tv.jpeg?alt=media&token=96139b19-96b2-4abf-89b0-710ee7bad00a",
-            "name": "Falak TV",
-            "stream_url": "http://185.21.216.159:7071/tinybeta/falaktv/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 7957,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Falak-tv.jpeg?alt=media&token=96139b19-96b2-4abf-89b0-710ee7bad00a"
-          },
-          "sub_49": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/JAG-TV.jpeg?alt=media&token=b5432987-3b8b-465c-ac9d-13093e5e0a63",
-            "name": "Jaag TV",
-            "stream_url": "http://113.203.232.3:1935/live/jaagstream/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 610,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/JAG-TV.jpeg?alt=media&token=b5432987-3b8b-465c-ac9d-13093e5e0a63"
-          },
-          "sub_55": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Kashish-tv.jpeg?alt=media&token=11611ea4-2c95-4a18-9c48-f855a58f02e6",
-            "id": 55,
-            "name": "Kashish TV",
-            "stream_url": "http://server4.servep2p.com:7071/tinybeta/kashish/playlist.m3u8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "id": 1,
+            "name": "Channel 1",
+            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 627,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Kashish-tv.jpeg?alt=media&token=11611ea4-2c95-4a18-9c48-f855a58f02e6"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
           },
-          "sub_6": {
+          "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/AONA-Channel.jpeg?alt=media&token=b43a4ca8-1ba3-47bc-8346-1325b2a9aa0e",
-            "name": "Apna Channel",
-            "stream_url": "http://185.21.216.159:7071/tinybeta/apna/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 581,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/AONA-Channel.jpeg?alt=media&token=b43a4ca8-1ba3-47bc-8346-1325b2a9aa0e"
-          },
-          "sub_69": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/pashto1.jpeg?alt=media&token=4e901345-7856-450b-aa2b-13cd4bdcc220",
-            "id": 69,
-            "name": "Pashto1",
-            "stream_url": "http://185.21.216.159:7071/tinybeta/pashto1/playlist.m3u8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "id": 2,
+            "name": "Channel 2",
+            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 633,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/pashto1.jpeg?alt=media&token=4e901345-7856-450b-aa2b-13cd4bdcc220"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
           },
-          "sub_84": {
+          "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Samaa-TV.jpeg?alt=media&token=a3d5491f-6779-4e2c-889b-74533eb9b6fc",
-            "name": "Samaa TV",
-            "stream_url": "http://185.21.216.159:7071/tinybeta/samaatv/playlist.m3u8",
-            "sub_name": "",
-            "swift_id": 599,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Samaa-TV.jpeg?alt=media&token=a3d5491f-6779-4e2c-889b-74533eb9b6fc"
-          },
-          "sub_86": {
-            "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Such-TV.jpeg?alt=media&token=a531a3b5-a2a7-4f34-9f38-e4e9a1147048",
-            "id": 86,
-            "name": "Such TV",
-            "stream_url": "http://server4.servep2p.com:7071/tinybeta/suchtv/playlist.m3u8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "id": 3,
+            "name": "Channel 3",
+            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 598,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/Such-TV.jpeg?alt=media&token=a531a3b5-a2a7-4f34-9f38-e4e9a1147048"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
           },
-          "sub_9": {
+          "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/aplus-EU.jpeg?alt=media&token=ce068567-2380-4773-82b4-d78d41490d23",
-            "name": "Aplus EU",
-            "stream_url": "http://server4.servep2p.com:7071/tinybeta/apluseu/playlist.m3u8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "id": 4,
+            "name": "Channel 4",
+            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
-            "swift_id": 580,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/aplus-EU.jpeg?alt=media&token=ce068567-2380-4773-82b4-d78d41490d23"
+            "swift_id": 78488,
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
           },
-          "sub_93": {
+          "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/vsh-tv.jpeg?alt=media&token=4efebee0-bc95-43b6-a146-a7cffe11e7ed",
-            "name": "VSH TV",
-            "stream_url": "http://185.21.216.182:7071/tinybeta/vshnews/playlist.m3u8",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "id": 5,
+            "name": "Channel 5",
+            "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
-            "swift_id": 7608,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Pakistan/vsh-tv.jpeg?alt=media&token=4efebee0-bc95-43b6-a146-a7cffe11e7ed"
+            "swift_id": 78736,
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
           },
-          "sub_upgrade": {
+         "sub_upgrade": {
             "id" : 999,
             "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
             "android_app_id": "com.rutu.master.pockettv",
