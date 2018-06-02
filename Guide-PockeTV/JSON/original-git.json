@@ -40,9 +40,9 @@
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "visibility_Percentage": 100
       },
-      "is_Banner_Ads": false,
-      "is_Interstitial_Ads": false,
-      "is_StreamPlayer_Banner_Ads": false,
+      "is_Banner_Ads": true,
+      "is_Interstitial_Ads": true,
+      "is_StreamPlayer_Banner_Ads": true,
       "startapp_ads": {
         "ads_app_id": "201571398",
         "is_Ads": true,
@@ -9350,7 +9350,7 @@
       "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
       "facebook_url": "https://www.facebook.com/",
-      "isDummy": false,
+      "isDummy": true,
       "is_texture_centercrop": false,
       "package_Id": "com.rutu.master.guidepockettv",
       "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv",
