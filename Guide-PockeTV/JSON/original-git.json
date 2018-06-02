@@ -8558,7 +8558,7 @@
         "youtube_video_id": ""
       },
       "main_40": {
-        "id" : 40,
+        "ids" : 40,
         "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
