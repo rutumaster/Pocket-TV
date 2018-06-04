@@ -284,27 +284,23 @@
         "sub" : {
           "sub_1" : {
             "auto_banner" : false,
-            "url_banner" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/wwe-network.jpeg?alt=media&token=a0e8b746-fa84-4424-82d7-785e9e90e699",
             "id" : 1,
             "name" : "WWE Network",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/wwehd/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 639,
             "banner_url" : "http://swiftstreamz.com/SwiftLive/images/87423_wwe.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/87423_wwe.jpg",
-            "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/wwe-network.jpeg?alt=media&token=a0e8b746-fa84-4424-82d7-785e9e90e699"
-          },
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/87423_wwe.jpg"
+         },
           "sub_10" : {
             "auto_banner" : false,
-            "url_banner" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/arena-Sports-2.jpeg?alt=media&token=a0e460c2-c0ab-4b6e-83ec-ae6e5228d7c0",
             "id" : 10,
             "name" : "Arena Sports 2",
             "stream_url" : "http://185.21.217.34:7071/super/arenasp2/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7432,
             "banner_url" : "http://swiftstreamz.com/SwiftLive/images/60939_arena2.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/60939_arena2.jpg",
-            "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Sports/arena-Sports-2.jpeg?alt=media&token=a0e460c2-c0ab-4b6e-83ec-ae6e5228d7c0"
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/60939_arena2.jpg"
           },
           "sub_100" : {
             "auto_banner" : false,
