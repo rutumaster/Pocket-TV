@@ -1,5 +1,5 @@
 {
-  "Guide_Pocket_TV": {
+  "World_Pocket_TV": {
     "Admob_Settings": {
       "ads_Delay": 0,
       "ads_On_Cancel_Delay": 0,
@@ -9317,7 +9317,7 @@
       "isOtherPlayerOption": true,
       "is_Inapp_Purchase": true,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id": "com.rutu.master.guidepockettv",
+      "parsing_from_package_id": "com.world.guide.pockettv",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings": {
@@ -9338,7 +9338,7 @@
       "is_Inapp_Purchase": true,
       "is_Rate": true,
       "is_Share": true,
-      "parsing_from_package_id": "com.rutu.master.guidepockettv",
+      "parsing_from_package_id": "com.world.guide.pockettv",
       "success_remove_ads_Permanent_message": "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
@@ -9352,8 +9352,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.rutu.master.guidepockettv",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv",
+      "package_Id": "com.world.guide.pockettv",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.world.guide.pockettv",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -9386,8 +9386,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.rutu.master.guidepockettv",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv"
+      "update_store_app_id": "com.world.guide.pockettv",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.world.guide.pockettv"
     }
   }
 }
