@@ -192,43 +192,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7462,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78448,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 393,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7413,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -263,13 +263,13 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7477,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -304,53 +304,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78698,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79131,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78691,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79160,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78483,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -385,53 +385,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7221,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78611,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7068,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78607,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7220,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -466,23 +466,23 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7640,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7639,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -517,13 +517,13 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78622,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -558,33 +558,33 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78560,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7928,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7925,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -619,53 +619,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78336,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7042,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 288,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 278,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7618,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -700,53 +700,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7789,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7785,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7614,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7762,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7687,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -781,43 +781,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78914,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78915,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78916,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78923,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -852,43 +852,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7728,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7729,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7747,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7746,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -923,53 +923,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78510,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 410,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 481,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 550,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 551,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1004,43 +1004,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7821,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7823,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7827,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78325,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1075,43 +1075,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7999,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78763,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7966,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7968,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1146,53 +1146,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78433,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78440,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78417,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78441,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78434,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1227,43 +1227,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78704,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79093,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78715,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78659,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1298,23 +1298,23 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79266,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79273,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1349,43 +1349,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78787,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78790,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78794,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79056,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1420,23 +1420,23 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78871,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78881,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1471,43 +1471,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79018,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79027,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79030,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79041,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1542,23 +1542,23 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79074,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79082,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1593,53 +1593,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79164,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79177,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79179,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79187,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79170,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1674,43 +1674,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79234,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79255,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79256,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79252,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1745,53 +1745,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79380,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79381,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79382,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79384,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79390,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1826,53 +1826,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7364,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78355,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78590,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78804,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7679,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1907,53 +1907,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 82,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 6975,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7798,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78812,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -1988,23 +1988,23 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78520,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78893,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -8586,53 +8586,53 @@
         "sub": {
            "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 627,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 633,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 598,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78488,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78736,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
          "sub_upgrade": {
             "id" : 999,
@@ -8640,6 +8640,7 @@
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
+            "banner_url": "",
             "banner_url": "",
             "initial_btn_name": "SETUP TV",
             "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/Guide-PockeTV/APKS/PocketTV-Live-v3.apk'>DOWNLOAD HERE</a><br><br>",
@@ -8667,53 +8668,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 659,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78746,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78476,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78488,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78736,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -8748,53 +8749,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7288,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78773,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7032,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 79114,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7113,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -8829,53 +8830,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 299,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7815,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 6941,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78629,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7066,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -8910,43 +8911,43 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78602,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 322,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 299,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 6929,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -8981,53 +8982,53 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 653,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 78589,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 673,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_4": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 4,
             "name": "Channel 4",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 658,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/4.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_5": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 5,
             "name": "Channel 5",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 656,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/5.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -9062,33 +9063,33 @@
         "sub": {
           "sub_1": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 1,
             "name": "Channel 1",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7448,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/1.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_2": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 2,
             "name": "Channel 2",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7451,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/2.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_3": {
             "auto_banner": false,
-            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg",
+            "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "id": 3,
             "name": "Channel 3",
             "stream_url": "http://185.21.217.34:7071/tinybeta/attheraces/playlist.m3u8",
             "sub_name": "",
             "swift_id": 7774,
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Channels/3.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg"
           },
           "sub_upgrade": {
             "id" : 999,
@@ -9345,7 +9346,7 @@
     "Settings": {
       "is_Trial_Version" : true,
       "trial_Version_Text" : "Trial Version",
-      "developer_Id": "World+Pocket+TV+Inc.",
+      "developer_Id": "PocketTV+Inc.",
       "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
       "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
