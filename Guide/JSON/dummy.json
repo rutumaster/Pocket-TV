@@ -30365,8 +30365,8 @@
       "nexgtvUrl": "http://93.174.93.84:8081/"
     },
     "Other_Player_Unlock": {
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
-      "inapp_other_player_sku": "com.rutu.master.otherplayeroption",
+      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+      "inapp_other_player_sku": "com.world.guide.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isOtherPlayerOption": false,
       "is_Inapp_Purchase": true,
@@ -30386,8 +30386,8 @@
     },
     "Remove_Ads_Setting": {
       "delay_Activation_Milisecond": 3000,
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+kgs04E+Yqo3GT74HWCPb992eofgR+jIIYV6QHt8py9MJkDoxW1n9vAcp1xb+h9pGli32XNYRjhluSjixnIypnjGcnPBEZwTnYT/3RIGd1K0RPmmfY27q1kX4L7s5OF1MhtU1xHbdKHOLa6fWDNe3FjnvGLVvgFl/iw6tLOlI26aNQ+Q8u8b9yHUNVX91/IDGH/o6JXadAaGkZqr134Gz1mHht/bueow4MPXqYgbFT/GjAmeHo70qCS6xlKBTdefbJdrGR9xiVgiinSKcDQ3JwHh8I+1TbG/lz6cByztGosFOuFWaWd2XEkNytDtDjUusMfpBb0uLMzAnYASySbJQIDAQAB",
-      "inapp_remove_ads_sku": "com.rutu.master.removeads",
+      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+      "inapp_remove_ads_sku": "com.world.guide.removeads",
       "initial_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase": false,
       "is_Rate": true,
