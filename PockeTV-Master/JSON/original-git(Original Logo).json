@@ -29861,7 +29861,7 @@
     "Update_App" : {
       "alert_message" : "Please, update app to new version to continue reposting.",
       "alert_title" : "New version available",
-      "download_url" : "https://github.com/rutumaster/Pocket-TV/raw/master/app-release-v2.1.apk",
+      "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
       "filename" : "RUTU.apk",
       "force" : true,
       "is_system_browser" : false,
