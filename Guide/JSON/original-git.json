@@ -21,9 +21,9 @@
       },
       "default_Ads": "facebook_ads",
       "facebook_ads": {
-        "ads_app_id": "147052839336335",
-        "banner_ad_unit_id": "147052839336335_147053916002894",
-        "interstitial_ad_unit_id": "147052839336335_147054086002877",
+        "ads_app_id": "417762135358078",
+        "banner_ad_unit_id": "417762135358078_417762335358058",
+        "interstitial_ad_unit_id": "417762135358078_417762628691362",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
