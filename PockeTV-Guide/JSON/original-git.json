@@ -9078,10 +9078,10 @@
       "is_system_browser": true,
       "progress_download_message": "Downloading...",
       "progress_install_message": "Install Now",
-      "update_current_version": "5.0.0",
+      "update_current_version": "6.0.0",
       "update_required": true,
       "update_store_app_id": "com.rutu.master.pockettvguide",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.rutu.master.pockettvguide"
+      "website_Url": "https://play.google.com/store/apps/details?id=com.world.guide.pockettv"
     }
   }
 }
