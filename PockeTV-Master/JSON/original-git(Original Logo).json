@@ -10819,48 +10819,48 @@
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Aso-Sports.jpeg",
             "id": 23,
-            "name": "Aso Sports",
+            "name": "Kurdsat News",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
             "swift_id": 79089,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/12777_asosp.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/12777_asosp.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/82462_KurdsatNews.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/82462_KurdsatNews.jpg",
             "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Aso-Sports.jpeg"
           },
           "sub_24": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Asport.jpeg",
             "id": 24,
-            "name": "Asports",
+            "name": "Kanal 4",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
             "swift_id": 79090,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/44903_asports.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/44903_asports.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/69862_Kanal4.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/69862_Kanal4.jpg",
             "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Asport.jpeg"
           },
           "sub_25": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Astera.jpeg",
             "id": 25,
-            "name": "Astera",
+            "name": "FOX KURDISH",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
             "swift_id": 79091,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/73660_astera.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/73660_astera.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/82979_foxhd.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/82979_foxhd.jpg",
             "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Astera.jpeg"
           },
           "sub_26": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/I-Movies.jpeg",
             "id": 26,
-            "name": "I Movies",
+            "name": "Payam Tv",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
             "swift_id": 79092,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/82542_imovies.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/82542_imovies.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/64043_PayamTv.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/64043_PayamTv.jpg",
             "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/I-Movies.jpeg"
           },
           "sub_27": {
@@ -10879,12 +10879,12 @@
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Lalish-TV.jpeg",
             "id": 28,
-            "name": "LALISH TV",
+            "name": "HELHELOK KIDS",
             "stream_url": "http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8",
             "sub_name": "",
             "swift_id": 79159,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/72465_lalishtv.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/72465_lalishtv.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/83088_HELHELOK.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/83088_HELHELOK.jpg",
             "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kurdish/Lalish-TV.jpeg"
           }
         },
@@ -12471,8 +12471,8 @@
             "stream_url" : "http://185.21.216.159:7071/tinybeta/tiji/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7787,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/35734_tiji.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/35734_tiji.jpg",
             "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiji.jpeg?alt=media&token=21c7254b-cbf0-4521-b874-2fa19d841467"
           },
           "sub_5" : {
@@ -12483,8 +12483,8 @@
             "stream_url" : "http://185.21.216.159:7071/tinybeta/boomerang/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7795,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/99191_boomrang.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/99191_boomrang.jpg",
             "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Boomrang.jpeg?alt=media&token=28ee1dfe-c419-4e54-9f91-4935b33cae34"
           },
           "sub_50" : {
@@ -12495,21 +12495,9 @@
             "stream_url" : "http://185.21.216.192:7071/newserver/tinypop/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 7363,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/79842_tinypop.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/79842_tinypop.jpg",
             "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/tiny-pop.jpeg?alt=media&token=8a7ed994-fb31-44a4-ad74-09be89db1df8"
-          },
-          "sub_51" : {
-            "auto_banner" : false,
-            "url_banner" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8",
-            "id" : 51,
-            "name" : "Toonami",
-            "stream_url" : "http://185.21.217.34:7071/tinybeta/toonami/playlist.m3u8",
-            "sub_name" : "",
-            "swift_id" : 78471,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/52092_KIDS.jpg",
-            "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Kids/Toonami.jpeg?alt=media&token=aba0eb86-25f5-47a1-b116-cbbb024258e8"
           },
           "sub_52" : {
             "auto_banner" : false,
@@ -28754,8 +28742,8 @@
             "sub_name" : "",
             "swift_id" : 656,
             "diltv_id" : 1046,
-            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/22488_UK.jpg",
-            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/22488_UK.jpg",
+            "banner_url" : "http://swiftstreamz.com/SwiftLive/images/28932_gold.jpg",
+            "thumbnail_url" : "http://swiftstreamz.com/SwiftLive/images/28932_gold.jpg",
             "url_thumbnail" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/UK/Gold.jpeg?alt=media&token=7074e3cb-8e73-4fa9-9742-7332d245ed9a"
           },
           "sub_33" : {
@@ -29811,13 +29799,13 @@
       "nexgtvUrl" : "http://93.174.93.84:8081/"
     },
     "Other_Player_Unlock" : {
-      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2aiT7flRhcDj5SUg7iDNH/l30hpW5GNPbM+LxpKTfGI223JHJ8fitH0cKEh2H5fEH5QJOlvLn4iLihpZkuQFLluyHtTSIF80kJr9nzmbAO4EAIj9f2jrsn8KhPnefztsIqxJ89oKmKXxQ3G/O8Nalf/p8rXYT3gj4ylkV5wRcPnsPsK20Vk5BemhabxIR+rU40ZK6+2udc193vR6QeITQKPXwCyzu/bJAkQwptYXYclSiHy86lrJNU9NiTUjN+BV6KL8sEiqP6xeQ7gR20TCWPdGj7shEEqVtjcXmNt2dj//gcxTNWxGawZwF7OwwgOmjl5ej9pdIL1ln43Xo4bQwIDAQAB",
-      "inapp_other_player_sku" : "com.rutu.master.otherplayeroption",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+      "inapp_other_player_sku" : "com.world.guide.otherplayeroption",
       "initial_other_player_message" : "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isOtherPlayerOption" : true,
       "is_Inapp_Purchase" : true,
       "other_player_image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id" : "com.rutu.master.guidepockettv",
+      "parsing_from_package_id" : "com.world.guide.pockettv",
       "success_other_player_Permanent_message" : "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings" : {
@@ -29827,26 +29815,28 @@
     },
     "Remove_Ads_Setting" : {
       "delay_Activation_Milisecond" : 5000,
-      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2aiT7flRhcDj5SUg7iDNH/l30hpW5GNPbM+LxpKTfGI223JHJ8fitH0cKEh2H5fEH5QJOlvLn4iLihpZkuQFLluyHtTSIF80kJr9nzmbAO4EAIj9f2jrsn8KhPnefztsIqxJ89oKmKXxQ3G/O8Nalf/p8rXYT3gj4ylkV5wRcPnsPsK20Vk5BemhabxIR+rU40ZK6+2udc193vR6QeITQKPXwCyzu/bJAkQwptYXYclSiHy86lrJNU9NiTUjN+BV6KL8sEiqP6xeQ7gR20TCWPdGj7shEEqVtjcXmNt2dj//gcxTNWxGawZwF7OwwgOmjl5ej9pdIL1ln43Xo4bQwIDAQAB",
-      "inapp_remove_ads_sku" : "com.rutu.master.removeads",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+      "inapp_remove_ads_sku" : "com.world.guide.removeads",
       "initial_remove_ads_message" : "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase" : true,
       "is_Rate" : true,
       "is_Share" : true,
-      "parsing_from_package_id" : "com.rutu.master.guidepockettv",
+      "parsing_from_package_id" : "com.world.guide.pockettv",
       "success_remove_ads_Permanent_message" : "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message" : "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings" : {
-      "developer_Id" : "World+Pocket+TV+Inc.",
+      "is_Trial_Version" : false,
+      "trial_Version_Text" : "Trial Version",
+      "developer_Id": "PocketTV+Developer",
       "dummyURL" : "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
       "dummy_version" : "3.0.0",
       "facebook_page_id" : 822625707789265,
       "facebook_url" : "https://www.facebook.com/",
       "isDummy" : false,
       "is_texture_centercrop" : false,
-      "package_Id" : "com.rutu.master.guidepockettv",
-      "share_message" : "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.master.guidepockettv",
+      "package_Id" : "com.world.guide.pockettv",
+      "share_message" : "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.world.guide.pockettv",
       "texture_Bg_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv" : {
