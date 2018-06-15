@@ -66,15 +66,6 @@
       "progress_download_message": "App Downloading...",
       "progress_install_message": "Install Now"
     },
-    "Affiliate_Popup": {
-      "affiliate_btn_name": "Best OFFER",
-      "affiliate_dialog_title": "Buy Now",
-      "affiliate_product_image_url": "http://www.directd.com.my/content/images/thumbs/0020704_xiaomi-redmi-5-plus-3gb-ram-32gb-rom-4gb-ram-64gb-rom.png",
-      "affiliate_product_title": "Redmi 5A (Rose Gold, 32 GB)  (3 GB RAM)",
-      "affiliate_product_url": "https://www.flipkart.com/redmi-5a-rose-gold-32-gb/p/itmf2fwcumw7ghwy?pid=MOBEZWXE8NSAZ73T&srno=s_1_1&otracker=search&lid=LSTMOBEZWXE8NSAZ73TZT8DKM&fm=SEARCH&iid=3b2f12e6-64f5-4e2b-a76a-bb168cfe30ea.MOBEZWXE8NSAZ73T.SEARCH&ppt=Store%20Browse&ppn=Search%20Page&ssid=4fz5otakk00000001522215027694&qH=f8a10d5a7adb2998",
-      "affiliate_remind_id": "",
-      "is_system_browser": true
-    },
     "App_Information_Popup": {
       "info_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
       "info_initial_description": "Are you tired for lots of Ads?\nwe provide support of \"Remove Ads\".\nHere you can remove ads permanently from app.\nFor that you have to follow two simple steps :\n\n(1). Open menu and select \"Remove Ads\" option.\n(2). Select first button shown in above image and do payment.",
