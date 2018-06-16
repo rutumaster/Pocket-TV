@@ -100,6 +100,46 @@
             "name" : "Other Player Option",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_3":
+          {
+            "id" : 3,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_4":
+          {
+            "id" : 4,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_5":
+          {
+            "id" : 5,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_6":
+          {
+            "id" : 6,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_7":
+          {
+            "id" : 7,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
         }
 
