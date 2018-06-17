@@ -90,6 +90,7 @@
             "id" : 1,
             "inapp_sku": "com.world.guide.removeads",
             "name" : "Remove Ads",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
             "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
             "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
           },
@@ -98,6 +99,7 @@
             "id" : 2,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           },
@@ -106,6 +108,7 @@
             "id" : 3,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           },
@@ -114,6 +117,7 @@
             "id" : 4,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           },
@@ -122,6 +126,7 @@
             "id" : 5,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           },
@@ -130,6 +135,7 @@
             "id" : 6,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           },
@@ -138,6 +144,7 @@
             "id" : 7,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
@@ -161,6 +168,7 @@
             "id" : 1,
             "inapp_sku": "com.world.guide.removeads",
             "name" : "1Remove Ads",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
             "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
             "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
           },
@@ -169,6 +177,7 @@
             "id" : 2,
             "inapp_sku": "com.world.guide.otherplayeroption",
             "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
