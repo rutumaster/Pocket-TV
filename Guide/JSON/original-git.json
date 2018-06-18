@@ -9302,7 +9302,7 @@
         }
       },
       "eboundUrl": "http://cdn.ebound.tv",
-      "isAutoTokenUrlFromMainUrl": true,
+      "isAutoTokenUrlFromMainUrl": false,
       "loginUrl": "http://swiftstreamz.com/token621.php",
       "loginUrlNew": "http://swiftstreamz.com/token623.php",
       "mainPass": "SwiftStreamz:@SwiftStreamz@",
@@ -9363,7 +9363,7 @@
       "filename": "RUTU_TV.apk",
       "intro_btn_Color": "#c0392b",
       "is_Lock": true,
-      "is_success_setup_btn_open_app": true,
+      "is_success_setup_btn_open_app": false,
       "is_texture_centercrop": false,
       "lock_btn_name": "Unlock Me",
       "lock_message": "Please unlock by pressing \"Unlock Me\" button.\n\nAfter that you able to setup.",
