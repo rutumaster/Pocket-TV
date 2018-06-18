@@ -76,6 +76,7 @@
       "main_1":{
         "id": 1,
         "app_id" : "com.rutu.master.pockettv",
+        "website_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
@@ -154,6 +155,7 @@
       "main_2":{
         "id": 2,
         "app_id" : "com.rutu.master.pockettv",
+        "website_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
