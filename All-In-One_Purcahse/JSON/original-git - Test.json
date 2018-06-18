@@ -1,0 +1,254 @@
+{
+  "All_In_One_Purcahse": {
+    "Admob_Settings": {
+      "ads_Delay": 0,
+      "ads_On_Cancel_Delay": 0,
+      "applovin_ads": {
+        "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
+        "is_Ads": true,
+        "is_Banner_Ads": true,
+        "is_Interstitial_Ads": true,
+        "visibility_Percentage": 0
+      },
+      "appnext_ads": {
+        "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
+        "interstitial_ad_unit_id": "2aa93ef9-381a-4b15-945a-86d4eba9ff0c",
+        "is_Ads": true,
+        "is_Banner_Ads": true,
+        "is_Interstitial_Ads": true,
+        "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
+        "visibility_Percentage": 0
+      },
+      "default_Ads": "startapp_ads",
+      "facebook_ads": {
+        "ads_app_id": "417762135358078",
+        "banner_ad_unit_id": "417762135358078_417762335358058",
+        "interstitial_ad_unit_id": "417762135358078_417762628691362",
+        "is_Ads": true,
+        "is_Banner_Ads": true,
+        "is_Interstitial_Ads": true,
+        "visibility_Percentage": 1
+      },
+      "google_ads": {
+        "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
+        "banner_ad_unit_id": "ca-app-pub-9435847929752889/9805115099",
+        "interstitial_ad_unit_id": "ca-app-pub-9435847929752889/9122588812",
+        "is_Ads": true,
+        "is_Banner_Ads": true,
+        "is_Interstitial_Ads": true,
+        "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
+        "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
+        "visibility_Percentage": 100
+      },
+      "is_Banner_Ads": false,
+      "is_Interstitial_Ads": false,
+      "is_StreamPlayer_Banner_Ads": false,
+      "startapp_ads": {
+        "ads_app_id": "201571398",
+        "is_Ads": true,
+        "is_Banner_Ads": true,
+        "is_Interstitial_Ads": true,
+        "visibility_Percentage": 0
+      }
+    },
+    "Ads_Popup": {
+      "ads_app_package_id": "com.instantbits.cast.webvideo",
+      "ads_description": "Take your Spectrum TV experience with you! With the Spectrum TV App, you can enjoy up to 250 live TV channels and up to 30,000 On Demand TV shows and movies when you're connected to your Spectrum Internet WiFi network at home. Plus, when you're on the go, enjoy up to 150 live channels and up to 20,000 On Demand titles anywhere you have an internet connection. (See note on availability below.)",
+      "ads_download_popup_description": "To Install this app you need to follow below steps. :\n\n(1). Press \"START\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"OPEN\" button and enjoy app.",
+      "ads_download_popup_title": "App Installation",
+      "ads_remind_id": "",
+      "ads_thumbnail_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2018%2F02%2F5a8e13c776935.png&w=96&h=96&q=100",
+      "ads_title": "Spectrum TV",
+      "ads_website_url": "https://www.youtube.com/watch?v=KJJRLQdFz9w&t=447s",
+      "download_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=235411",
+      "filename": "RUTU_ADS.apk",
+      "is_system_browser": true,
+      "progress_download_message": "App Downloading...",
+      "progress_install_message": "Install Now"
+    },
+    "App_Information_Popup": {
+      "info_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+      "info_initial_description": "Are you tired for lots of Ads?\nwe provide support of \"Remove Ads\".\nHere you can remove ads permanently from app.\nFor that you have to follow two simple steps :\n\n(1). Open menu and select \"Remove Ads\" option.\n(2). Select first button shown in above image and do payment.",
+      "info_remind_id": "",
+      "info_title": "Remove Ads Guidance"
+    },
+    "App_List": {
+      "main_1":{
+        "id": 1,
+        "app_id" : "com.rutu.master.pockettv",
+        "auto_banner": false,
+        "auto_thumbnail": false,
+        "banner_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
+        "name": "Master Pocket TV",
+        "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+        "sub_name": "",
+        "thumbnail_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
+        "purchase_list":
+        {
+          "purchase_1":
+          {
+            "id" : 1,
+            "inapp_sku": "com.world.guide.removeads",
+            "name" : "Remove Ads",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+            "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
+            "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
+          },
+          "purchase_2":
+          {
+            "id" : 2,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_3":
+          {
+            "id" : 3,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_4":
+          {
+            "id" : 4,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_5":
+          {
+            "id" : 5,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_6":
+          {
+            "id" : 6,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          },
+          "purchase_7":
+          {
+            "id" : 7,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          }
+        }
+
+      },
+      "main_2":{
+        "id": 2,
+        "app_id" : "com.rutu.master.pockettv",
+        "auto_banner": false,
+        "auto_thumbnail": false,
+        "banner_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
+        "name": "1Master Pocket TV",
+        "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
+        "sub_name": "",
+        "thumbnail_url": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2017%2F07%2F595a9bd7314c6.png&w=96&h=96&q=100",
+        "purchase_list":
+        {
+          "purchase_1":
+          {
+            "id" : 1,
+            "inapp_sku": "com.world.guide.removeads",
+            "name" : "1Remove Ads",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+            "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
+            "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
+          },
+          "purchase_2":
+          {
+            "id" : 2,
+            "inapp_sku": "com.world.guide.otherplayeroption",
+            "name" : "Other Player Option",
+            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video in outside player also."
+          }
+        }
+
+      }
+    },
+    "Display_Settings": {
+      "default_Banner_Url": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
+      "default_Thumbnail_Url": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
+      "is_Hd_Banner": true,
+      "is_Hd_Thumbnail": false,
+      "is_Main_Banner": true,
+      "is_Main_Banner_Text": true,
+      "is_Sub_Banner": true,
+      "is_Sub_Banner_Text": true,
+      "main_Banner_Duration": 5000,
+      "main_Banner_Height": 200,
+      "main_Grid_Margin": 7,
+      "main_L_Mob": 4,
+      "main_L_Tab": 5,
+      "main_P_Mob": 3,
+      "main_P_Tab": 4,
+      "sub_Banner_Duration": 5000,
+      "sub_Banner_Height": 200,
+      "sub_Grid_Margin": 7,
+      "sub_L_Mob": 4,
+      "sub_L_Tab": 5,
+      "sub_P_Mob": 3,
+      "sub_P_Tab": 4
+    },
+    "Feedback_Setting": {
+      "feedback_CC_Email": "rutu.news@gmail.com",
+      "feedback_Email": "rutu.inc@gmail.com",
+      "feedback_Message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
+      "feedback_Subject": "Feedback on Pocket TV",
+      "feedback_Title": "Send Feedback",
+      "initial_Feedback_Text": "If you have any kind of query, Then mail us.\nWe will resolve it."
+    },
+    "RateUs_Settings": {
+      "delay_Activation_Milisecond": 5000,
+      "initial_rateus_message": "Unlock It By giving good Ratings and Reviews US.",
+      "sucess_rateus_message": "Congratulations!\nYou have sucessfully unlock."
+    },
+    "Settings": {
+      "is_Trial_Version" : true,
+      "trial_Version_Text" : "Trial Version",
+      "developer_Id": "PocketTV+Developer",
+      "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
+      "dummy_version": "1.0.0",
+      "facebook_page_id": 822625707789265,
+      "facebook_url": "https://www.facebook.com/",
+      "isDummy": false,
+      "is_texture_centercrop": false,
+      "package_Id": "com.world.guide.pockettv",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.world.guide.pockettv",
+      "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
+    },
+    "Update_App": {
+      "alert_message": "Please, update app to new version to continue reposting.",
+      "alert_title": "New version available",
+      "download_url": "",
+      "filename": "RUTU.apk",
+      "force": true,
+      "is_system_browser": true,
+      "progress_download_message": "Downloading...",
+      "progress_install_message": "Install Now",
+      "update_current_version": "1.0.0",
+      "update_required": true,
+      "update_store_app_id": "com.world.guide.pockettv",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.world.guide.pockettv"
+    }
+  }
+}
