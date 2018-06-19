@@ -29818,9 +29818,9 @@
       "transaction_text" : "Donate For RUTU"
     },
     "Notice" : {
-      "is_notice" : true,
+      "is_notice" : false,
       "notice_message" : "Due to Technical issue Some Channels are not visible for some time. It will be resolve very soon",
-      "notice_color" : "#00cc00"
+      "notice_color" : "#ff0000"
     },
     "Remove_Ads_Setting" : {
       "delay_Activation_Milisecond" : 5000,
