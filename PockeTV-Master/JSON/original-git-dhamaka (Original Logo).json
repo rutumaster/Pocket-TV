@@ -159,126 +159,126 @@
       "main_0" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "http://www.cosco.in/uploads/products/category/sports-banner-cricket_71662810492.jpg",
+        "banner_url" : "http://www.cosco.in/uploads/products/category/sports-banner-cricket_71662810492.jpg",
         "id" : 0,
         "name" : "Cricket Live",
         "sub" : {
           "sub_-1" : {
             "auto_banner" : false,
             "auto_thumbnail" : false,
-            "banner_url_1" : "https://i.pinimg.com/originals/3a/dc/e8/3adce861cd8a35020e0f026bb187aace.jpg",
+            "banner_url" : "https://i.pinimg.com/originals/3a/dc/e8/3adce861cd8a35020e0f026bb187aace.jpg",
             "ids" : -1,
             "name" : "CRICBUZZ",
             "sub_name" : "",
-            "thumbnail_url_1" : "https://static-s.aa-cdn.net/img/gp/20600003871859/LGAwt1hJ_6eK0Y4Vr9MgtGt6ne4tHhXHqUNf4x6OpuWVmF8xs1DxGJTh3PviEYB0wA=w300?v=1",
+            "thumbnail_url" : "https://static-s.aa-cdn.net/img/gp/20600003871859/LGAwt1hJ_6eK0Y4Vr9MgtGt6ne4tHhXHqUNf4x6OpuWVmF8xs1DxGJTh3PviEYB0wA=w300?v=1",
             "website_url" : "http://www.cricbuzz.com/cricket-match/live-scores"
           },
           "sub_0" : {
             "auto_banner" : false,
             "auto_thumbnail" : false,
-            "banner_url_1" : "http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/01/espncricinfo_3.jpg&w=620&h=350&zc=1&q=100",
+            "banner_url" : "http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/01/espncricinfo_3.jpg&w=620&h=350&zc=1&q=100",
             "ids" : 0,
             "name" : "CRICINFO ESPN",
             "sub_name" : "",
-            "thumbnail_url_1" : "https://pbs.twimg.com/profile_images/888015358958940165/SmaHw6Rj_400x400.jpg",
+            "thumbnail_url" : "https://pbs.twimg.com/profile_images/888015358958940165/SmaHw6Rj_400x400.jpg",
             "website_url" : "http://www.espncricinfo.com/ci/engine/match/index.html?view=live"
           },
           "sub_1" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "name" : "STAR SPORTS 1 HD HINDI",
             "stream_url" : "http://185.21.217.79:7071/super/starsphd1hindi/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 355,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_2" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "name" : "STAR SPORTS SELECT 1",
             "stream_url" : "http://185.21.216.149:7071/super/starspselect1/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 351,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_3" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "name" : "STAR SPORTS SELECT 2",
             "stream_url" : "http://185.21.216.149:7071/super/starspselect2/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 352,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_4" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "name" : "STAR SPORTS HD 1",
             "stream_url" : "http://185.21.217.79:7071/super/starsphd1/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 353,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_5" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "ids" : 5,
             "name" : "STAR SPORTS HD 2",
             "stream_url" : "http://185.21.217.79:7071/super/starsphd2/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 354,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_6" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "id" : 6,
             "name" : "STAR SPORTS 1",
             "stream_url" : "http://185.21.217.79:7071/super/starsports1/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 357,
             "diltv_id" : 6198,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_7" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "id" : 7,
             "name" : "STAR SPORTS 2",
             "stream_url" : "http://185.21.216.149:7071/super/starsports2/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 358,
             "diltv_id" : 152,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_8" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "ids" : 8,
             "name" : "STAR SPORTS 3",
             "stream_url" : "http://185.21.216.149:7071/super/starsports3/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 359,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_9" : {
             "auto_banner" : false,
-            "banner_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "ids" : 9,
             "name" : "Willow",
             "stream_url" : "http://185.21.216.159:7071/tinybeta/willowhd/playlist.m3u8",
             "sub_name" : "",
             "swift_id" : 364,
-            "thumbnail_url_1" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png"
+        "thumbnail_url" : "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png"
       },
       "main_1" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
         "id" : 1,
         "name" : "Sports Live",
         "sub" : {
@@ -1891,12 +1891,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
       },
       "main_10" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9",
         "id" : 10,
         "name" : "Australia Live",
         "sub" : {
@@ -2084,12 +2084,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9"
       },
       "main_11" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3",
         "id" : 11,
         "name" : "Germany Live",
         "sub" : {
@@ -2638,12 +2638,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3"
       },
       "main_12" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60",
         "id" : 12,
         "name" : "Soudi Arabia Live",
         "sub" : {
@@ -4122,12 +4122,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60"
       },
       "main_13" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50",
         "id" : 13,
         "name" : "Philippines Live",
         "sub" : {
@@ -4243,12 +4243,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50"
       },
       "main_14" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366",
         "id" : 14,
         "name" : "Indonesia Live",
         "sub" : {
@@ -4496,12 +4496,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366"
       },
       "main_15" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33",
         "id" : 15,
         "name" : "Srilanka Live",
         "sub" : {
@@ -4664,12 +4664,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33"
       },
       "main_16" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17",
         "id" : 16,
         "name" : "Afghan Live",
         "sub" : {
@@ -5120,12 +5120,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17"
       },
       "main_17" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5",
         "id" : 17,
         "name" : "France Live",
         "sub" : {
@@ -5479,12 +5479,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5"
       },
       "main_18" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f",
         "id" : 18,
         "name" : "Belgium Live",
         "sub" : {
@@ -5682,12 +5682,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f"
       },
       "main_19" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf",
         "id" : 19,
         "name" : "Irani Live",
         "sub" : {
@@ -5969,12 +5969,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf"
       },
       "main_2" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
         "id" : 2,
         "name" : "Indian Live",
         "sub" : {
@@ -7651,12 +7651,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb"
       },
       "main_20" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f",
         "id" : 20,
         "name" : "Mauritius Live",
         "sub" : {
@@ -7830,12 +7830,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f"
       },
       "main_21" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d",
         "id" : 21,
         "name" : "Portugal Live",
         "sub" : {
@@ -8448,12 +8448,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d"
       },
       "main_22" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e",
         "id" : 22,
         "name" : "Italy Live",
         "sub" : {
@@ -8832,12 +8832,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e"
       },
       "main_23" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12",
         "id" : 23,
         "name" : "Turkish Live",
         "sub" : {
@@ -9470,12 +9470,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12"
       },
       "main_24" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Greek-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Greek-TV.jpeg",
         "id" : 24,
         "name" : "Greek Live",
         "sub" : {
@@ -9793,12 +9793,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Greek-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Greek-TV.jpeg"
       },
       "main_25" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg",
         "id" : 25,
         "name" : "Netherland Live",
         "sub" : {
@@ -9984,12 +9984,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg"
       },
       "main_26" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Poland-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Poland-TV.jpeg",
         "id" : 26,
         "name" : "Poland Live",
         "sub" : {
@@ -10271,12 +10271,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Poland-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Poland-TV.jpeg"
       },
       "main_27" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg",
         "id" : 27,
         "name" : "Spain Live",
         "sub" : {
@@ -10546,12 +10546,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg"
       },
       "main_28" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kurdish-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kurdish-TV.jpeg",
         "id" : 28,
         "name" : "Kurdish Live",
         "sub" : {
@@ -10893,12 +10893,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kurdish-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kurdish-TV.jpeg"
       },
       "main_29" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Albania-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Albania-TV.jpeg",
         "id" : 29,
         "name" : "Albania Live",
         "sub" : {
@@ -11312,12 +11312,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Albania-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Albania-TV.jpeg"
       },
       "main_30" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Romania-TV.jpeg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Romania-TV.jpeg",
         "id" : 30,
         "name" : "Romania live",
         "sub" : {
@@ -11671,12 +11671,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Romania-TV.jpeg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Romania-TV.jpeg"
       },
       "main_31" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg",
         "id" : 31,
         "name" : "Thailand Live",
         "sub" : {
@@ -11946,12 +11946,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg"
       },
       "main_34" : {
         "auto_banner" : true,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
         "id" : 34,
         "name" : "Kids Zone Live",
         "sub" : {
@@ -12565,12 +12565,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
       },
       "main_35" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
         "id" : 35,
         "name" : "Wild Life/Science Live",
         "sub" : {
@@ -12896,12 +12896,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242"
       },
       "main_36" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
         "id" : 36,
         "name" : "Religious Live",
         "sub" : {
@@ -13334,12 +13334,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
       },
       "main_3" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a",
         "id" : 3,
         "name" : "Pakistani Live",
         "sub" : {
@@ -14678,12 +14678,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a"
       },
       "main_37": {
         "auto_banner": true,
         "auto_thumbnail": false,
-        "banner_url_1": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d",
+        "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d",
         "id": 37,
         "name": "Songs",
         "playlist_id": "PL4uUU2x5ZgR1JOlcY9SZB94MW6fBE8ovU",
@@ -18095,12 +18095,12 @@
           }
         },
         "sub_name": "Songs",
-        "thumbnail_url_1": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d"
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg?alt=media&token=29527d1a-9a62-4d2f-9e33-f85b6a7dc32d"
       },
       "main_38" : {
         "auto_banner" : true,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d",
         "id" : 38,
         "name" : "Movies",
         "playlist_id" : "UUyoXW-Dse7fURq30EWl_CUA",
@@ -21185,12 +21185,12 @@
           }
         },
         "sub_name" : "",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
       },
       "main_39" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
         "id" : 39,
         "name" : "TV Shows",
         "sub" : {
@@ -25243,7 +25243,7 @@
           }
         },
         "sub_name" : "",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227"
       },
       "main_4" : {
         "auto_banner" : false,
@@ -25725,12 +25725,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11"
       },
       "main_5" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4",
         "id" : 5,
         "name" : "South India Live",
         "sub" : {
@@ -27045,12 +27045,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4"
       },
       "main_6" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e",
         "id" : 6,
         "name" : "Punjabi Live",
         "sub" : {
@@ -27474,12 +27474,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e"
       },
       "main_7" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149",
         "id" : 7,
         "name" : "Bangla Live",
         "sub" : {
@@ -28413,12 +28413,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149"
       },
       "main_8" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808",
         "id" : 8,
         "name" : "UK Live",
         "sub" : {
@@ -29461,12 +29461,12 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808"
       },
       "main_9" : {
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "banner_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444",
+        "banner_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444",
         "id" : 9,
         "name" : "Nepal Live",
         "sub" : {
@@ -29604,7 +29604,7 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url_1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444"
+        "thumbnail_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444"
       }
     },
     "Chromecast_Setting" : {
