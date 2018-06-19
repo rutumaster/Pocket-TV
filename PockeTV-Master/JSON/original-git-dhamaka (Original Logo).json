@@ -29614,7 +29614,7 @@
       "cast_referer" : "https://www.metube.id",
       "download_url" : "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
       "filename" : "RUTU_CHROMECAST.apk",
-      "initial_cast_message": "Do you need Chromecast support then follow below steps :<br><br>(1). Press \"SETUP\" button.<br>(2). If It will ask for permission please allow.<br>(3). It will open download dialog and please wait till download completion.<br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br>(5). After It will popup for installation screen and then \"INSTALL\" it.<br>(6). After installation complete press \"DONE\" button.<br>(7). Come back to Pocket TV and you will see your plugin activated.<br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a><br><br>",
+      "initial_cast_message": "Do you need Chromecast support then follow below steps :<br><br>(1). Press \"SETUP\" button.<br>(2). If It will ask for permission please allow.<br>(3). It will open download dialog and please wait till download completion.<br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br>(5). After It will popup for installation screen and then \"INSTALL\" it.<br>(6). After installation complete press \"DONE\" button.<br>(7). Come back to Pocket TV and you will see your plugin activated.<br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a><br>",
       "progress_download_message" : "Downloading...",
       "progress_install_message" : "Install Now",
       "success_cast_message" : "Now You can Chromecast Your Video From Player."
@@ -29819,8 +29819,8 @@
     },
     "Notice" : {
       "is_notice" : true,
-      "notice_message" : "Due to some Technical issue Channels are not working for some time. please wait for some time. <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a>",
-      "notice_color" : "#ff0000"
+      "notice_message" : "Due to Technical issue Some Channels are not visible for some time. It will be resolve very soon",
+      "notice_color" : "#00cc00"
     },
     "Remove_Ads_Setting" : {
       "delay_Activation_Milisecond" : 5000,
