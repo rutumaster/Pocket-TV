@@ -123,7 +123,7 @@
         "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/51m2lVUP3vL.jpg"
       },
       "main_-4": {
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FBanners%2FSports.jpeg?alt=media&token=983ecd77-d88b-4b11-8e55-826771870f20",
         "initial_btn_name": "SETUP TV",
@@ -140,7 +140,7 @@
         "youtube_video_id": ""
       },
       "main_-5": {
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv1",
         "banner_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FBanners%2Fworld.jpeg?alt=media&token=add8a1fa-5bc1-4f12-b47f-401020d577b1",
         "initial_btn_name": "SETUP TV",
@@ -165,7 +165,7 @@
         "thumbnail_url": "https://images.supersport.com/content/Vivo-IPL-logo-square-2016.jpg"
       },
       "main_0": {
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
         "auto_thumbnail": false,
@@ -251,7 +251,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -311,7 +311,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -372,7 +372,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -452,7 +452,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -513,7 +513,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -574,7 +574,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -635,7 +635,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -696,7 +696,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -777,7 +777,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -838,7 +838,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -898,7 +898,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1026,7 +1026,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1087,7 +1087,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1147,7 +1147,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1217,7 +1217,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1318,7 +1318,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1359,7 +1359,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1400,7 +1400,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1441,7 +1441,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1482,7 +1482,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1523,7 +1523,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1564,7 +1564,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1605,7 +1605,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1646,7 +1646,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1725,7 +1725,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1811,7 +1811,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -1852,7 +1852,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -8382,7 +8382,7 @@
         "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
       },
       "main_39": {
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
         "auto_thumbnail": false,
@@ -8404,7 +8404,7 @@
 
       "main_40": {
         "id" : 40,
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
         "auto_thumbnail": false,
@@ -8537,7 +8537,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -8626,7 +8626,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -8735,7 +8735,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -8834,7 +8834,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -8983,7 +8983,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -9082,7 +9082,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
@@ -9143,7 +9143,7 @@
           },
           "sub_upgrade": {
             "id" : 999,
-            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/Guide/APKS/PocketTV-Live-v4.apk",
+            "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
