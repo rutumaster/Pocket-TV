@@ -92,7 +92,7 @@
             "inapp_sku": "com.t2",
             "name" : "Remove Ads",
             "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
-            "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
+            "initial_message": "If you want to remove ads permanently then \"PAYMENT\".",
             "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
           },
           "purchase_2":
@@ -101,7 +101,7 @@
             "inapp_sku": "com.t1",
             "name" : "Full Service",
             "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-            "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+            "initial_message": "If you want to Full Service.\n\nThen you should purchase this service.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
         }
