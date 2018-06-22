@@ -40,9 +40,9 @@
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "visibility_Percentage": 100
       },
-      "is_Banner_Ads": false,
-      "is_Interstitial_Ads": false,
-      "is_StreamPlayer_Banner_Ads": false,
+      "is_Banner_Ads": true,
+      "is_Interstitial_Ads": true,
+      "is_StreamPlayer_Banner_Ads": true,
       "startapp_ads": {
         "ads_app_id": "201571398",
         "is_Ads": true,
@@ -80,7 +80,7 @@
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/Images/1024x500.jpg",
-        "name": "App 1",
+        "name": "All In One",
         "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
         "sub_name": "",
         "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/Images/Logo.jpg",
@@ -91,7 +91,7 @@
             "id" : 1,
             "inapp_sku": "com.t2",
             "name" : "Remove Ads",
-            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+            "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
             "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
             "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
           },
@@ -100,7 +100,7 @@
             "id" : 2,
             "inapp_sku": "com.t1",
             "name" : "Full Service",
-            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
@@ -124,7 +124,7 @@
             "id" : 1,
             "inapp_sku": "com.t3",
             "name" : "Remove Ads",
-            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
+            "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Remove-Ads.jpg?alt=media&token=a583a7b4-94ed-4cb4-ae6f-41db53378f5b",
             "initial_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
             "success_message": "Congratulations!\nNow Pocket TV is ADS FREE."
           },
@@ -133,7 +133,7 @@
             "id" : 2,
             "inapp_sku": "com.t4",
             "name" : "Full Service",
-            "image_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+            "image_url1" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
@@ -186,7 +186,7 @@
       "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
       "facebook_url": "https://www.facebook.com/",
-      "isDummy": false,
+      "isDummy": true,
       "is_texture_centercrop": false,
       "package_Id": "com.allinone.purchase",
       "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.allinone.purchase",
