@@ -30371,7 +30371,7 @@
       "isOtherPlayerOption": false,
       "is_Inapp_Purchase": true,
       "other_player_image_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Other%20Images%2FPlayer-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id": "com.world.guide.pockettv",
+      "parsing_from_package_id": "com.pockettv.guide.world",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings": {
@@ -30392,7 +30392,7 @@
       "is_Inapp_Purchase": false,
       "is_Rate": true,
       "is_Share": true,
-      "parsing_from_package_id": "com.world.guide.pockettv",
+      "parsing_from_package_id": "com.pockettv.guide.world",
       "success_remove_ads_Permanent_message": "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
@@ -30406,8 +30406,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": true,
       "is_texture_centercrop": false,
-      "package_Id": "com.world.guide.pockettv",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.world.guide.pockettv",
+      "package_Id": "com.pockettv.guide.world",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.pockettv.guide.world",
       "texture_Bg_url": "https://firebasestorage.googleapis.com/v0/b/pockettv-ac1fa.appspot.com/o/Guide%20App%2FPocket%20TV%20Guide%2Ftexture%2Ft5.png?alt=media&token=bec9d375-854f-4c26-abfa-3d61718788cd"
     },
     "Setup_Tv": {
@@ -30440,8 +30440,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": false,
-      "update_store_app_id": "com.world.guide.pockettv",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.world.guide.pockettv"
+      "update_store_app_id": "com.pockettv.guide.world",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.pockettv.guide.world"
     }
   }
 }
