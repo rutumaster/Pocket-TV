@@ -29886,7 +29886,7 @@
       "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
       "filename" : "RUTU.apk",
       "force" : true,
-      "is_system_browser" : false,
+      "is_system_browser" : true,
       "progress_download_message" : "Downloading...",
       "progress_install_message" : "Install Now",
       "update_current_version" : "5.0.0",
