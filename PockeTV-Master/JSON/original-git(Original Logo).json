@@ -29826,7 +29826,7 @@
     },
     "Notice" : {
       "is_notice" : false,
-      "notice_message" : "Due to Technical issue Some Channels are not visible for some time. It will be resolve very soon...",
+      "notice_message" : "Due to Technical issue Some Channels are not visible for sometime. It will be resolve very soon...",
       "notice_color" : "#ff0000"
     },
     "Purchase_Restore":
