@@ -26264,6 +26264,17 @@
       "progress_install_message" : "Install Now",
       "success_cast_message" : "Now You can Chromecast Your Video From Player."
     },
+    "Inapp_Purchase_Settings" :
+    {
+      "purcahse_package_id" : "com.allinone.purchase",
+      "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
+      "filename" : "PURCHASE.apk",
+      "purcahse_title": "Purchase App",
+      "purcahse_message": "If you want to Purcahse then you have to install Purchase App.\nand then try again to purchase from here once again.",
+      "progress_download_message" : "Downloading...",
+      "progress_install_message" : "Install Now",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
+    },
     "Clone_URL_Updater" : {
       "azhar_URL" : "https://www.kikflix.com/livetv_app/static_contents/api.php?latest",
       "diltv_URL" : "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
@@ -26471,7 +26482,7 @@
     {
       "title" : "Restore App",
       "guide_image_url" : "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
-      "description" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button."
+      "description" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase."
     },
     "Remove_Ads_Setting" : {
       "delay_Activation_Milisecond" : 5000,
