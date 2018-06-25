@@ -40,9 +40,9 @@
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "visibility_Percentage": 100
       },
-      "is_Banner_Ads": true,
-      "is_Interstitial_Ads": true,
-      "is_StreamPlayer_Banner_Ads": true,
+      "is_Banner_Ads": false,
+      "is_Interstitial_Ads": false,
+      "is_StreamPlayer_Banner_Ads": false,
       "startapp_ads": {
         "ads_app_id": "201571398",
         "is_Ads": true,
@@ -164,7 +164,7 @@
         "sub_name": "Channels",
         "thumbnail_url": "https://images.supersport.com/content/Vivo-IPL-logo-square-2016.jpg"
       },
-      "main_0": {
+      "main_-7": {
         "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
@@ -182,6 +182,14 @@
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
+      },
+      "main_0": {
+        "id" : 0,
+        "thumbnail_url": "http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png",
+        "banner_url": "http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png",
+        "satellite_data_url": "http://www.onastra.com/webservice/v3/channels/17237",
+        "name": "Satelite",
+        "sub_name": ""
       },
       "main_1": {
         "auto_banner": false,
