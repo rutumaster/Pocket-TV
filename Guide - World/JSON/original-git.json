@@ -260,7 +260,8 @@
           }
         },
         "sub_name": "Channels",
-        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
+        "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
+        "thumbnail_url1": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
       },
       "main_10": {
         "auto_banner": false,
