@@ -27,7 +27,7 @@
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 1
+        "visibility_Percentage": 0
       },
       "google_ads": {
         "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
@@ -38,17 +38,17 @@
         "is_Interstitial_Ads": true,
         "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
-        "visibility_Percentage": 100
+        "visibility_Percentage": 0
       },
       "is_Banner_Ads": true,
-      "is_Interstitial_Ads": true,
-      "is_StreamPlayer_Banner_Ads": true,
+      "is_Interstitial_Ads": false,
+      "is_StreamPlayer_Banner_Ads": false,
       "startapp_ads": {
         "ads_app_id": "201571398",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 0
+        "visibility_Percentage": 100
       }
     },
     "Ads_Popup": {
