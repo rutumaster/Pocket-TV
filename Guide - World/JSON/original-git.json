@@ -9310,7 +9310,7 @@
         }
       },
       "eboundUrl": "http://cdn.ebound.tv",
-      "isAutoTokenUrlFromMainUrl": false,
+      "isAutoTokenUrlFromMainUrl": true,
       "loginUrl": "http://swiftstreamz.com/token621.php",
       "loginUrlNew": "http://swiftstreamz.com/token623.php",
       "mainPass": "SwiftStreamz:@SwiftStreamz@",
