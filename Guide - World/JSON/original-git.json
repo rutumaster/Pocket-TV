@@ -17,7 +17,7 @@
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
         "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
-        "visibility_Percentage": 100
+        "visibility_Percentage": 0
       },
       "default_Ads": "startapp_ads",
       "facebook_ads": {
@@ -48,7 +48,7 @@
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 0
+        "visibility_Percentage": 100
       }
     },
     "Ads_Popup": {
