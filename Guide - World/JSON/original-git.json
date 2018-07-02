@@ -9354,7 +9354,7 @@
     "Settings": {
       "is_Trial_Version" : true,
       "trial_Version_Text" : "Trial Version, You have to upgrade new version wiich is available in link",
-      "trial_Version_Height" : 60,
+      "trial_Version_Height" : 70,
       "trial_Version_Bg_Color" : "#ff0000",
       "trial_Version_Text_Color" : "#ffffff",
       "developer_Id": "PocketTV+Developer",
