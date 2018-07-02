@@ -1,5 +1,5 @@
 {
-  "Pocket_TV_World": {
+  "World_Pocket_TV": {
     "Admob_Settings": {
       "ads_Delay": 0,
       "ads_On_Cancel_Delay": 0,
@@ -19,7 +19,7 @@
         "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
         "visibility_Percentage": 0
       },
-      "default_Ads": "startapp_ads",
+      "default_Ads": "facebook_ads",
       "facebook_ads": {
         "ads_app_id": "417762135358078",
         "banner_ad_unit_id": "417762135358078_417762335358058",
@@ -27,7 +27,7 @@
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 0
+        "visibility_Percentage": 1
       },
       "google_ads": {
         "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
@@ -38,17 +38,17 @@
         "is_Interstitial_Ads": true,
         "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
         "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
-        "visibility_Percentage": 0
+        "visibility_Percentage": 100
       },
       "is_Banner_Ads": true,
-      "is_Interstitial_Ads": false,
-      "is_StreamPlayer_Banner_Ads": false,
+      "is_Interstitial_Ads": true,
+      "is_StreamPlayer_Banner_Ads": true,
       "startapp_ads": {
         "ads_app_id": "201571398",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 100
+        "visibility_Percentage": 0
       }
     },
     "Ads_Popup": {
@@ -164,7 +164,7 @@
         "sub_name": "Channels",
         "thumbnail_url": "https://images.supersport.com/content/Vivo-IPL-logo-square-2016.jpg"
       },
-      "main_-7": {
+      "main_0": {
         "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
@@ -182,14 +182,6 @@
         "video_title": "How to setup",
         "video_url": "",
         "youtube_video_id": ""
-      },
-      "main_0": {
-        "id" : 0,
-        "thumbnail_url": "http://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
-        "banner_url": "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
-        "satellite_data_url": "http://www.onastra.com/webservice/v3/channels/19058",
-        "name": "Satellite",
-        "sub_name": ""
       },
       "main_1": {
         "auto_banner": false,
@@ -9310,7 +9302,7 @@
         }
       },
       "eboundUrl": "http://cdn.ebound.tv",
-      "isAutoTokenUrlFromMainUrl": true,
+      "isAutoTokenUrlFromMainUrl": false,
       "loginUrl": "http://swiftstreamz.com/token621.php",
       "loginUrlNew": "http://swiftstreamz.com/token623.php",
       "mainPass": "SwiftStreamz:@SwiftStreamz@",
@@ -9326,7 +9318,7 @@
       "isOtherPlayerOption": true,
       "is_Inapp_Purchase": true,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id": "com.pockettv.guide.world",
+      "parsing_from_package_id": "com.world.guide.pockettv",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings": {
@@ -9347,13 +9339,16 @@
       "is_Inapp_Purchase": true,
       "is_Rate": true,
       "is_Share": true,
-      "parsing_from_package_id": "com.pockettv.guide.world",
+      "parsing_from_package_id": "com.world.guide.pockettv",
       "success_remove_ads_Permanent_message": "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings": {
       "is_Trial_Version" : true,
-      "trial_Version_Text" : "Trial Version, You have to upgrade new version wiich is available in link",
+      "trial_Version_Text" : "Trial Version",
+      "trial_Version_Height" : 50,
+      "trial_Version_Bg_Color" : "#ff0000",
+      "trial_Version_Text_Color" : "#ffffff",
       "developer_Id": "PocketTV+Developer",
       "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
       "dummy_version": "1.0.0",
@@ -9361,8 +9356,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.pockettv.guide.world",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.pockettv.guide.world",
+      "package_Id": "com.world.guide.pockettv",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.world.guide.pockettv",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -9395,8 +9390,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.pockettv.guide.world",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.pockettv.guide.world"
+      "update_store_app_id": "com.world.guide.pockettv",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.world.guide.pockettv"
     }
   }
 }
