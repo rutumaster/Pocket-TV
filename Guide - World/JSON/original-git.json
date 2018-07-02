@@ -9159,14 +9159,14 @@
       "main_Grid_Margin": 7,
       "main_L_Mob": 4,
       "main_L_Tab": 5,
-      "main_P_Mob": 3,
+      "main_P_Mob": 4,
       "main_P_Tab": 4,
       "sub_Banner_Duration": 5000,
       "sub_Banner_Height": 200,
       "sub_Grid_Margin": 7,
       "sub_L_Mob": 4,
       "sub_L_Tab": 5,
-      "sub_P_Mob": 3,
+      "sub_P_Mob": 4,
       "sub_P_Tab": 4
     },
     "Donation_Settings": {
