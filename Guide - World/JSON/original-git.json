@@ -23534,14 +23534,14 @@
         "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg?alt=media&token=468192e4-57c2-4bd2-8e37-80bbcd512e9d"
       },
       "main_39": {
-        "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
+        "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
         "android_app_id": "com.rutu.master.pockettv",
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
         "id": 39,
         "initial_btn_name": "SETUP TV",
-        "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk'>DOWNLOAD HERE</a><br><br>",
+        "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/Guide-PockeTV/APKS/PocketTV-Live-v3.apk'>DOWNLOAD HERE</a><br><br>",
         "initial_title": "Follow Below Step",
         "name": "TV Shows",
         "sub_name": "",
@@ -28833,6 +28833,7 @@
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings": {
+      "is_Searchbar": false,
       "is_Trial_Version": false,
       "trial_Version_Text": "",
       "trial_Version_Height": 70,
