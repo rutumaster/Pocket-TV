@@ -28645,8 +28645,8 @@
       "sub_Grid_Margin": 7,
       "sub_L_Mob": 4,
       "sub_L_Tab": 5,
-      "sub_P_Mob": 4,
-      "sub_P_Tab": 3
+      "sub_P_Mob": 3,
+      "sub_P_Tab": 4
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
