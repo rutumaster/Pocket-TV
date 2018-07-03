@@ -9324,9 +9324,9 @@
       "inapp_other_player_sku": "com.world.guide.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isAppPlayer": true,
-      "isWebviewPlayer": true,
+      "isWebviewPlayer": false,
       "isOtherPlayerOption": false,
-      "is_Inapp_Purchase": false,
+      "is_Inapp_Purchase": true,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
       "parsing_from_package_id": "com.pockettv.guide.world",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
