@@ -241,6 +241,8 @@
           "sub_upgrade": {
             "id" : 999,
             "android_app_download_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v5.apk",
+            "website_url": "https://www.google.co.in",
+            "is_system_browser": true,
             "android_app_id": "com.rutu.master.pockettv",
             "auto_banner": false,
             "auto_thumbnail": false,
