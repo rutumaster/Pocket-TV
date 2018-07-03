@@ -166,18 +166,24 @@
         "video_url": "",
         "youtube_video_id": ""
       },
+      "main_-6": {
+        "thumbnail_url": "http://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
+        "banner_url": "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
+        "satellite_data_url": "http://www.onastra.com/webservice/v3/channels/19058",
+        "name": "Satellite",
+        "sub_name": ""
+      },
       "main_0": {
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "http://www.cosco.in/uploads/products/category/sports-banner-cricket_71662810492.jpg",
         "id": 0,
-        "name": "Cricket Live",
+        "name": "Football/Cricket Live",
         "sub": {
-          "sub_-1": {
+          "sub_1": {
             "auto_banner": false,
             "auto_thumbnail": false,
             "banner_url": "https://i.pinimg.com/originals/3a/dc/e8/3adce861cd8a35020e0f026bb187aace.jpg",
-            "id": -1,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "CRICBUZZ",
@@ -185,11 +191,10 @@
             "thumbnail_url": "https://static-s.aa-cdn.net/img/gp/20600003871859/LGAwt1hJ_6eK0Y4Vr9MgtGt6ne4tHhXHqUNf4x6OpuWVmF8xs1DxGJTh3PviEYB0wA=w300?v=1",
             "website_url": "http://www.cricbuzz.com/cricket-match/live-scores"
           },
-          "sub_0": {
+          "sub_2": {
             "auto_banner": false,
             "auto_thumbnail": false,
             "banner_url": "http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/01/espncricinfo_3.jpg&w=620&h=350&zc=1&q=100",
-            "id": 0,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "CRICINFO ESPN",
@@ -197,7 +202,7 @@
             "thumbnail_url": "https://pbs.twimg.com/profile_images/888015358958940165/SmaHw6Rj_400x400.jpg",
             "website_url": "http://www.espncricinfo.com/ci/engine/match/index.html?view=live"
           },
-          "sub_1": {
+          "sub_3": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
@@ -208,7 +213,7 @@
             "swift_id": 355,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_2": {
+          "sub_4": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
@@ -219,7 +224,7 @@
             "swift_id": 351,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_3": {
+          "sub_5": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
@@ -230,7 +235,7 @@
             "swift_id": 352,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_4": {
+          "sub_6": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
@@ -241,10 +246,10 @@
             "swift_id": 353,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_5": {
+          "sub_7": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
-            "id": 5,
+            "id": 7,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "STAR SPORTS HD 2",
@@ -253,10 +258,10 @@
             "swift_id": 354,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_6": {
+          "sub_8": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
-            "id": 6,
+            "id": 8,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "STAR SPORTS 1",
@@ -266,10 +271,10 @@
             "diltv_id_1": 6198,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_7": {
+          "sub_9": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
-            "id": 7,
+            "id": 9,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "STAR SPORTS 2",
@@ -279,10 +284,10 @@
             "diltv_id_1": 152,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_8": {
+          "sub_10": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
-            "id": 8,
+            "id": 10,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "STAR SPORTS 3",
@@ -291,10 +296,10 @@
             "swift_id": 359,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
-          "sub_9": {
+          "sub_11": {
             "auto_banner": false,
             "banner_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
-            "id": 9,
+            "id": 11,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Willow",
@@ -23535,18 +23540,19 @@
       },
       "main_39": {
         "android_app_download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
+        "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Guide/APKS/PocketTV-Live-v3.apk",
         "android_app_id": "com.rutu.master.pockettv",
+        "is_system_browser": true,
         "auto_banner": false,
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
-        "id": 39,
         "initial_btn_name": "SETUP TV",
         "initial_desc": "(1). Press \"SETUP TV\" Button.<br><br>(2). If It will ask for permission please allow.<br><br>(3). It will open download dialog and please wait till download completion.<br><br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br><br>(5). After It will popup installation screen and then \"INSTALL\" it.<br><br>(6). After installation complete press \"DONE\" button.<br><br>(7). You will see here \"OPEN TV\" Button.<br><br>(8). Now you can enjoy Pocket TV.<br><br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/Guide-PockeTV/APKS/PocketTV-Live-v3.apk'>DOWNLOAD HERE</a><br><br>",
         "initial_title": "Follow Below Step",
         "name": "TV Shows",
         "sub_name": "",
         "success_btn_name": "OPEN NOW",
-        "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"TV NOW\" Button",
+        "success_desc": "Your TV Successfully setup. Now Enjoy TV By Pressing \"OPEN NOW\" Button",
         "success_title": "Success",
         "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg?alt=media&token=3c2160e0-deb3-4d3c-a239-54e88ac22227",
         "video_title": "How to setup",
@@ -28615,6 +28621,23 @@
       "progress_install_message": "Install Now",
       "success_cast_message": "Now You can Chromecast Your Video From Player."
     },
+    "Purchase_Restore":
+    {
+      "title" : "Restore App",
+      "guide_image_url" : "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
+      "description" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase."
+    },
+    "Inapp_Purchase_Settings" :
+    {
+      "purcahse_package_id" : "com.allinone.purchase",
+      "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
+      "filename" : "PURCHASE.apk",
+      "purcahse_title": "Purchase App",
+      "purcahse_message": "If you want to Purcahse then you have to install Purchase App.\nand then try again to purchase from here once again.",
+      "progress_download_message" : "Downloading...",
+      "progress_install_message" : "Install Now",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
+    },
     "Clone_URL_Updater": {
       "azhar_URL": "https://www.kikflix.com/livetv_app/static_contents/api.php?latest",
       "diltv_URL": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
@@ -28799,13 +28822,13 @@
       "nexgtvUrl": "http://93.174.93.84:8081/"
     },
     "Other_Player_Unlock": {
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
-      "inapp_other_player_sku": "com.world.guide.otherplayeroption",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
+      "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isAppPlayer": true,
       "isWebviewPlayer": true,
       "isOtherPlayerOption": true,
-      "is_Inapp_Purchase": false,
+      "is_Inapp_Purchase": true,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
       "parsing_from_package_id": "com.pockettv.guide.world",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
@@ -28822,8 +28845,8 @@
     },
     "Remove_Ads_Setting": {
       "delay_Activation_Milisecond": 5000,
-      "inapp_base64EncodedPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzc+wojrQIA9ODuw7LIDBw/rKQtDEcsWUGQVWVWFDza3sbpgBL3ioZPvnv8I8pGIVdeKpFheaUxhhU4NsIZsH9XsTl/t9iHAS3DR1QSFd3KwkoNGcIcP4wjHDS+WqFyKi3WXsIAN2TPrGX7Fvar7cuanNflIcTnODu/hSgRxc5tF54f0Pnks9F7sXmuXGkUb7zGCX64UjbhQ40xhVYdJ6wo65O7hTSXQnAFlvOzt3lA8NaNsvHX0tz+7Kql1tjBWW0CCBSG0hZezBrbdH9asEPJcdvPkO9s1waHhXznFuR59hgGH7B1F1YiZlzz31MWxXn7qq9BQmTb+7ejyeUm1DswIDAQAB",
-      "inapp_remove_ads_sku": "com.world.guide.removeads",
+      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
+      "inapp_remove_ads_sku" : "com.pockettv.removeads",
       "initial_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase": true,
       "is_Rate": true,
@@ -28833,14 +28856,14 @@
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings": {
-      "is_Searchbar": false,
-      "is_Trial_Version": false,
-      "trial_Version_Text": "",
+      "is_Searchbar": true,
+      "is_Trial_Version": true,
+      "trial_Version_Text": "do you want to view Fullscreen Video,you should try \"Other Player Option\".",
       "trial_Version_Height": 70,
       "trial_Version_Bg_Color": "#000000",
       "trial_Version_Text_Color": "#ffffff",
       "developer_Id": "",
-      "more_apps_url": "",
+      "more_apps_url": "https://www.mediafire.com/file/zfdum0ep8shyh8o/app-release-v5.apk",
       "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
       "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
