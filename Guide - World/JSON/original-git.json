@@ -28624,7 +28624,7 @@
     "Purchase_Restore":
     {
       "title" : "Restore App",
-      "guide_image_url" : "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
+      "guide_image_url" : "",
       "description" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase."
     },
     "Inapp_Purchase_Settings" :
