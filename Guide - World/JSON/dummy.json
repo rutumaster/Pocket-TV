@@ -28825,7 +28825,6 @@
       "nexgtvUrl": "http://93.174.93.84:8081/"
     },
     "Other_Player_Unlock": {
-      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
       "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
       "initial_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
       "isAppPlayer": true,
@@ -28847,7 +28846,6 @@
     },
     "Remove_Ads_Setting": {
       "delay_Activation_Milisecond": 5000,
-      "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
       "inapp_remove_ads_sku" : "com.pockettv.removeads",
       "initial_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
       "is_Inapp_Purchase": false,
