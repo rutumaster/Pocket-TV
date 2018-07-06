@@ -28612,6 +28612,9 @@
       "cast_agent": "09",
       "cast_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Chromecast_Notification.jpg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
       "cast_package_name": "com.instantbits.cast.webvideo",
+      "inapp_chromecast_message": "If you want to play video on you TV.<br><br>Then you should purchase this service.<br><br>You will get chromecast support from Pocket TV.",
+      "is_inapp_chromecast" : "true",
+      "inapp_chromecast_sku" : "com.pockettv.chromecast",
       "cast_referer": "https://www.metube.id",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
       "filename": "RUTU_CHROMECAST.apk",
@@ -28830,7 +28833,6 @@
       "isOtherPlayerOption": false,
       "is_Inapp_Purchase": false,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-      "parsing_from_package_id": "com.pockettv.guide.world",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
     "Paypal_Settings": {
@@ -28851,7 +28853,6 @@
       "is_Inapp_Purchase": false,
       "is_Rate": true,
       "is_Share": true,
-      "parsing_from_package_id": "com.pockettv.guide.world",
       "success_remove_ads_Permanent_message": "Congratulations!\nNow Pocket TV is ADS FREE.",
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
