@@ -1,6 +1,7 @@
 {
-  "Settings": {
+  
   "TV_Data": {
+    "Settings": {
     "Admob_Settings": {
       "is_override" : false,
       "ads_delay": 0,
