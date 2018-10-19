@@ -33,16 +33,16 @@
         "visibility_percentage": 1
       },
       "google_ads": {
-        "ads_app_id": "ca-app-pub-9435847929752889~5809894331",
-        "banner_ad_unit_id": "ca-app-pub-9435847929752889/9557567654",
-        "interstitial_ad_unit_id": "ca-app-pub-9435847929752889/5506642001",
-        "is_ads": true,
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "native_ad_unit_id": "ca-app-pub-9435847929752889/5848997758",
-        "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/5848997758",
-        "visibility_percentage": 100
-      },
+          "ads_app_id": "ca-app-pub-3940256099942544~3347511713",
+          "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "native_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+          "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+          "visibility_percentage": 100
+        },
       "custom_ads" :
       {
         "is_ads": true,
