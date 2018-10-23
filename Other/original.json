@@ -11,6 +11,7 @@
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
         "visibility_percentage": 50
       },
       "appnext_ads": {
@@ -19,6 +20,7 @@
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
         "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
         "visibility_percentage": 50
       },
@@ -30,6 +32,7 @@
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
         "visibility_percentage": 50
       },
       "google_ads": {
@@ -39,6 +42,7 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
           "visibility_percentage": 50
@@ -48,6 +52,7 @@
         "is_ads": true,
         "is_banner_ads": false,
         "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
         "visibility_percentage": 50,
         "ads_list" :
         {
@@ -100,6 +105,7 @@
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
         "visibility_percentage": 50
       }
     },
