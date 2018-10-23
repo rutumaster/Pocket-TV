@@ -48,7 +48,7 @@
         "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
-        "visibility_percentage": 100,
+        "visibility_percentage": 0,
         "ads_list" :
         {
           "ads_1" :
@@ -99,7 +99,7 @@
         "ads_app_id": "201571398",
         "is_ads": true,
         "is_banner_ads": true,
-        "is_interstitial_ads": true,
+        "is_interstitial_ads": false,
         "visibility_percentage": 0
       }
     },
