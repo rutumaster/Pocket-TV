@@ -97,7 +97,7 @@
       "is_stream_player_banner_ads": false,
       "startapp_ads": {
         "ads_app_id": "201571398",
-        "is_ads": false,
+        "is_ads": true,
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "visibility_percentage": 0
