@@ -339,5 +339,1177 @@
       "trial_version_text_color": "#ffffff"
     }
   }
+    ,
+    "Channel_List":
+    {
+      "is_channel_list" : true,
+      "is_override" : true,
+      "main_0": {
+        "id": 0,
+        "name": "Sports",
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
+        "sub": {
+          "sub_1": {
+            "ids": 1,
+            "mode": "video",
+            "name": "1abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "name": "sub",
+            "sub_name": "List",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "sub": {
+              "sub_2": {
+                "id": 2,
+                "mode": "video",
+                "name": "Youtube Video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_video_id": "4D3IauG5SU0",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "video",
+                "name": "Youtube List 1",
+                "sub_name": "Channels",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PLaEL1LTyEXg1n9fcF5ZE-3SwuwY7oIvRZ",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "mode": "video",
+                "name": "Search Youtube",
+                "sub_name": "Channels",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Trailers",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "mode": "video",
+                "name": "5abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "mode": "video",
+                "name": "6abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "mode": "video",
+                "name": "7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "zzzz News",
+                "sub_name": "List",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "sub": {
+                  "sub_2": {
+                    "id": 2,
+                    "mode": "video",
+                    "name": "2def News",
+                    "sub_name": "Channels",
+                    "swift_id": 351,
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                  },
+                  "sub_3": {
+                    "id": 3,
+                    "name": "xxx News",
+                    "sub_name": "List",
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "sub": {
+                      "sub_2": {
+                        "id": 2,
+                        "mode": "video",
+                        "name": "2def News",
+                        "sub_name": "Channels",
+                        "swift_id": 351,
+                        "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                        "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                      },
+                      "sub_3": {
+                        "id": 3,
+                        "mode": "video",
+                        "name": "3ghi News",
+                        "sub_name": "Channels",
+                        "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                        "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                        "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                      },
+                      "sub_5": {
+                        "id": 5,
+                        "mode": "video",
+                        "name": "5abc News",
+                        "sub_name": "",
+                        "youtube_video_id": "",
+                        "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                        "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                      },
+                      "sub_6": {
+                        "id": 6,
+                        "mode": "video",
+                        "name": "6abc News",
+                        "sub_name": "",
+                        "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                        "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                        "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                      },
+                      "sub_7": {
+                        "id": 7,
+                        "mode": "video",
+                        "name": "7abc News",
+                        "sub_name": "",
+                        "swift_id": 351,
+                        "diltv_id": 6202,
+                        "youtube_video_id": "",
+                        "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                        "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                        "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                        "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                      }
+                    }
+                  },
+                  "sub_4": {
+                    "id": 4,
+                    "mode": "video",
+                    "name": "4abc News",
+                    "sub_name": "",
+                    "diltv_id": 6202,
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                  },
+                  "sub_5": {
+                    "id": 5,
+                    "mode": "video",
+                    "name": "5abc News",
+                    "sub_name": "",
+                    "youtube_video_id": "",
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                  },
+                  "sub_6": {
+                    "id": 6,
+                    "mode": "video",
+                    "name": "6abc News",
+                    "sub_name": "",
+                    "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                  },
+                  "sub_7": {
+                    "id": 7,
+                    "mode": "video",
+                    "name": "7abc News",
+                    "sub_name": "",
+                    "swift_id": 351,
+                    "diltv_id": 6202,
+                    "youtube_video_id": "",
+                    "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                    "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                    "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                    "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+                  }
+                }
+              },
+              "sub_9": {
+                "id": 9,
+                "mode": "video",
+                "name": "Youtube List 2",
+                "sub_name": "Channels",
+                "youtube_playlist_id": "PLn5vww_8o5KvrACTuHkJjwHVUNZTB--iS",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "mode": "website",
+                "name": "Website",
+                "sub_name": "Channel",
+                "website_url": "https://www.google.co.in",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "mode": "video",
+                "name": "11abc News11abc News11abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "mode": "video",
+                "name": "12abc News11abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "mode": "video",
+                "name": "1abc News 7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "mode": "video",
+                "name": "2def News",
+                "sub_name": "Channels",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "mode": "video",
+                "name": "4abc News",
+                "sub_name": "",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "mode": "video",
+                "name": "5abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "mode": "video",
+                "name": "6abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "mode": "video",
+                "name": "7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "mode": "video",
+                "name": "8def News7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "mode": "video",
+                "name": "9ghi News",
+                "sub_name": "Channel",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "mode": "video",
+                "name": "10abc News11abc News11abc News",
+                "sub_name": "Channel",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "mode": "video",
+                "name": "11abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "mode": "video",
+                "name": "12abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },"sub_24": {
+                "id": 24,
+                "mode": "video",
+                "name": "1abc News 7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "mode": "video",
+                "name": "2def News7abc News",
+                "sub_name": "Channels",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "mode": "video",
+                "name": "3ghi News",
+                "sub_name": "Channels",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "mode": "video",
+                "name": "4abc News7abc News11abc News",
+                "sub_name": "",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "mode": "video",
+                "name": "5abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "mode": "video",
+                "name": "6abc News 7abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "mode": "video",
+                "name": "7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "mode": "video",
+                "name": "8def News 7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "mode": "video",
+                "name": "9ghi News",
+                "sub_name": "Channel",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "mode": "video",
+                "name": "10abc News",
+                "sub_name": "Channel",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "mode": "video",
+                "name": "11abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "mode": "video",
+                "name": "12abc News 7abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "mode": "video",
+                "name": "1abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "mode": "video",
+                "name": "2def News",
+                "sub_name": "Channels",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "mode": "video",
+                "name": "3ghi News",
+                "sub_name": "Channels",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "mode": "video",
+                "name": "4abc News",
+                "sub_name": "",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "mode": "video",
+                "name": "5abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "mode": "video",
+                "name": "6abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "mode": "video",
+                "name": "7abc News 7abc News",
+                "sub_name": "",
+                "swift_id": 351,
+                "diltv_id": 6202,
+                "youtube_video_id": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "mode": "video",
+                "name": "8def News",
+                "sub_name": "",
+                "swift_id": 351,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "mode": "video",
+                "name": "9ghi News",
+                "sub_name": "Channel",
+                "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "mode": "video",
+                "name": "10abc News",
+                "sub_name": "Channel",
+                "diltv_id": 6202,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "mode": "video",
+                "name": "11abc News",
+                "sub_name": "",
+                "youtube_video_id": "",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "mode": "video",
+                "name": "12abc News",
+                "sub_name": "",
+                "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+                "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+              }
+            }
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "ts video",
+            "sub_name": "Channels",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "mp4 Video",
+            "sub_name": "",
+            "stream_video_url": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "swift video",
+            "sub_name": "",
+            "swift_id": 395,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Diltv Video",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Youtube Video",
+            "sub_name": "",
+            "is_play_in_youtube" : true,
+            "is_youtube_download" : false,
+            "youtube_video_id": "4D3IauG5SU0",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Youtube List 1",
+            "sub_name": "Channels",
+            "is_play_in_youtube" : false,
+            "is_youtube_download" : false,
+            "youtube_playlist_id": "PLaEL1LTyEXg1n9fcF5ZE-3SwuwY7oIvRZ",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Search Youtube",
+            "sub_name": "Channels",
+            "is_play_in_youtube" : false,
+            "is_youtube_download" : true,
+            "youtube_search_playlist_keyword": "Trailers",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "website",
+            "name": "Website",
+            "sub_name": "Channel",
+            "website_url": "https://www.google.co.in",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "affiliate",
+            "name": "Affiliate",
+            "sub_name": "",
+            "is_system_browser": true,
+            "banner_url": "https://images-na.ssl-images-amazon.com/images/I/81njDKVuFsL._SL1500_.jpg",
+            "full_title": "Redmi Y2 (Dark Grey, 64GB)\nINR. 12,999.00",
+            "description": "Warranty Details: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Warranty Details: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliatedevice and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliatedevice and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliate",
+            "website_url": "https://www.amazon.in/Redmi-Y2-Dark-Grey-64GB/dp/B077PWBDV3/ref=sr_1_1?s=electronics&ie=UTF8&qid=1535716912&sr=1-1&keywords=y2",
+            "thumbnail_url": "https://m.media-amazon.com/images/G/31/img18/Wireless/CEEX/RedmiY2/E6_200x200._CB476604799_UY80_QL95_.jpg"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "application",
+            "name": "Application",
+            "sub_name": "",
+            "is_system_browser": true,
+            "banner_url": "https://lh3.googleusercontent.com/z7xyRlNFpOdEtjikj4XfQxuLm_Gk6tNfbV_bKusa20XMEGh1AxDyKaz8GsFDBd5nkxA=w1920-h974-rw",
+            "website_url": "",
+            "progress_downloading_message": "Downloading",
+            "progress_install_message": "Installing",
+            "application_package_id": "tv.accedo.airtel.wynk",
+            "full_title": "Airtel TV: Movies, TV series, Live TV, TV series, Live TV",
+            "application_download_url": "https://www.redboxtv.net/apk/redboxtv_v1.2.apk",
+            "description": "Unlimited Entertainment Hub with Bollywood, Regional & International content - all in a single app.\nGet a year’s subscription of Amazon Prime through the Airtel TV app. Available with Airtel Postpaid Infinity plans of Rs.499 and above. Also available with Airtel V-Fiber Broadband plans. For eligibility visit: www.airtel.in/broadband.Unlimited Entertainment Hub with Bollywood, Regional & International content - all in a single app.\nGet a year’s subscription of Amazon Prime through the Airtel TV app. Available with Airtel Postpaid Infinity plans of Rs.499 and above. Also available with Airtel V-Fiber Broadband plans. For eligibility visit: www.airtel.in/broadband.",
+            "thumbnail_url": "https://lh3.googleusercontent.com/CrDi0_CxBTtqoHgYgX4k2zyrnTPQK17Hzj-EhWhQ8bdWLL33z663BhK2RAQoE79fUes=s180-rw"
+          },
+          "sub_13": {
+            "id": 12,
+            "mode": "earning",
+            "name": "Earning",
+            "sub_name": "",
+            "thumbnail_url": "https://cdn1.iconfinder.com/data/icons/banking-and-finance-3-3/128/118-512.png",
+
+            "referral_code": "TVVXID09",
+            "is_play_in_youtube": false,
+            "1youtube_video_id": "078aRqwjXNw",
+            "stream_video_url": "http://techslides.com/demos/sample-videos/small.mp4",
+
+            "is_system_browser": true,
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+
+            "application_package_id": "tv.accedo.airtel.wynk",
+            "application_download_url": "https://www.redboxtv.net/apk/redboxtv_v1.2.apk",
+            "application_fileName": "aaaaa.apk",
+
+            "progress_downloading_message": "Downloading",
+            "progress_install_message": "Installing",
+
+            "banner_url": "https://i1.wp.com/sabmilyga.com/wp-content/uploads/2017/06/MoneyOnlineBanner2.png?fit=873%2C292&ssl=1",
+            "full_title": "Earn Money Online",
+
+            "description": "Unlimited Entertainment Hub with Bollywood."
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "2def News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "4abc News",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "5abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "6abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "8def News7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "9ghi News",
+            "sub_name": "Channel",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "10abc News11abc News11abc News",
+            "sub_name": "Channel",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "11abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "12abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },"sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "1abc News 7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "2def News7abc News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "3ghi News",
+            "sub_name": "Channels",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "4abc News7abc News11abc News",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "5abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "6abc News 7abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "8def News 7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "9ghi News",
+            "sub_name": "Channel",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "video",
+            "name": "10abc News",
+            "sub_name": "Channel",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "11abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "12abc News 7abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "video",
+            "name": "1abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "2def News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "video",
+            "name": "3ghi News",
+            "sub_name": "Channels",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "video",
+            "name": "4abc News",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "video",
+            "name": "5abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "video",
+            "name": "6abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "video",
+            "name": "7abc News 7abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "video",
+            "name": "8def News",
+            "sub_name": "",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "video",
+            "name": "9ghi News",
+            "sub_name": "Channel",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "video",
+            "name": "10abc News",
+            "sub_name": "Channel",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "video",
+            "name": "11abc News",
+            "sub_name": "",
+            "youtube_video_id": "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "video",
+            "name": "12abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          }
+        }
+      },
+      "main_1": {
+        "id": 1,
+        "name": "India",
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id" : "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode" : "video",
+            "name": "def News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode" : "video",
+            "name": "ghi News",
+            "sub_name": "",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "youtube_video_id" : "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "Channels",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          }
+        }
+      },
+      "main_2": {
+        "id": 2,
+        "name": "USA",
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "swift_id": 351,
+            "diltv_id": 6202,
+            "youtube_video_id" : "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode" : "video",
+            "name": "def News",
+            "sub_name": "Channels",
+            "swift_id": 351,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode" : "video",
+            "name": "ghi News",
+            "sub_name": "",
+            "stream_video_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "diltv_id": 6202,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "youtube_video_id" : "",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode" : "video",
+            "name": "abc News",
+            "sub_name": "",
+            "youtube_playlist_id": "PLqs369M3TcZvLnl_VsnMqmnjoGNInLqLE",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "website_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          }
+        }
+      }
+    }
   }
 }
