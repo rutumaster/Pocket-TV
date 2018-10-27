@@ -184,6 +184,7 @@
       "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
+      "website_url" : "",
       "filename": "RUTU_CHROMECAST.apk",
       "downloading_message":"App Downloading",
       "installing_message":"App Install"
