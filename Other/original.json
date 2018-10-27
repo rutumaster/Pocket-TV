@@ -185,6 +185,7 @@
 
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
       "website_url" : "",
+      "is_system_browser":true,
       "filename": "RUTU_CHROMECAST.apk",
       "downloading_message":"App Downloading",
       "installing_message":"App Install"
