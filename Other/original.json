@@ -141,6 +141,7 @@
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
+        "class_name" : "com.allinone.purchase.MainActivity",
         "purchase_package_id" : "com.allinone.purchase",
         "purchase_package_id1" : "com.tvstaring.abc",
         "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
