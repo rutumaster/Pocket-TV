@@ -1,44 +1,43 @@
 {
-  
   "TV_Data": {
     "Settings": {
-    "Admob_Settings": {
-      "is_override" : false,
-      "ads_delay": 0,
-      "ads_on_cancel_delay": 0,
-      "applovin_ads": {
-        "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
-        "is_ads": true,
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "is_initially_ads_container_visible":true,
-        "visibility_percentage": 50
-      },
-      "appnext_ads": {
-        "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
-        "interstitial_ad_unit_id": "2aa93ef9-381a-4b15-945a-86d4eba9ff0c",
-        "is_ads": true,
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "is_initially_ads_container_visible":true,
-        "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
-        "visibility_percentage": 50
-      },
-      "default_ads": "startapp_ads",
-      "facebook_ads": {
-        "ads_app_id": "417762135358078",
-        "banner_ad_unit_id": "417762135358078_417762335358058",
-        "interstitial_ad_unit_id": "417762135358078_417762628691362",
-        "is_ads": true,
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "is_initially_ads_container_visible":true,
-        "visibility_percentage": 50
-      },
-      "google_ads": {
+      "Admob_Settings": {
+        "is_override" : false,
+        "ads_delay": 0,
+        "ads_on_cancel_delay": 0,
+        "applovin_ads": {
+          "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 50
+        },
+        "appnext_ads": {
+          "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
+          "interstitial_ad_unit_id": "2aa93ef9-381a-4b15-945a-86d4eba9ff0c",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
+          "visibility_percentage": 50
+        },
+        "default_ads": "startapp_ads",
+        "facebook_ads": {
+          "ads_app_id": "417762135358078",
+          "banner_ad_unit_id": "417762135358078_417762335358058",
+          "interstitial_ad_unit_id": "417762135358078_417762628691362",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 50
+        },
+        "google_ads": {
           "ads_app_id": "ca-app-pub-3940256099942544~3347511713",
           "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
           "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -46,78 +45,78 @@
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
-         "is_initially_ads_container_visible":true,
+          "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
           "visibility_percentage": 50
         },
-      "custom_ads" :
-      {
-        "is_ads": true,
+        "custom_ads" :
+        {
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 50,
+          "ads_list" :
+          {
+            "ads_1" :
+            {
+              "id" : 1,
+              "on_back_close" : true,
+              "title" : "Pocket TV App",
+              "description" : "Total Entertainment",
+              "banner_image" : "https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg",
+              "logo_image" : "https://brandmark.io/logo-rank/random/bp.png",
+              "website_url" : "https://www.google.co.in",
+              "background_color" : "#666666",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+            "ads_2" :
+            {
+              "id" : 2,
+              "on_back_close" : false,
+              "title" : "Live TV App",
+              "description" : "Full Entertainment",
+              "banner_image" : "https://cdn.pixabay.com/photo/2015/10/29/14/44/sunset-1012477_960_720.jpg",
+              "logo_image" : "https://brandmark.io/logo-rank/random/pepsi.png",
+              "website_url" : "https://www.google.co.in",
+              "background_color" : "#666666",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+            "ads_3" :
+            {
+              "id" : 3,
+              "on_back_close" : true,
+              "title" : "Mobile TV App",
+              "description" : "Ever Entertainment",
+              "banner_image" : "https://juegosrev.com/wp-content/uploads/2017/06/Windows-7-Dual-Screen-Wallpapers-Gallery-47-Plus-PIC-WPW402080.jpg",
+              "logo_image" : "https://cnet3.cbsistatic.com/img/Yt768C55hXNi2eGSB9qOv-e7SQg=/2011/03/16/c7675aa8-fdba-11e2-8c7c-d4ae52e62bcc/Chrome-logo-2011-03-16.jpg",
+              "website_url" : "https://www.google.co.in",
+              "background_color" : "#666666",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            }
+          }
+        },
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
-        "is_initially_ads_container_visible":true,
-        "visibility_percentage": 50,
-        "ads_list" :
-        {
-          "ads_1" :
-          {
-            "id" : 1,
-            "on_back_close" : true,
-            "title" : "Pocket TV App",
-            "description" : "Total Entertainment",
-            "banner_image" : "https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg",
-            "logo_image" : "https://brandmark.io/logo-rank/random/bp.png",
-            "website_url" : "https://www.google.co.in",
-            "background_color" : "#666666",
-            "text_title_color" : "#ffffff",
-            "text_description_color" : "#ffffff"
-          },
-          "ads_2" :
-          {
-            "id" : 2,
-            "on_back_close" : false,
-            "title" : "Live TV App",
-            "description" : "Full Entertainment",
-            "banner_image" : "https://cdn.pixabay.com/photo/2015/10/29/14/44/sunset-1012477_960_720.jpg",
-            "logo_image" : "https://brandmark.io/logo-rank/random/pepsi.png",
-            "website_url" : "https://www.google.co.in",
-            "background_color" : "#666666",
-            "text_title_color" : "#ffffff",
-            "text_description_color" : "#ffffff"
-          },
-          "ads_3" :
-          {
-            "id" : 3,
-            "on_back_close" : true,
-            "title" : "Mobile TV App",
-            "description" : "Ever Entertainment",
-            "banner_image" : "https://juegosrev.com/wp-content/uploads/2017/06/Windows-7-Dual-Screen-Wallpapers-Gallery-47-Plus-PIC-WPW402080.jpg",
-            "logo_image" : "https://cnet3.cbsistatic.com/img/Yt768C55hXNi2eGSB9qOv-e7SQg=/2011/03/16/c7675aa8-fdba-11e2-8c7c-d4ae52e62bcc/Chrome-logo-2011-03-16.jpg",
-            "website_url" : "https://www.google.co.in",
-            "background_color" : "#666666",
-            "text_title_color" : "#ffffff",
-            "text_description_color" : "#ffffff"
-          }
+        "startapp_ads": {
+          "ads_app_id": "201571398",
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 50
         }
       },
-      "is_banner_ads": true,
-      "is_interstitial_ads": true,
-      "is_stream_player_banner_ads": true,
-      "startapp_ads": {
-        "ads_app_id": "201571398",
-        "is_ads": true,
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "is_initially_ads_container_visible":true,
-        "visibility_percentage": 50
-      }
-    },
 
-    "App_Update_Information":
-    {
+      "App_Update_Information":
+      {
         "is_override" : false,
 
         "is_popup_dialog": false,
@@ -136,8 +135,8 @@
         "log_message":"- Bug Fixing.\n- Chrome Cast Support\n- Remove Ads Support\n- Other Player Support",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
-    },
-      
+      },
+
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
@@ -155,9 +154,9 @@
         "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
         "inapp_base64EncodedPublicKey1" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
-      
-    "Supports_Availability":
-    {
+
+      "Supports_Availability":
+      {
         "is_override" : false,
         "is_webview_player_support": true,
         "is_other_player_support":true,
@@ -169,201 +168,210 @@
         "is_remove_ads_support":true,
 
         "is_purchase_restore_support":true
-    },
+      },
 
-    "Other_Player_Support":
-    {
-      "is_override" : false,
-      "other_player_title": "Other Player Support",
+      "Other_Player_Support":
+      {
+        "is_override" : false,
+        "other_player_title": "Other Player Support",
 
-      "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
-      "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+        "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
+        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
 
-      "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
+        "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
 
-      "success_other_player_message": "Congratulations!\nNow you can play video in outside player also."
-    },
+        "success_other_player_message": "Congratulations!\nNow you can play video in outside player also."
+      },
 
-    "Chromecast_Support":
-    {
-      "is_override" : false,
-      "cast_title": "Chromecast Support",
+      "Chromecast_Support":
+      {
+        "is_override" : false,
+        "cast_title": "Chromecast Support",
 
-      "cast_agent": "09",
-      "cast_referer": "https://www.metube.id",
-      "cast_package_name": "com.instantbits.cast.webvideo",
+        "cast_agent": "09",
+        "cast_referer": "https://www.metube.id",
+        "cast_package_name": "com.instantbits.cast.webvideo",
 
-      "inapp_cast_sku" : "com.pockettv.chromecast",
-      "inapp_cast_message": "If you want to play video on you TV.<br><br>Then you should purchase this service.<br><br>You will get chromecast support from Pocket TV.",
+        "inapp_cast_sku" : "com.pockettv.chromecast",
+        "inapp_cast_message": "If you want to play video on you TV.<br><br>Then you should purchase this service.<br><br>You will get chromecast support from Pocket TV.",
 
-      "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
+        "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
 
-      "initial_cast_message": "Do you need Chromecast support then follow below steps :<br><br>(1). Press \"SETUP\" button.<br>(2). If It will ask for permission please allow.<br>(3). It will open download dialog and please wait till download completion.<br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br>(5). After It will popup for installation screen and then \"INSTALL\" it.<br>(6). After installation complete press \"DONE\" button.<br>(7). Come back to Pocket TV and you will see your plugin activated.<br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a><br><br>",
-      "success_cast_message": "Now You can Chromecast Your Video From Player.",
+        "initial_cast_message": "Do you need Chromecast support then follow below steps :<br><br>(1). Press \"SETUP\" button.<br>(2). If It will ask for permission please allow.<br>(3). It will open download dialog and please wait till download completion.<br>(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.<br>(5). After It will popup for installation screen and then \"INSTALL\" it.<br>(6). After installation complete press \"DONE\" button.<br>(7). Come back to Pocket TV and you will see your plugin activated.<br>(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a><br><br>",
+        "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
-      "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
-      "website_url" : "",
-      "is_system_browser":true,
-      "filename": "RUTU_CHROMECAST.apk",
-      "downloading_message":"App Downloading",
-      "installing_message":"App Install"
-    },
+        "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
+        "website_url" : "",
+        "is_system_browser":true,
+        "filename": "RUTU_CHROMECAST.apk",
+        "downloading_message":"App Downloading",
+        "installing_message":"App Install"
+      },
 
-    "Remove_Ads_Support":
-    {
-      "is_override" : false,
-      "remove_ads_title": "Remove Ads Support",
+      "Remove_Ads_Support":
+      {
+        "is_override" : false,
+        "remove_ads_title": "Remove Ads Support",
 
-      "inapp_remove_ads_sku" : "com.pockettv.removeads",
-      "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
+        "inapp_remove_ads_sku" : "com.pockettv.removeads",
+        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to make this session ADS FREE, Then \"RATE US\" or \"SHARE APP\"",
 
-      "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
+        "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
-      "success_remove_ads_message": "Congratulations!\nNow Pocket TV is ADS FREE."
-    },
+        "success_remove_ads_message": "Congratulations!\nNow Pocket TV is ADS FREE."
+      },
 
-    "Purchase_Restore_Support":
-    {
-      "is_override" : false,
-      "purchase_restore_title" : "Purchase Restore",
-      "purchase_restore_banner_url" : "",
-      "purchase_restore_message" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase.",
-      "purchase_restore_success" : "Purchase restore success."
-    },
+      "Purchase_Restore_Support":
+      {
+        "is_override" : false,
+        "purchase_restore_title" : "Purchase Restore",
+        "purchase_restore_banner_url" : "",
+        "purchase_restore_message" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase.",
+        "purchase_restore_success" : "Purchase restore success."
+      },
 
-    "Disclaimer_App":
-    {
-      "is_override" : false,
-      "is_disclaimer_app" : true,
-      "is_force_approved": true,
-      "disclaimer_title": "Disclaimer",
-      "disclaimer_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
-    },
+      "Disclaimer_App":
+      {
+        "is_override" : false,
+        "is_disclaimer_app" : true,
+        "is_force_approved": true,
+        "disclaimer_title": "Disclaimer",
+        "disclaimer_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+      },
 
-    "About_App":
-    {
-      "is_override" : false,
-      "is_about_app" : true,
-      "about_title": "About",
-      "about_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
-    },
+      "About_App":
+      {
+        "is_override" : false,
+        "is_about_app" : true,
+        "about_title": "About",
+        "about_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+      },
 
-    "Exit_Dialog":
-    {
-      "is_override" : false,
-      "exit_title": "Exit",
-      "exit_message": "Do you want to exit from App?"
-    },
+      "Exit_Dialog":
+      {
+        "is_override" : false,
+        "exit_title": "Exit",
+        "exit_message": "Do you want to exit from App?"
+      },
 
-    "Rate_App":
-    {
-      "is_override" : false,
-      "is_rate_app" : true,
-      "package_id" : "com.android.chrome",
-      "rate_app_url" : "www.google.com",
-      "rate_message" : "Please Rate us and promote us."
-    },
+      "Rate_App":
+      {
+        "is_override" : false,
+        "is_rate_app" : true,
+        "package_id" : "com.android.chrome",
+        "rate_app_url" : "www.google.com",
+        "rate_message" : "Please Rate us and promote us."
+      },
 
-    "More_Apps":
-    {
-      "is_override" : false,
-      "is_more_app" : true,
-      "developer_id" : "Pocket+TV",
-      "more_app_url" : "www.google.com"
-    },
+      "More_Apps":
+      {
+        "is_override" : false,
+        "is_more_app" : true,
+        "developer_id" : "Pocket+TV",
+        "more_app_url" : "www.google.com"
+      },
 
-    "Share_App":
-    {
-      "is_override" : false,
-      "is_share_app" : true,
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.new.tvlive.world"
-    },
+      "Share_App":
+      {
+        "is_override" : false,
+        "is_share_app" : true,
+        "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.new.tvlive.world"
+      },
 
-    "Official_Website":
-    {
-      "is_override" : false,
-      "is_official_website" : true,
-      "is_system_browser": false,
-      "official_website": "http://www.google.com"
-    },
+      "Official_Website":
+      {
+        "is_override" : false,
+        "is_official_website" : true,
+        "is_system_browser": false,
+        "official_website": "http://www.google.com"
+      },
 
-    "Feedback_Support":
-    {
-      "is_override" : false,
-      "is_feedback" : true,
+      "Live_Support":
+      {
+        "is_override" : false,
+        "is_live_support" : true,
+        "fb_messenger_id": "822625707789265",
+        "is_system_browser": false,
+        "live_support_url": "http://www.google.com"
+      },
 
-      "cc_email_id": "",
-      "email_id": "pockettv.care@gmail.com",
-      "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
-      "email_subject": "Feedback on Pocket TV",
+      "Feedback_Support":
+      {
+        "is_override" : false,
+        "is_feedback" : true,
 
-      "feedback_title": "Send Feedback",
-      "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
-    },
+        "cc_email_id": "",
+        "email_id": "pockettv.care@gmail.com",
+        "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Pocket TV",
 
-    "Channel_Report_Support":
-    {
-      "is_override" : false,
-      "is_channel_report" : true,
+        "feedback_title": "Send Feedback",
+        "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
+      },
 
-      "cc_email_id": "",
-      "email_id": "pockettv.care@gmail.com",
+      "Channel_Report_Support":
+      {
+        "is_override" : false,
+        "is_channel_report" : true,
 
-      "channel_report_title": "Channel Report"
-    },
+        "cc_email_id": "",
+        "email_id": "pockettv.care@gmail.com",
 
-    "Error_Report_Support":
-    {
-      "is_override" : false,
-      "is_error_report" : true,
+        "channel_report_title": "Channel Report"
+      },
 
-      "cc_email_id": "",
-      "email_id": "pockettv.care@gmail.com"
-    },
+      "Error_Report_Support":
+      {
+        "is_override" : false,
+        "is_error_report" : true,
 
-    "Social_Support":
-    {
-      "is_override" : false,
-      "is_social" : true,
-      "social_title" : "Social",
-      "social_message" : "Like and share post in social media.",
-      "facebook_page_url": "fb://page/822625707789265",
-      "facebook_url": "https://www.facebook.com/822625707789265",
-      "instagram_url": "https://www.instagram.com/",
-      "twitter_url": "https://www.twitter.com/",
-      "youtube_url": "https://www.youtube.com/",
-      "google_plus_url": "https://plus.google.com/",
-      "linkedin_url": "https://www.linkedin.com/",
-      "linkedin_page_url": "linkedin://id"
-    },
+        "cc_email_id": "",
+        "email_id": "pockettv.care@gmail.com"
+      },
 
-    "Live_Stream_Settings":
-    {
-      "is_override" : false,
+      "Social_Support":
+      {
+        "is_override" : false,
+        "is_social" : true,
+        "social_title" : "Social",
+        "social_message" : "Like and share post in social media.",
+        "facebook_page_url": "fb://page/822625707789265",
+        "facebook_url": "https://www.facebook.com/822625707789265",
+        "instagram_url": "https://www.instagram.com/",
+        "twitter_url": "https://www.twitter.com/",
+        "youtube_url": "https://www.youtube.com/",
+        "google_plus_url": "https://plus.google.com/",
+        "linkedin_url": "https://www.linkedin.com/",
+        "linkedin_page_url": "linkedin://id"
+      },
 
-      "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
-      "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
-      "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
+      "Live_Stream_Settings":
+      {
+        "is_override" : false,
 
-      "channel_error_message": "Channel not play because server is down.\nTry After Some Time",
+        "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
+        "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
+        "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
 
-      "swift_token_url": "http://swiftstreamz.com/SwiftLive/swiftlive.php",
-      "swift_token_password": "SwiftStreamz:@SwiftStreamz@",
+        "channel_error_message": "Channel not play because server is down.\nTry After Some Time",
 
-      "dhamaka_token_url": "https://www.boxtvhd.com/androidapsbackup/dhamkatv.php",
-      "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad"
-    },
+        "swift_token_url": "http://swiftstreamz.com/SwiftLive/swiftlive.php",
+        "swift_token_password": "SwiftStreamz:@SwiftStreamz@",
 
-    "Video_Player_Settings":
-    {
-      "is_override" : false,
-      "is_trial_version": false,
-      "trial_version_top_text": "TOP",
-      "trial_version_bottom_text": "BOTTOM",
-      "trial_version_height": 70,
-      "trial_version_bg_color": "#000000",
-      "trial_version_text_color": "#ffffff"
+        "dhamaka_token_url": "https://www.boxtvhd.com/androidapsbackup/dhamkatv.php",
+        "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad"
+      },
+
+      "Video_Player_Settings":
+      {
+        "is_override" : false,
+        "is_trial_version": false,
+        "trial_version_top_text": "TOP",
+        "trial_version_bottom_text": "BOTTOM",
+        "trial_version_height": 70,
+        "trial_version_bg_color": "#000000",
+        "trial_version_text_color": "#ffffff"
+      }
     }
-  }
   }
 }
