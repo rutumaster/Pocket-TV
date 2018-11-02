@@ -259,7 +259,7 @@
         "is_override" : false,
         "is_rate_app" : true,
         "package_id" : "com.android.chrome",
-        "rate_app_url" : "www.google.com",
+        "rate_app_url" : "https://www.google.co.in",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -268,7 +268,7 @@
         "is_override" : false,
         "is_more_app" : true,
         "developer_id" : "Pocket+TV",
-        "more_app_url" : "www.google.com"
+        "more_app_url" : "https://www.google.co.in"
       },
 
       "Share_App":
