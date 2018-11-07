@@ -52,7 +52,7 @@
         },
         "custom_ads" :
         {
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
