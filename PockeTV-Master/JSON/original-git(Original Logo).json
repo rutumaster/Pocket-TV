@@ -91,12 +91,12 @@
     "Channel_List" : {
       "main_-6" : {
         "auto_banner" : true,
-        "auto_thumbnail" : true,
+        "auto_thumbnail" : false,
         "banner_url" : "",
         "id" : -1,
         "name" : "2000+ HD Live TV",
         "sub_name" : "",
-        "thumbnail_url" : "",
+        "thumbnail_url" : "https://lh3.googleusercontent.com/RxqUEs3G8KTiHAv7ixVnrUXOunOIqvvl3rcYwnXYdQGO4WkdYe793DIhe5Ya2sye4K0=s180-rw",
         "youtube_video_id" : "TgZ3Mw83FBg"
       },
       "main_-1" : {
