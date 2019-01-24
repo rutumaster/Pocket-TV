@@ -96,8 +96,9 @@
         "id" : -1,
         "name" : "2000+ HD Live TV",
         "sub_name" : "",
+        "is_system_browser" : true,
         "thumbnail_url" : "https://lh3.googleusercontent.com/RxqUEs3G8KTiHAv7ixVnrUXOunOIqvvl3rcYwnXYdQGO4WkdYe793DIhe5Ya2sye4K0=s180-rw",
-        "youtube_video_id" : "TgZ3Mw83FBg"
+        "website_url" : "https://youtu.be/TgZ3Mw83FBg"
       },
       "main_-1" : {
         "android_app_download_url" : "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=235411",
