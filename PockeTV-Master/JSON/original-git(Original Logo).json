@@ -52,16 +52,16 @@
       }
     },
     "Ads_Popup" : {
-      "ads_app_package_id" : "com.instantbits.cast.webvideo",
-      "ads_description" : "Take your Spectrum TV experience with you! With the Spectrum TV App, you can enjoy up to 250 live TV channels and up to 30,000 On Demand TV shows and movies when you're connected to your Spectrum Internet WiFi network at home. Plus, when you're on the go, enjoy up to 150 live channels and up to 20,000 On Demand titles anywhere you have an internet connection. (See note on availability below.)",
+      "ads_app_package_id" : "com.pocketiptv",
+      "ads_description" : "Pocket IPTV brings you an exciting world of entertainment into your Any Android Device. You get an unlimited access to : Watch free unlimited live TV channels of all around the world (Indian, Pakistani, American (US), Albania, South India, Netherland, Punjabi, Bangla, UK, Nepal, Australia, Germany, Saudi Arabia, Philippines, Spain, Indonesia, Poland, Srilanka, Thailand, Afghan, France, Belgium, Iran, Kurdish, Turkish and other) as well as VOD, Music, Blockbuster Movies (Bollywood, South, Hollywood, Gujarati, Regional), trailer, Cartoon, Live News, Live Sports (Cricket, Kabaddi, Football, Hockey, Badminton, Tennis, Formula 1, Athletics, Table Tennis), Comedy, Wild Life / Science, Devotional, Kids, Series, Seasons, Recipes Playlist and all that you love in HD from any other source in the web iptv provider's playlist",
       "ads_download_popup_description" : "To Install this app you need to follow below steps. :\n\n(1). Press \"START\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"OPEN\" button and enjoy app.",
       "ads_download_popup_title" : "App Installation",
-      "ads_remind_id" : "",
-      "ads_thumbnail_url" : "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2018%2F02%2F5a8e13c776935.png&w=96&h=96&q=100",
-      "ads_title" : "Spectrum TV",
-      "ads_website_url" : "https://www.youtube.com/watch?v=KJJRLQdFz9w&t=447s",
-      "download_url" : "https://github.com/rutumaster/Pocket-TV/raw/master/app-release-v2.1.apk",
-      "filename" : "RUTU_ADS.apk",
+      "ads_remind_id" : "1",
+      "ads_thumbnail_url" : "https://image.winudf.com/v2/image1/Y29tLnBvY2tldGlwdHZfaWNvbl8xNTQ3NzM2MDM1XzA0MA/icon.png?w=170&fakeurl=1&type=.png",
+      "ads_title" : "Pocket IPTV",
+      "ads_website_url" : "https://youtu.be/TgZ3Mw83FBg",
+      "download_url" : "https://d-10.winudf.com/b/apk/Y29tLnBvY2tldGlwdHZfMTBfM2RkMGI4NzI?_fn=UG9ja2V0IElQVFYgU3BvcnRzIE5ld3MgTW92aWVzIFNlcmllcyBUVl92MTAuMF9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLnBvY2tldGlwdHY&as=e004d94eb1b64404029d7c0fdfcb63805c499cc2&c=1%7CVIDEO_PLAYERS%7CZGV2PVBvY2tldCUyMElQVFYlMjAlRTIlODQlQTImdD1hcGsmdm49MTAuMCZ2Yz0xMA&k=c8e919fa23315926f7869849d9150d4a5c4cef3a",
+      "filename" : "Pocket_IPTV.apk",
       "is_system_browser" : true,
       "progress_download_message" : "App Downloading...",
       "progress_install_message" : "Install Now"
@@ -284,7 +284,7 @@
           }
         },
         "sub_name" : "Channels",
-        "thumbnail_url" : "https://apk.co/images/live-sports-streaming-hd-200.png"
+        "thumbnail_url" : "http://lh6.ggpht.com/lQxNk0WG1iDv9d1zpiKcLEy2qQA_uf9KDbRcmHqqivE_JbNrhqRWzcG43-cw8k-0_tnz=w300"
       },
       "main_1" : {
         "auto_banner" : false,
