@@ -400,7 +400,7 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Pocket IPTV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
+        "disclaimer_message": "Pocket TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
       },
     
       "Playlist_Detail":
@@ -418,7 +418,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Pocket IPTV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket IPTV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket IPTV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -431,7 +431,7 @@
       "Rate_App":
       {
         "is_override" : false,
-        "is_rate_app" : true,
+        "is_rate_app" : false,
         "package_id" : "com.rutu.master.pockettv",
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
         "rate_message" : "Please Rate us and promote us."
@@ -441,7 +441,7 @@
       {
         "is_override" : false,
         "is_more_app" : false,
-        "developer_id" : "Pocket+IPTV+™",
+        "developer_id" : "Pocket+TV+™",
         "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
       },
 
@@ -449,7 +449,7 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
+        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://drive.google.com/uc?authuser=0&id=15VyAWlZoMzXc6Z55ldJFD_cPey1GadWA&export=download",
         "share_message_iptv": "Share iptv url : ",
         "share_message_link": "Share link url : "
       },
@@ -465,7 +465,7 @@
       "Privacy_Policy":
       {
         "is_override" : false,
-        "is_privacy_policy" : true,
+        "is_privacy_policy" : false,
         "is_system_browser": true,
         "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
       },
@@ -474,8 +474,8 @@
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 12.0"
+        "registration_detail": "Pocket TV® 2017",
+        "version_detail": "version : 6.0.0"
       },
 
       "Live_Support":
@@ -503,7 +503,7 @@
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
+        "email_id": "rutu.inc@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Pocket IPTV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Pocket IPTV",
 
@@ -517,7 +517,7 @@
         "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
+        "email_id": "rutu.inc@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
@@ -528,23 +528,23 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com"
+        "email_id": "rutu.inc@gmail.com"
       },
 
       "Social_Support":
       {
         "is_override" : false,
-        "is_social" : false,
+        "is_social" : true,
         "social_title" : "Social",
         "social_message" : "Like and share post in social media.",
         "facebook_page_url": "fb://page/822625707789265",
         "facebook_url": "https://www.facebook.com/822625707789265",
-        "instagram_url": "https://www.instagram.com/",
-        "twitter_url": "https://www.twitter.com/",
-        "youtube_url": "https://www.youtube.com/",
-        "google_plus_url": "https://plus.google.com/",
-        "linkedin_url": "https://www.linkedin.com/",
-        "linkedin_page_url": "linkedin://id"
+        "instagram_url": "",
+        "twitter_url": "https://www.twitter.com/pockettv",
+        "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
+        "google_plus_url": "",
+        "linkedin_url": "",
+        "linkedin_page_url": ""
       },
 
       "Live_Stream_Settings":
