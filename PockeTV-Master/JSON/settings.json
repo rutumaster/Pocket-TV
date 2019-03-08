@@ -85,8 +85,7 @@
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "2997115",
-          "ads_app_id1": "2994298",
+          "ads_app_id": "3073039",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
           "ads_banner_clicks_per_duration_day" : 10,
