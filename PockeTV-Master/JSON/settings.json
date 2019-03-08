@@ -99,7 +99,7 @@
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
-          "is_initially_ads_container_visible":false,
+          "is_initially_ads_container_visible":true,
           "visibility_percentage": 100
         },
         "custom_ads" :
@@ -156,7 +156,7 @@
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
-          "is_initially_ads_container_visible":false,
+          "is_initially_ads_container_visible":true,
           "visibility_percentage": 5
         }
       },
