@@ -107,6 +107,16 @@
             "initial_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
             "success_message": "Congratulations!\nNow you can play video in outside player also."
           }
+          ,
+          "purchase_3":
+          {
+            "id" : 3,
+            "inapp_sku": "com.pockettv.chromecast",
+            "name" : "Chrome Cast",
+            "image_url" : "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
+            "initial_message": "If you want to play video on your TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Pocket TV.",
+            "success_message": "Congratulations!\nNow you can play video on you TV."
+          }
         }
 
       },
