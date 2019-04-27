@@ -266,8 +266,8 @@
         "is_update_require":true,
 
         "package_id":"com.rutu.master.pockettv",
-        "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
+        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "is_system_browser":true,
 
         "updated_version_code":7,
