@@ -13,7 +13,7 @@
             "id": 0,
             "name": "Arabian TV",
             "sub_name": "Channels",
-            "thumbnail_url": "28889_93461_ARABIC.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -22,7 +22,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1099,
-                "thumbnail_url": "72131_88315_AbuDhabiDrama.jpg"
+                "thumbnail_url": "http://app.liveplanettv.com/images/79490_88315_AbuDhabiDrama.jpg"
               },
               "sub_1": {
                 "id": 1,
@@ -31,7 +31,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1100,
-                "thumbnail_url": "34585_37146_AbuDhabiALOulNew (1).jpg"
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/37146_AbuDhabiALOulNew.jpg"
               },
               "sub_2": {
                 "id": 2,
@@ -40,7 +40,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1101,
-                "thumbnail_url": "50094_81383_alhayet.jpg"
+                "thumbnail_url": "http://www.elahmad.com/tv/images/alarabiya_alhadath.jpg"
               },
               "sub_3": {
                 "id": 3,
@@ -49,7 +49,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1102,
-                "thumbnail_url": "84406_46012_almagharibia.jpg"
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/46012_almagharibia.jpg"
               },
               "sub_4": {
                 "id": 4,
@@ -58,7 +58,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1109,
-                "thumbnail_url": "19826_17247_almajad.jpg"
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/12359_rtlcrime.jpg"
               },
               "sub_5": {
                 "id": 5,
@@ -67,7 +67,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1103,
-                "thumbnail_url": "60510_18195_AlNaharTv.jpg"
+                "thumbnail_url": "https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png"
               },
               "sub_6": {
                 "id": 6,
@@ -76,7 +76,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1104,
-                "thumbnail_url": "79327_89385_alnahardrama.jpg"
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/81235_AlNaharDrama.jpg"
               },
               "sub_7": {
                 "id": 7,
@@ -85,7 +85,7 @@
                 "sub_name": "",
                 "planet_category_id": 75,
                 "planet_channel_id": 1105,
-                "thumbnail_url": "82536_20018_alresalah.jpg"
+                "thumbnail_url": "http://app.liveplanettv.com/images/20018_alresalah.jpg"
               },
               "sub_8": {
                 "id": 8,
@@ -246,7 +246,7 @@
             "id": 1,
             "name": "FRANCE TV",
             "sub_name": "Channels",
-            "thumbnail_url": "4682_32216_FRANCE.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -416,7 +416,7 @@
             "id": 2,
             "name": "GERMANY TV",
             "sub_name": "Channels",
-            "thumbnail_url": "34456_50203_GERMANY.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -622,7 +622,7 @@
             "id": 3,
             "name": "INDIAN TV",
             "sub_name": "Channels",
-            "thumbnail_url": "58022_40441_INDIAN.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -1404,7 +1404,7 @@
             "id": 4,
             "name": "KIDS TV",
             "sub_name": "Channels",
-            "thumbnail_url": "30039_82448_KIDS.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -1502,7 +1502,7 @@
             "id": 5,
             "name": "PAKISTANI TV",
             "sub_name": "Channels",
-            "thumbnail_url": "20480_45913_PAKISTANI.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -2257,7 +2257,7 @@
             "id": 6,
             "name": "PORTUGAL TV",
             "sub_name": "Channels",
-            "thumbnail_url": "76886_28669_PORTUGAL.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -2697,7 +2697,7 @@
             "id": 7,
             "name": "SOUTH INDIAN",
             "sub_name": "Channels",
-            "thumbnail_url": "63415_20477_SOUTHINDIAN (1).jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -3128,7 +3128,7 @@
             "id": 8,
             "name": "SPORTS TV",
             "sub_name": "Channels",
-            "thumbnail_url": "47190_1434_SPORTS.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -4207,7 +4207,7 @@
             "id": 9,
             "name": "TURKISH",
             "sub_name": "Channels",
-            "thumbnail_url": "52698_41272_Turkey (1).jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -4521,7 +4521,7 @@
             "id": 10,
             "name": "UK TV",
             "sub_name": "Channels",
-            "thumbnail_url": "49049_22488_UK.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5042,7 +5042,7 @@
             "id": 11,
             "name": "USA TV",
             "sub_name": "Channels",
-            "thumbnail_url": "7670_74909_USA.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5428,7 +5428,7 @@
             "id": 12,
             "name": "WILDLIFE/SCI TV",
             "sub_name": "Channels",
-            "thumbnail_url": "98218_56986_WILDSCIENC.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
             "sub": {
               "sub_0": {
                 "id": 0,
