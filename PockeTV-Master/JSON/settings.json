@@ -270,7 +270,7 @@
         "website_url":"https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
         "is_system_browser":true,
 
-        "updated_version_code":6,
+        "updated_version_code":7,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -449,7 +449,7 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v6.apk",
+        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "share_message_iptv": "Share iptv url : ",
         "share_message_link": "Share link url : "
       },
@@ -475,7 +475,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 6.0.0"
+        "version_detail": "version : 7.0.0"
       },
 
       "Live_Support":
@@ -550,7 +550,9 @@
       "Live_Stream_Settings":
       {
         "is_override" : false,
-
+        
+        "planet_url": "http://app.liveplanettv.com/",
+        
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
         "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
