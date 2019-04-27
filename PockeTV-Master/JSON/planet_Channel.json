@@ -1,0 +1,5565 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "main": {
+        "id": 0,
+        "name": "World Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "name": "Arabian TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "28889_93461_ARABIC.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "AbuDhabi Drama",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1099,
+                "thumbnail_url": "72131_88315_AbuDhabiDrama.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "AbuDhabi TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1100,
+                "thumbnail_url": "34585_37146_AbuDhabiALOulNew (1).jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Al Hadeth",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1101,
+                "thumbnail_url": "50094_81383_alhayet.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "Al Maghrivya",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1102,
+                "thumbnail_url": "84406_46012_almagharibia.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Al Majd",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1109,
+                "thumbnail_url": "19826_17247_almajad.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Al Nahar",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1103,
+                "thumbnail_url": "60510_18195_AlNaharTv.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Al Nahar Drama",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1104,
+                "thumbnail_url": "79327_89385_alnahardrama.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Al Raselah",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1105,
+                "thumbnail_url": "82536_20018_alresalah.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "ALArabia",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1106,
+                "thumbnail_url": "79250_52015_alarabyia.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "ALGeria 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1107,
+                "thumbnail_url": "8062_86652_algeria3.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "Aoula Moroco",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1110,
+                "thumbnail_url": "1283_6826_AoulaMaroco.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "Arriadia Maroco",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1111,
+                "thumbnail_url": "63057_26000_ArriadiaMaroc.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "Art Aflam 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1112,
+                "thumbnail_url": "22747_76356_artaflam1.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "Art Aflam 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1113,
+                "thumbnail_url": "68097_50694_artaflam2.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "Art Cinema",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1114,
+                "thumbnail_url": "70492_54487_artcinema.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "Art Hekayat",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1115,
+                "thumbnail_url": "61293_39007_aryhekayet1.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "Art Hekayat",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1116,
+                "thumbnail_url": "68721_24574_aryhekayet2.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "B4U AFLAM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1117,
+                "thumbnail_url": "23985_83630_b4uaflam.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "Bein Movies 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1118,
+                "thumbnail_url": "42791_70138_beinmovieturk.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "Bein Movies 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1119,
+                "thumbnail_url": "62664_54986_beinm2.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "Bein Movies 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1120,
+                "thumbnail_url": "6174_48976_beinm3.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "Bein Movies 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1121,
+                "thumbnail_url": "33654_40988_beinm4.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "Tunsia Nat 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1125,
+                "thumbnail_url": "13140_73508_tunsianat2.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "Tunsia Nat1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1124,
+                "thumbnail_url": "20766_65499_tunsianat1.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "Tunsia TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 75,
+                "planet_channel_id": 1126,
+                "thumbnail_url": "74750_92753_tunsiantv.jpg"
+              }
+            }
+          },
+          "sub_1": {
+            "id": 1,
+            "name": "FRANCE TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "4682_32216_FRANCE.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "ACTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 142,
+                "thumbnail_url": "66988_88753_action.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "ANIMAUX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 143,
+                "thumbnail_url": "93389_18032_animaux.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "BFMTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 144,
+                "thumbnail_url": "51361_35325_bfmtv.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "DISNEY CINEMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 145,
+                "thumbnail_url": "30841_7951_disneychannel.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "E ENTERTAINMENT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 146,
+                "thumbnail_url": "61680_29187_eenter.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "FRANCE 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 147,
+                "thumbnail_url": "95057_1556_france2.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "FRANCE 24",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 148,
+                "thumbnail_url": "76319_72832_france24.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "FRANCE 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 149,
+                "thumbnail_url": "22984_76742_france3.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "FRANCE 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 150,
+                "thumbnail_url": "92713_88012_france4.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "FRANCE 5",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 151,
+                "thumbnail_url": "76492_97069_france5.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "FRANCE O",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 152,
+                "thumbnail_url": "63870_82104_franceo.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "M6",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 153,
+                "thumbnail_url": "77305_1342_m6.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "OCS CHOC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 154,
+                "thumbnail_url": "22322_73610_OCSCHOC.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "OCS CITY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 155,
+                "thumbnail_url": "6193_46157_ocscity.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "OCS MAX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 156,
+                "thumbnail_url": "16760_61065_ocsmax.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "RTL 9 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 157,
+                "thumbnail_url": "95782_51834_rtl9.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "TCM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 158,
+                "thumbnail_url": "24112_48368_tcmcinema.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "TF 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 45,
+                "planet_channel_id": 159,
+                "thumbnail_url": "123_3708_tf1.jpg"
+              }
+            }
+          },
+          "sub_2": {
+            "id": 2,
+            "name": "GERMANY TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "34456_50203_GERMANY.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "ARD 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 160,
+                "thumbnail_url": "66924_80459_ard1.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "AXN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 161,
+                "thumbnail_url": "26036_6755_axn.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "KIKA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 162,
+                "thumbnail_url": "58607_65625_kikatv.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "N24",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 163,
+                "thumbnail_url": "91289_71905_n24.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "NTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 164,
+                "thumbnail_url": "80147_85911_ntv.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "PRO 7",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 165,
+                "thumbnail_url": "78192_20252_pro7.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "RTL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 166,
+                "thumbnail_url": "11846_26896_rtl.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "RTL 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 167,
+                "thumbnail_url": "48116_7787_rtl2 (1).jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "RTL CRIME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 168,
+                "thumbnail_url": "58050_12359_rtlcrime (1).jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "RTL NITRO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 169,
+                "thumbnail_url": "64782_9992_rtlnitro (1).jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "RTL PASSION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 170,
+                "thumbnail_url": "59234_93698_rtlpassion.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "SAT 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 171,
+                "thumbnail_url": "96252_95762_sat1.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "SKY ACTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 172,
+                "thumbnail_url": "63810_85107_skyaction.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "SKY ATLANTIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 173,
+                "thumbnail_url": "55988_96812_skyatlantic.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "SKY CINEMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 174,
+                "thumbnail_url": "423_3647_skycinema.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "SKY CINEMA 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 175,
+                "thumbnail_url": "35294_57048_skycinema1.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "SKY CINEMA 24",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 176,
+                "thumbnail_url": "86485_38876_skycinema24.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "SKY COMEDY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 177,
+                "thumbnail_url": "30321_42069_skycomedy.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "SKY EMOTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 178,
+                "thumbnail_url": "46820_81396_skyemotion.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "SUPER RTL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 179,
+                "thumbnail_url": "79739_63082_superrtl.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "VOX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 180,
+                "thumbnail_url": "37022_29051_vox.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "ZDF TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 52,
+                "planet_channel_id": 181,
+                "thumbnail_url": "92300_88499_zdftv.jpg"
+              }
+            }
+          },
+          "sub_3": {
+            "id": 3,
+            "name": "INDIAN TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "58022_40441_INDIAN.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "9XM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 24,
+                "thumbnail_url": "3378_62972_9xm.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "AAJ TAKK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 336,
+                "thumbnail_url": "18263_17153_aaj tak.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "ABP NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 341,
+                "thumbnail_url": "20447_9405_abpnews.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "AND PIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 343,
+                "thumbnail_url": "53779_82905_andpicnew.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "AND PIC HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 345,
+                "thumbnail_url": "4199_17875_andpichd (1).jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "AND TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 348,
+                "thumbnail_url": "34849_21931_andtv.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "AND TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 351,
+                "thumbnail_url": "80002_74170_ANDTVHD.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "B4U MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 353,
+                "thumbnail_url": "51199_27340_b4umovies.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "B4U MUSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 355,
+                "thumbnail_url": "21039_71614_B4Umusic.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "BIG MAGIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 359,
+                "thumbnail_url": "97568_3320_bigmagicnew.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "CINEMA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 363,
+                "thumbnail_url": "58234_92809_cinematv.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "DABANG TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 380,
+                "thumbnail_url": "14436_26202_dabangtvnew.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "DANGAL TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 383,
+                "thumbnail_url": "57695_99662_dangalnew.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "DD NATIONAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 386,
+                "thumbnail_url": "20113_67779_ddnationalnew.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "DD NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 389,
+                "thumbnail_url": "28288_54548_DDnews.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "DELHI AAJTAK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 390,
+                "thumbnail_url": "93204_67752_DelhiAajTak.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "DHAMAAL TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 392,
+                "thumbnail_url": "39640_4500_dhammaltvnew.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "DILLAGI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 393,
+                "thumbnail_url": "12616_77794_dillaginew.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "E24",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 398,
+                "thumbnail_url": "52161_77169_e24.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "ENYER 10",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 402,
+                "thumbnail_url": "3333_93736_Enter10.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "ET NOW",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 404,
+                "thumbnail_url": "69689_15320_ETNow (1).jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "INDIA TODAY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 406,
+                "thumbnail_url": "43788_67581_IndiaToday.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "INDIA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 409,
+                "thumbnail_url": "42524_14044_IndiaTV1 (1).jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "MAHA MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 410,
+                "thumbnail_url": "46495_98855_mahamovies.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "MANORANJAN MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 413,
+                "thumbnail_url": "24334_87162_manoranjanmovies.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "MANORANJAN TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 414,
+                "thumbnail_url": "9295_23804_manoranjan (1).jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "MASTII",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 415,
+                "thumbnail_url": "87956_93328_mastiitv.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "MOVIE OK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 417,
+                "thumbnail_url": "65007_56897_movieok.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MTV BEATS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 418,
+                "thumbnail_url": "44504_98476_mtvbeats.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "MTV INDIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 419,
+                "thumbnail_url": "47200_99766_mtvindia.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "MUSIC INDIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 420,
+                "thumbnail_url": "45272_99696_MusicIndia.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "NDTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 422,
+                "thumbnail_url": "33967_43217_ndtvindia.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "NDTV 24X7",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 423,
+                "thumbnail_url": "91923_47553_NDtv24x7.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "NDTV PROFIT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 424,
+                "thumbnail_url": "36161_38733_NDTVProfit.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "REPUBLIC TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 425,
+                "thumbnail_url": "21554_9905_republictv.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "RISHTEY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 431,
+                "thumbnail_url": "78825_58406_RishteyUK.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "RISHTEY ASIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 435,
+                "thumbnail_url": "62905_73659_RishteyAsia.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "RISHTEY EU",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 433,
+                "thumbnail_url": "82984_41326_RishteyUK1.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "RISHTHEY CINEPLEX UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 438,
+                "thumbnail_url": "9428_67527_rishteycineUK1.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "RISHTY CINEPLEX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 429,
+                "thumbnail_url": "70108_26319_rishteycine1.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "Set Max In",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 443,
+                "thumbnail_url": "64471_69244_SetMaxAUD1.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "Set Max Uk",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 445,
+                "thumbnail_url": "90529_68583_SetMaxUK1.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "SONY MIX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 449,
+                "thumbnail_url": "37042_16436_SonyMix (1).jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "SONY PAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 451,
+                "thumbnail_url": "52830_11520_SonyPal (1).jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "SONY PIX HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 453,
+                "thumbnail_url": "68017_96598_sonypix.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "Sony Rox Hd",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 456,
+                "thumbnail_url": "16032_91916_sonyrox.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "SONY SAB",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 458,
+                "thumbnail_url": "16171_26097_sonysabhdnew (1).jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "name": "SONY SAB HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 460,
+                "thumbnail_url": "40261_26097_sonysabhdnew (1).jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "name": "SONY SAB ME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 459,
+                "thumbnail_url": "82401_10769_sonysabasia.jpg"
+              },
+              "sub_49": {
+                "id": 49,
+                "name": "SONY TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 461,
+                "thumbnail_url": "19780_21594_SONYTVHD (2).jpg"
+              },
+              "sub_50": {
+                "id": 50,
+                "name": "SONY TV IN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 462,
+                "thumbnail_url": "30479_10542_SONYTVIN (2).jpg"
+              },
+              "sub_51": {
+                "id": 51,
+                "name": "SONY TV UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 463,
+                "thumbnail_url": "64783_75205_SONYTVUK.jpg"
+              },
+              "sub_52": {
+                "id": 52,
+                "name": "STAR GOLD HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 476,
+                "thumbnail_url": "1654_79585_stargoldhd.jpg"
+              },
+              "sub_53": {
+                "id": 53,
+                "name": "STAR GOLD UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 478,
+                "thumbnail_url": "20126_34686_StarGoldUK.jpg"
+              },
+              "sub_54": {
+                "id": 54,
+                "name": "STAR MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 480,
+                "thumbnail_url": "32589_27270_starmoviehd.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "name": "STAR PLUS HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 485,
+                "thumbnail_url": "26959_13922_StarPluse.jpg"
+              },
+              "sub_56": {
+                "id": 56,
+                "name": "STAR PLUS IN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 483,
+                "thumbnail_url": "85012_41698_StarPluseIN.jpg"
+              },
+              "sub_57": {
+                "id": 57,
+                "name": "STAR PLUS ME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 487,
+                "thumbnail_url": "33225_67155_StarPluseUSA.jpg"
+              },
+              "sub_58": {
+                "id": 58,
+                "name": "STAR PLUS UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 489,
+                "thumbnail_url": "80468_6011_StarPluseUK (1).jpg"
+              },
+              "sub_59": {
+                "id": 59,
+                "name": "STAR PLUS USA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 490,
+                "thumbnail_url": "88481_7017_StarPluseUSA.jpg"
+              },
+              "sub_60": {
+                "id": 60,
+                "name": "STAR USTUV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 494,
+                "thumbnail_url": "91610_60505_starustuv.jpg"
+              },
+              "sub_61": {
+                "id": 61,
+                "name": "STAR UTSAV MOV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 497,
+                "thumbnail_url": "16177_82412_starustuvmovies.jpg"
+              },
+              "sub_62": {
+                "id": 62,
+                "name": "TEZ NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 500,
+                "thumbnail_url": "96310_18671_teznews.jpg"
+              },
+              "sub_63": {
+                "id": 63,
+                "name": "TIMES NOW",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 503,
+                "thumbnail_url": "72165_33043_timesnow.jpg"
+              },
+              "sub_64": {
+                "id": 64,
+                "name": "TRAVEL XPHD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 505,
+                "thumbnail_url": "84617_44362_travelxphindi.jpg"
+              },
+              "sub_65": {
+                "id": 65,
+                "name": "UTV BINDASS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 506,
+                "thumbnail_url": "27935_10065_UTVbindass.jpg"
+              },
+              "sub_66": {
+                "id": 66,
+                "name": "UTV MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 507,
+                "thumbnail_url": "41214_6784_UTVMovies.jpg"
+              },
+              "sub_67": {
+                "id": 67,
+                "name": "WOW CINEMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 508,
+                "thumbnail_url": "19975_59224_wowcinema.jpg"
+              },
+              "sub_68": {
+                "id": 68,
+                "name": "ZEE ACTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 523,
+                "thumbnail_url": "74486_55140_ZeeAction.jpg"
+              },
+              "sub_69": {
+                "id": 69,
+                "name": "ZEE BOLLYWOOD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 531,
+                "thumbnail_url": "95860_34310_zeeetc.jpg"
+              },
+              "sub_70": {
+                "id": 70,
+                "name": "ZEE BUSSINESS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 528,
+                "thumbnail_url": "43575_43160_ZeeBusiness.jpg"
+              },
+              "sub_71": {
+                "id": 71,
+                "name": "ZEE CINEMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 541,
+                "thumbnail_url": "15296_26398_Zeecinema1.jpg"
+              },
+              "sub_72": {
+                "id": 72,
+                "name": "ZEE CINEMA HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 536,
+                "thumbnail_url": "99542_79970_zeecinemahd.jpg"
+              },
+              "sub_73": {
+                "id": 73,
+                "name": "ZEE CINEMA ME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 546,
+                "thumbnail_url": "54933_7104_zeecinemame.jpg"
+              },
+              "sub_74": {
+                "id": 74,
+                "name": "ZEE CINEMA UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 544,
+                "thumbnail_url": "40465_79970_zeecinemahd.jpg"
+              },
+              "sub_75": {
+                "id": 75,
+                "name": "ZEE CLASSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 521,
+                "thumbnail_url": "32042_57003_zeeclassic.jpg"
+              },
+              "sub_76": {
+                "id": 76,
+                "name": "ZEE NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 533,
+                "thumbnail_url": "510_6956_zeenews1.jpg"
+              },
+              "sub_77": {
+                "id": 77,
+                "name": "ZEE SALAM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 525,
+                "thumbnail_url": "93268_97814_zeesalam.jpg"
+              },
+              "sub_78": {
+                "id": 78,
+                "name": "ZEE TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 513,
+                "thumbnail_url": "60736_88606_ZeeTV.jpg"
+              },
+              "sub_79": {
+                "id": 79,
+                "name": "ZEE TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 511,
+                "thumbnail_url": "72036_29453_zeetvHD.jpg"
+              },
+              "sub_80": {
+                "id": 80,
+                "name": "ZEE TV ME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 517,
+                "thumbnail_url": "2726_8285_ZeeTvME.jpg"
+              },
+              "sub_81": {
+                "id": 81,
+                "name": "ZEE TV UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 515,
+                "thumbnail_url": "3689_21158_ZeetvUK.jpg"
+              },
+              "sub_82": {
+                "id": 82,
+                "name": "ZEE TV UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 519,
+                "thumbnail_url": "94487_21158_ZeetvUK.jpg"
+              },
+              "sub_83": {
+                "id": 83,
+                "name": "ZING TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 554,
+                "thumbnail_url": "78022_17049_zing1.jpg"
+              },
+              "sub_84": {
+                "id": 84,
+                "name": "ZING UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 557,
+                "thumbnail_url": "25268_89170_zinguk.jpg"
+              },
+              "sub_85": {
+                "id": 85,
+                "name": "ZOOM TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 64,
+                "planet_channel_id": 559,
+                "thumbnail_url": "56641_43003_Zoom.jpg"
+              }
+            }
+          },
+          "sub_4": {
+            "id": 4,
+            "name": "KIDS TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "30039_82448_KIDS.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "BBC CEEBIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1220,
+                "thumbnail_url": "67547_download.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "Boomerang",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1221,
+                "thumbnail_url": "59986_70662_boomrang.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Cartoon Network",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1218,
+                "thumbnail_url": "39691_27194_cartoonnet.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "DISNEY CH",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1222,
+                "thumbnail_url": "12004_7951_disneychannel (2).jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Disney JR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1219,
+                "thumbnail_url": "93028_10829_disneyjr.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "KIDZ TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1223,
+                "thumbnail_url": "15805_7599_Kids.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "KIDZZONE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1224,
+                "thumbnail_url": "70527_82448_KIDS.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "NICK HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1226,
+                "thumbnail_url": "28144_91498_nickhdplus.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "NICK HINDI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1225,
+                "thumbnail_url": "73885_41485_NickJrHindi.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "POGO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 77,
+                "planet_channel_id": 1227,
+                "thumbnail_url": "41125_98919_pogoenglish.jpg"
+              }
+            }
+          },
+          "sub_5": {
+            "id": 5,
+            "name": "PAKISTANI TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "20480_45913_PAKISTANI.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "24 Channel",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 3,
+                "thumbnail_url": "19388_28436_24channel (1).jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "7 News",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 5,
+                "thumbnail_url": "76172_59268_7news.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "8XM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 4,
+                "thumbnail_url": "68213_8xm.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "92 NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 6,
+                "thumbnail_url": "46127_92.png"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "A PLUS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 7,
+                "thumbnail_url": "67280_98272_aplus.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "AAB TAK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 8,
+                "thumbnail_url": "9017_78352_abbtak.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "AJJ ENTERTAINMENT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 9,
+                "thumbnail_url": "23902_50518_aajent.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "AJJ NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 10,
+                "thumbnail_url": "3818_7525_AAJNEWS.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "APLUS EUROPE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 11,
+                "thumbnail_url": "14419_39191_apluseu.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "APNA CHANNEL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 12,
+                "thumbnail_url": "95625_19109_apnach.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "ARUJ TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 13,
+                "thumbnail_url": "2915_82913_arujtv.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "ARY DIGITAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 14,
+                "thumbnail_url": "43109_4419_arydigital.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "ARY DIGITAL UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 15,
+                "thumbnail_url": "37570_98827_arydigitaluk.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "ARY MUSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 16,
+                "thumbnail_url": "63474_16393_arymusik.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "ARY NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 2,
+                "thumbnail_url": "16674_25519_arynews.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "ARY NEWS UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 17,
+                "thumbnail_url": "76009_82466_arynewsuk.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "ARY ZAIQA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 20,
+                "thumbnail_url": "73880_57820_aryzaiqa.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "ARY ZAUK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 19,
+                "thumbnail_url": "96934_4071_aryzauq.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "ARY ZINDAGI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 18,
+                "thumbnail_url": "32994_1222_aryzindagi.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "ATV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 21,
+                "thumbnail_url": "50965_27058_atv.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "AWAZ TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 22,
+                "thumbnail_url": "767_46476_awaz.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "BOL NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 23,
+                "thumbnail_url": "7559_67900_bolnews.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "BUSSINESS PLUS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 25,
+                "thumbnail_url": "77590_28259_businessp (1).jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "CAPITAL TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 26,
+                "thumbnail_url": "11336_70229_capitaltv.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "CHANNEL FIVE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 27,
+                "thumbnail_url": "90280_45266_channel5.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "CITY 42",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 28,
+                "thumbnail_url": "39727_41971_city24.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "DAWN NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 29,
+                "thumbnail_url": "92082_65566_dawnnews.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "DIN NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 30,
+                "thumbnail_url": "69532_65389_dinnews.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "DTV NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 31,
+                "thumbnail_url": "18998_62008_dtv.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "DUNYA ENT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 32,
+                "thumbnail_url": "23734_62158_dunyaent.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "DUNYA NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 33,
+                "thumbnail_url": "45027_50388_dunya.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "EXPRESS ENTT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 34,
+                "thumbnail_url": "62996_94356_expressent.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "EXPRESS NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 35,
+                "thumbnail_url": "47487_44726_expressnews (1).jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "FALAK TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 36,
+                "thumbnail_url": "54862_3614_falaktvnew.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "FILM ASIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 37,
+                "thumbnail_url": "71529_4971_filmasia.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "FILM WORLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 40,
+                "thumbnail_url": "62184_35091_filmworld.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "FILMAX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 38,
+                "thumbnail_url": "19781_70789_filmax.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "FILMAZIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 39,
+                "thumbnail_url": "10099_12679_filmazia.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "GEO ENTT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 41,
+                "thumbnail_url": "20664_5945_geotv.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "GEO KAHANI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 43,
+                "thumbnail_url": "87681_23365_geokahani.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "GEO NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 42,
+                "thumbnail_url": "96492_14576_geonews.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "GEO TEZZ",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 45,
+                "thumbnail_url": "99808_21420_geotez.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "GEW NEWS UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 44,
+                "thumbnail_url": "16610_13251_geonewsuk.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "HUM NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 46,
+                "thumbnail_url": "935_25414_humnews.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "HUM SAB TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 51,
+                "thumbnail_url": "18273_15678_humsabtv.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "HUM SITARAY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 48,
+                "thumbnail_url": "10894_415_humsitaray.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "HUM TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 47,
+                "thumbnail_url": "23854_72671_humtv.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "name": "HUM TV UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 49,
+                "thumbnail_url": "95482_23355_humtvuk.jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "name": "HUM TV WORLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 50,
+                "thumbnail_url": "24461_31323_humtvworld.jpg"
+              },
+              "sub_49": {
+                "id": 49,
+                "name": "JAAG TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 52,
+                "thumbnail_url": "64326_16608_jaagtv.jpg"
+              },
+              "sub_50": {
+                "id": 50,
+                "name": "JOO MUSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 53,
+                "thumbnail_url": "62295_63902_joomusic.jpg"
+              },
+              "sub_51": {
+                "id": 51,
+                "name": "KAY2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 54,
+                "thumbnail_url": "79694_19747_kay2.jpg"
+              },
+              "sub_52": {
+                "id": 52,
+                "name": "KOHENOOR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 55,
+                "thumbnail_url": "21910_4296_kohenoor.jpg"
+              },
+              "sub_53": {
+                "id": 53,
+                "name": "KTN NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 56,
+                "thumbnail_url": "37802_7683_ktnnews.jpg"
+              },
+              "sub_54": {
+                "id": 54,
+                "name": "LAHORE NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 57,
+                "thumbnail_url": "3974_97605_lahorenews.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "name": "MAKKAH LIVE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 1211,
+                "thumbnail_url": "88537_3284_MAKKAHDH (1).jpg"
+              },
+              "sub_56": {
+                "id": 56,
+                "name": "MEHRAN TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 58,
+                "thumbnail_url": "23590_31182_mehrantv.jpg"
+              },
+              "sub_57": {
+                "id": 57,
+                "name": "METRO NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 59,
+                "thumbnail_url": "28492_60349_metro1.jpg"
+              },
+              "sub_58": {
+                "id": 58,
+                "name": "NEWS ONE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 60,
+                "thumbnail_url": "82610_32565_newsone.jpg"
+              },
+              "sub_59": {
+                "id": 59,
+                "name": "PTV GLOBAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 64,
+                "thumbnail_url": "880_42041_ptvglobal.jpg"
+              },
+              "sub_60": {
+                "id": 60,
+                "name": "PTV HOMES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 63,
+                "thumbnail_url": "42995_11619_ptvhome.jpg"
+              },
+              "sub_61": {
+                "id": 61,
+                "name": "PTV NATIONAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 65,
+                "thumbnail_url": "35801_80434_ptvnational.jpg"
+              },
+              "sub_62": {
+                "id": 62,
+                "name": "PTV NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 61,
+                "thumbnail_url": "2253_71389_ptvnews.jpg"
+              },
+              "sub_63": {
+                "id": 63,
+                "name": "PTV WORLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 62,
+                "thumbnail_url": "94145_43746_ptvworld.jpg"
+              },
+              "sub_64": {
+                "id": 64,
+                "name": "PUNJAB TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 66,
+                "thumbnail_url": "22278_21554_punjabtv.jpg"
+              },
+              "sub_65": {
+                "id": 65,
+                "name": "ROYAL NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 67,
+                "thumbnail_url": "4635_46000_royalnews.jpg"
+              },
+              "sub_66": {
+                "id": 66,
+                "name": "ROZ NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 68,
+                "thumbnail_url": "38928_4590_rozenews.jpg"
+              },
+              "sub_67": {
+                "id": 67,
+                "name": "SAMAA NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 69,
+                "thumbnail_url": "4954_37610_samaanews.jpg"
+              },
+              "sub_68": {
+                "id": 68,
+                "name": "SEE TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 70,
+                "thumbnail_url": "20960_66_seetvhd (1).jpg"
+              },
+              "sub_69": {
+                "id": 69,
+                "name": "SILVER SCREEN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 71,
+                "thumbnail_url": "67339_10250_Silverscreen.jpg"
+              },
+              "sub_70": {
+                "id": 70,
+                "name": "SINDH TV NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 72,
+                "thumbnail_url": "62225_16013_sindhnews.jpg"
+              },
+              "sub_71": {
+                "id": 71,
+                "name": "STAGE DRAMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 73,
+                "thumbnail_url": "57226_59872_stagedrama.jpg"
+              },
+              "sub_72": {
+                "id": 72,
+                "name": "STAR ASIA NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 74,
+                "thumbnail_url": "19439_71560_starasia.jpg"
+              },
+              "sub_73": {
+                "id": 73,
+                "name": "STAR LITE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 75,
+                "thumbnail_url": "77025_48410_starlite.jpg"
+              },
+              "sub_74": {
+                "id": 74,
+                "name": "SUCH TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 76,
+                "thumbnail_url": "18572_64315_suchtv.jpg"
+              },
+              "sub_75": {
+                "id": 75,
+                "name": "TIMES TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 77,
+                "thumbnail_url": "59583_13743_timespk.jpg"
+              },
+              "sub_76": {
+                "id": 76,
+                "name": "TV ONE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 78,
+                "thumbnail_url": "70484_52950_tvone (1).jpg"
+              },
+              "sub_77": {
+                "id": 77,
+                "name": "TV99",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 79,
+                "thumbnail_url": "71259_1162_tv99.jpg"
+              },
+              "sub_78": {
+                "id": 78,
+                "name": "URDU 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 80,
+                "thumbnail_url": "85790_57824_urdu1.jpg"
+              },
+              "sub_79": {
+                "id": 79,
+                "name": "URDU 1 EU",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 81,
+                "thumbnail_url": "51256_9560_urdu1eu.jpg"
+              },
+              "sub_80": {
+                "id": 80,
+                "name": "VSH TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 82,
+                "thumbnail_url": "29226_84248_vsh.jpg"
+              },
+              "sub_81": {
+                "id": 81,
+                "name": "WAQAT NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 83,
+                "thumbnail_url": "51342_2286_waqtnews.jpg"
+              },
+              "sub_82": {
+                "id": 82,
+                "name": "WASEEB TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 33,
+                "planet_channel_id": 84,
+                "thumbnail_url": "57363_11336_waseb.jpg"
+              }
+            }
+          },
+          "sub_6": {
+            "id": 6,
+            "name": "PORTUGAL TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "76886_28669_PORTUGAL.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "AXN BLACK PRO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 182,
+                "thumbnail_url": "34376_17014_axnblack.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "AXN HD PRO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 183,
+                "thumbnail_url": "44094_6755_axn(1).jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "AXN WHITE PRO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 184,
+                "thumbnail_url": "84853_6755_axn.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "BABY TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 185,
+                "thumbnail_url": "96337_25593_babytv.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "BIGGS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 186,
+                "thumbnail_url": "39446_28018_biggs.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "CACAVISION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 187,
+                "thumbnail_url": "13410_44207_cacavision.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "CANAL PANDA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 188,
+                "thumbnail_url": "79150_62022_canalpanda.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "CARTOON NETWORK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 189,
+                "thumbnail_url": "31041_27194_cartoonnet.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "CINE MUNDO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 190,
+                "thumbnail_url": "32941_2604_cinemundo (1).jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "DISNEY CHANNEL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 191,
+                "thumbnail_url": "47794_7951_disneychannel (1).jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "DISNEY JR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 192,
+                "thumbnail_url": "55274_8766_DisneyJR1.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "E ENTERTAINMENT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 193,
+                "thumbnail_url": "90647_65416_eenter.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "FOX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 196,
+                "thumbnail_url": "93232_41384_fox.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "FOX COMEDY PRO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 194,
+                "thumbnail_url": "83494_73885_foxcomedy.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "FOX CRIME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 195,
+                "thumbnail_url": "40786_52766_foxcrime.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "FOX LIFE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 197,
+                "thumbnail_url": "30996_66574_foxlife.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "FOX MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 198,
+                "thumbnail_url": "13535_55083_foxmovies.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "HISTORY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 199,
+                "thumbnail_url": "16628_46577_history.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "HWD HOLLYWOOD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 200,
+                "thumbnail_url": "88178_89814_hwdholly.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "JIMJAM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 201,
+                "thumbnail_url": "14075_32012_jimjam.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "KOMBAT SPORTS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 202,
+                "thumbnail_url": "44950_81797_kombatsport.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "MCS EXTREME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 203,
+                "thumbnail_url": "89450_45429_mcsexterme.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "MTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 204,
+                "thumbnail_url": "8365_23142_mtv.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "NAT GEO WILD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 206,
+                "thumbnail_url": "79239_37323_natgeowilden.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "NATGEO PROT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 205,
+                "thumbnail_url": "57851_3163_natgeo (2).jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "RTP 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 207,
+                "thumbnail_url": "20823_48630_rtp1.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "RTP 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 208,
+                "thumbnail_url": "80832_35084_rtp2.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "RTP 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 209,
+                "thumbnail_url": "76630_68531_rtp3.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "RTP MEDERIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 210,
+                "thumbnail_url": "5939_16308_rtpmadeira (1).jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "RTP MEMORIA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 211,
+                "thumbnail_url": "11771_64781_rtpmemoria.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "SIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 212,
+                "thumbnail_url": "28385_44300_sci.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "SIC CARAS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 213,
+                "thumbnail_url": "38101_65325_scicaras.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "SIC KIDS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 214,
+                "thumbnail_url": "73788_26220_sickids.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "SIC MULHER",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 215,
+                "thumbnail_url": "6347_48202_scimulher.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "SIC NOTICIS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 216,
+                "thumbnail_url": "19293_78315_scinoticis.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "SIC RADICAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 217,
+                "thumbnail_url": "17482_19412_sicradical (1).jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "SPORTING TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 218,
+                "thumbnail_url": "79670_89580_sportingtv.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "SYFY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 219,
+                "thumbnail_url": "26344_4458_syfy (1).jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "TLC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 220,
+                "thumbnail_url": "42352_15699_tlc.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "TRACE URBAN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 221,
+                "thumbnail_url": "19853_46924_traceurban.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "TRAVEL CHANNEL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 222,
+                "thumbnail_url": "20125_14639_travel.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "TV CINE 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 224,
+                "thumbnail_url": "98369_89882_tvc2.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "TV CINE 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 225,
+                "thumbnail_url": "3733_49826_tvc3.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "TV CINE 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 226,
+                "thumbnail_url": "53076_44426_tvc4.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "TVC1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 223,
+                "thumbnail_url": "76150_70802_tvc1.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "TVI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 227,
+                "thumbnail_url": "10950_34082_tvi.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "TVI 24",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 228,
+                "thumbnail_url": "38296_73316_tvi24.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "name": "VH1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 51,
+                "planet_channel_id": 229,
+                "thumbnail_url": "53408_79743_vh1.jpg"
+              }
+            }
+          },
+          "sub_7": {
+            "id": 7,
+            "name": "SOUTH INDIAN",
+            "sub_name": "Channels",
+            "thumbnail_url": "63415_20477_SOUTHINDIAN (1).jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "AMRITA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 917,
+                "thumbnail_url": "35534_64865_AmritaTV.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "ASIANET ME",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 919,
+                "thumbnail_url": "21815_64142_asianetme.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "ASIANET MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 920,
+                "thumbnail_url": "18163_68040_asianetmovies.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "ASIANET NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 921,
+                "thumbnail_url": "10964_54739_asianetnews.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "ASIANET PLUS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 922,
+                "thumbnail_url": "77268_32318_asianetplus.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "ASIANET TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 918,
+                "thumbnail_url": "86733_5926_asianet (1).jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "FLOWERS TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 923,
+                "thumbnail_url": "97382_95351_flowerstv.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "GEMINI COMEDY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 924,
+                "thumbnail_url": "18045_17782_geminicomedy (1).jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "GEMINI MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 925,
+                "thumbnail_url": "35080_40718_geminimovies.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "GEMINI MUSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 926,
+                "thumbnail_url": "96535_80313_geminimusic.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "GEMINI TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 927,
+                "thumbnail_url": "57866_33625_Gemini.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "GEMINI TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 928,
+                "thumbnail_url": "67938_37218_geminihd.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "JANAM TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 929,
+                "thumbnail_url": "50175_40362_janamtv.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "JEEVAN TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 930,
+                "thumbnail_url": "12054_24171_jeemtv.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "KAIRALI TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 931,
+                "thumbnail_url": "62229_65697_kairaliwe.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "KAIRALI WE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 932,
+                "thumbnail_url": "41700_65697_kairaliwe.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "KERALA VISION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 933,
+                "thumbnail_url": "72439_86624_keralavision.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "KTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 934,
+                "thumbnail_url": "30560_87357_ktv.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "KTV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 935,
+                "thumbnail_url": "37679_22222_ktvhdnew (1).jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "MAA GOLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 936,
+                "thumbnail_url": "33754_32405_maagold.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "MAA MOVIES",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 938,
+                "thumbnail_url": "70746_33006_maamovies.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "MAA MUSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 937,
+                "thumbnail_url": "97152_37827_maamusic.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "MAA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 939,
+                "thumbnail_url": "12656_81447_maatv.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "MANORAMA NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 940,
+                "thumbnail_url": "23327_59732_Manorama.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "MATHRUBHUMI NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 941,
+                "thumbnail_url": "4292_11217_Mathrubhumi (1).jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "MURASU TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 942,
+                "thumbnail_url": "13975_60994_murasu.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "MY JAIHIND TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 943,
+                "thumbnail_url": "49805_8390_jaihind (1).jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "MY MEDIA ONE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 944,
+                "thumbnail_url": "15837_61798_MalaMediaOne (1).jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MY SURYA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 946,
+                "thumbnail_url": "72962_66524_SuryaTv.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "NEWS 7",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 945,
+                "thumbnail_url": "18532_83924_news7.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "PEOPLE TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 947,
+                "thumbnail_url": "70004_50221_peopletv.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "POLIMER NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 948,
+                "thumbnail_url": "99809_90878_polimernews.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "POLIMER TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 949,
+                "thumbnail_url": "1397_61590_polimertv.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "RAJ DIGITAL PLUS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 950,
+                "thumbnail_url": "41948_2533_rajtv (1).jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "RAJ DIGITAL PLUS UK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 951,
+                "thumbnail_url": "62440_2533_rajtv.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "RAJ MUSIX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 952,
+                "thumbnail_url": "44118_51383_rajmusix.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "REPORTER TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 953,
+                "thumbnail_url": "57308_14947_reporter (1).jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "SAFARI TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 954,
+                "thumbnail_url": "98321_66770_SafariTV.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "SIRIPPOLI TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 955,
+                "thumbnail_url": "25033_85252_sirippoli.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "STAR VIJAY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 956,
+                "thumbnail_url": "52889_14036_starvijay.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "SURYA TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 961,
+                "thumbnail_url": "32916_87306_suryahd.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "TAMILAN 24 TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 962,
+                "thumbnail_url": "63700_42089_tamilan24.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "TG ETV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 963,
+                "thumbnail_url": "35408_13925_etv2.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "TG TV9",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 964,
+                "thumbnail_url": "72899_95294_tv9gujarti.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "TG VANITHA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 969,
+                "thumbnail_url": "95184_37763_TeleuguVanithaTV.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "UDAYA TV HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 965,
+                "thumbnail_url": "43598_4264_udayahd.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "VENDHAR TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 74,
+                "planet_channel_id": 966,
+                "thumbnail_url": "28858_23630_vendhara (1).jpg"
+              }
+            }
+          },
+          "sub_8": {
+            "id": 8,
+            "name": "SPORTS TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "47190_1434_SPORTS.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "ARENA SP1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1261,
+                "thumbnail_url": "80858_40045_arena1.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "ARENA SP2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1259,
+                "thumbnail_url": "98092_60939_arena2.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "ARENA SP3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1260,
+                "thumbnail_url": "38486_34424_arena3.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "BEIN 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 747,
+                "thumbnail_url": "1065_19569_ben1.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "BEIN 1 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 771,
+                "thumbnail_url": "95507_26007_bein1sd.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "BEIN 10 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 789,
+                "thumbnail_url": "13089_77802_bein10sd.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "BEIN 11",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 767,
+                "thumbnail_url": "15043_37997_bein11.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "BEIN 11SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 794,
+                "thumbnail_url": "81009_37997_bein11.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "BEIN 12",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 768,
+                "thumbnail_url": "89012_5758_bein12 (2).jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "BEIN 12 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 795,
+                "thumbnail_url": "20575_20870_bein12sd (1).jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "BEIN 1TURKEY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 796,
+                "thumbnail_url": "87942_23873_bein1tr (1).jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "BEIN 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 748,
+                "thumbnail_url": "68014_67308_bein2.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "BEIN 2 TURKEY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 797,
+                "thumbnail_url": "45817_69623_bein2tr.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "BEIN 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 750,
+                "thumbnail_url": "71121_39971_bein3.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "BEIN 3 TURKEY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 798,
+                "thumbnail_url": "35496_95386_bein3tr.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "BEIN 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 753,
+                "thumbnail_url": "71315_43193_bein4.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "BEIN 5",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 755,
+                "thumbnail_url": "97184_1093_bein5 (1).jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "BEIN 6",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 756,
+                "thumbnail_url": "29445_10061_bein6 (1).jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "BEIN 7",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 757,
+                "thumbnail_url": "98783_6981_bein7 (1).jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "BEIN 8",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 763,
+                "thumbnail_url": "77255_98831_bein8.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "BEIN 9",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 765,
+                "thumbnail_url": "59264_97544_bein9.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "BEIN 9 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 788,
+                "thumbnail_url": "32067_26925_bein9sd.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "Bein SD 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 777,
+                "thumbnail_url": "64027_54417_bein2sd.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "Bein SD 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 778,
+                "thumbnail_url": "77001_46251_bein3sd.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "Bein SD 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 779,
+                "thumbnail_url": "94212_99595_bein4sd.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "Bein SD 5",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 781,
+                "thumbnail_url": "4534_97730_bein5sd.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "BEIN SD 6",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 783,
+                "thumbnail_url": "54025_7354_bein6sd (1).jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "Bein SD 7",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 785,
+                "thumbnail_url": "37088_12005_bein7sd (1).jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "BEIN SD 8",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 786,
+                "thumbnail_url": "6115_56885_bein8sd.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "BENFICA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 273,
+                "thumbnail_url": "93078_28736_beinficatv.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "BOX NATION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 275,
+                "thumbnail_url": "85726_18586_boxnation1.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "BT 1 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 237,
+                "thumbnail_url": "62370_2616_bt1hd.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "BT 1 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 236,
+                "thumbnail_url": "9145_37398_bt1sd.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "BT 2 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 239,
+                "thumbnail_url": "26639_11753_bt2hd.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "BT 2 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 238,
+                "thumbnail_url": "50122_68899_bt2sd.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "BT 3 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 241,
+                "thumbnail_url": "50393_45096_bt3hd.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "BT 3 SD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 240,
+                "thumbnail_url": "38945_16192_bt3sd.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "BT SPORTS 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 242,
+                "thumbnail_url": "6294_49801_bt1.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "BT SPORTS 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 243,
+                "thumbnail_url": "68344_76380_bt2.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "BT SPORTS 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 244,
+                "thumbnail_url": "69572_71456_bt3.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "CA NBA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1277,
+                "thumbnail_url": "14785_unnamed (1).png"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "CHELSEA TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 245,
+                "thumbnail_url": "40033_95200_chelseatv.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "DD SPORTS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 799,
+                "thumbnail_url": "92872_6257_ddsports.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "EIR SPORTS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 800,
+                "thumbnail_url": "97399_64988_eirsp1.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "EIR SPORTS 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 801,
+                "thumbnail_url": "8019_1591_eirsp2 (1).jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "ESPN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 802,
+                "thumbnail_url": "73890_27554_espn.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "EURO SPORTS 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 246,
+                "thumbnail_url": "43671_88101_euro1.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "name": "EURO SPORTS 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 247,
+                "thumbnail_url": "14864_23126_euro2.jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "name": "FOX SPORTS 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 914,
+                "thumbnail_url": "91003_69943_foxspusa1.jpg"
+              },
+              "sub_49": {
+                "id": 49,
+                "name": "FOX SPORTS 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 915,
+                "thumbnail_url": "37535_75594_foxspusa2.jpg"
+              },
+              "sub_50": {
+                "id": 50,
+                "name": "GEO SUPER",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 234,
+                "thumbnail_url": "92789_6016_geosuper.jpg"
+              },
+              "sub_51": {
+                "id": 51,
+                "name": "GOL TV USA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1210,
+                "thumbnail_url": "51571_images (6).jpeg"
+              },
+              "sub_52": {
+                "id": 52,
+                "name": "LFC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 280,
+                "thumbnail_url": "85936_9955_lfc.jpg"
+              },
+              "sub_53": {
+                "id": 53,
+                "name": "MUTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 281,
+                "thumbnail_url": "45033_12395_mutv.jpg"
+              },
+              "sub_54": {
+                "id": 54,
+                "name": "NBA HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 916,
+                "thumbnail_url": "73401_62252_nbatv.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "name": "NBC SN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 913,
+                "thumbnail_url": "8476_45155_nbcsn.jpg"
+              },
+              "sub_56": {
+                "id": 56,
+                "name": "NFL NETWORK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 744,
+                "thumbnail_url": "40503_48206_nflnetwork.jpg"
+              },
+              "sub_57": {
+                "id": 57,
+                "name": "OSNSPORT1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1285,
+                "thumbnail_url": "72677_20130820160337_channelsbig.png"
+              },
+              "sub_58": {
+                "id": 58,
+                "name": "PREMIER SP",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 277,
+                "thumbnail_url": "19189_39093_premiersports.jpg"
+              },
+              "sub_59": {
+                "id": 59,
+                "name": "PTV SPORTS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 231,
+                "thumbnail_url": "64598_14060_ptvsportsnew.jpg"
+              },
+              "sub_60": {
+                "id": 60,
+                "name": "S SPOR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 740,
+                "thumbnail_url": "57318_18048_sportstv3tr (1).jpg"
+              },
+              "sub_61": {
+                "id": 61,
+                "name": "SFR SP 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 267,
+                "thumbnail_url": "11778_38228_sfrsp1.jpg"
+              },
+              "sub_62": {
+                "id": 62,
+                "name": "SFR SP2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 268,
+                "thumbnail_url": "75612_45282_sfrsp2.jpg"
+              },
+              "sub_63": {
+                "id": 63,
+                "name": "SFR SP3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 270,
+                "thumbnail_url": "66839_76664_sfrsp3.jpg"
+              },
+              "sub_64": {
+                "id": 64,
+                "name": "SKY SP 1DE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 282,
+                "thumbnail_url": "33367_50862_skysp1de.jpg"
+              },
+              "sub_65": {
+                "id": 65,
+                "name": "SKY SP 2 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 283,
+                "thumbnail_url": "38473_49356_skysp2hd.jpg"
+              },
+              "sub_66": {
+                "id": 66,
+                "name": "SKY SP ARENA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 253,
+                "thumbnail_url": "74830_17287_skyarena (1).jpg"
+              },
+              "sub_67": {
+                "id": 67,
+                "name": "SKY SP BOX OFF",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 250,
+                "thumbnail_url": "53443_skysportsboxoffice.png"
+              },
+              "sub_68": {
+                "id": 68,
+                "name": "Sky Sp Box office server2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1437,
+                "thumbnail_url": "93917_download.jpeg"
+              },
+              "sub_69": {
+                "id": 69,
+                "name": "SKY SP CRICKET",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 254,
+                "thumbnail_url": "27822_27713_skycricket.jpg"
+              },
+              "sub_70": {
+                "id": 70,
+                "name": "SKY SP F1 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 251,
+                "thumbnail_url": "7574_13208_skyf1new.jpg"
+              },
+              "sub_71": {
+                "id": 71,
+                "name": "SKY SP FOOTBALL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 255,
+                "thumbnail_url": "52791_3243_skyfootball (1).jpg"
+              },
+              "sub_72": {
+                "id": 72,
+                "name": "SKY SP GOLF",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 256,
+                "thumbnail_url": "266_40768_skygolf.jpg"
+              },
+              "sub_73": {
+                "id": 73,
+                "name": "SKY SP MAIN EVENT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 258,
+                "thumbnail_url": "16634_43621_skymainevent.jpg"
+              },
+              "sub_74": {
+                "id": 74,
+                "name": "SKY SP MIX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 259,
+                "thumbnail_url": "90154_65882_skymixnew.jpg"
+              },
+              "sub_75": {
+                "id": 75,
+                "name": "SKY SP NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 252,
+                "thumbnail_url": "15803_73040_skynewsnew.jpg"
+              },
+              "sub_76": {
+                "id": 76,
+                "name": "SKY SPORTS ACTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 249,
+                "thumbnail_url": "47639_13208_skyf1new.jpg"
+              },
+              "sub_77": {
+                "id": 77,
+                "name": "SKY SPORTS LEAGUE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 257,
+                "thumbnail_url": "60402_89284_skyleauge.jpg"
+              },
+              "sub_78": {
+                "id": 78,
+                "name": "SKY SPORTS NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 248,
+                "thumbnail_url": "78274_73040_skynewsnew.jpg"
+              },
+              "sub_79": {
+                "id": 79,
+                "name": "Sky sports Premier League",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1506,
+                "thumbnail_url": "91234_sky-premierleague.png"
+              },
+              "sub_80": {
+                "id": 80,
+                "name": "SMART SPORT 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 731,
+                "thumbnail_url": "35485_76095_smartspor1.jpg"
+              },
+              "sub_81": {
+                "id": 81,
+                "name": "SONY ESPN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 735,
+                "thumbnail_url": "70998_92886_sonyespn.jpg"
+              },
+              "sub_82": {
+                "id": 82,
+                "name": "SONY SIX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 330,
+                "thumbnail_url": "55588_90_sonysixhd.jpg"
+              },
+              "sub_83": {
+                "id": 83,
+                "name": "SONY SIX HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 331,
+                "thumbnail_url": "32525_90_sonysixhd.jpg"
+              },
+              "sub_84": {
+                "id": 84,
+                "name": "SPORTS TV1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 260,
+                "thumbnail_url": "81298_80902_sportstv1.jpg"
+              },
+              "sub_85": {
+                "id": 85,
+                "name": "SPORTS TV2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 261,
+                "thumbnail_url": "78934_78786_sportstv2.jpg"
+              },
+              "sub_86": {
+                "id": 86,
+                "name": "SPORTS TV3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 262,
+                "thumbnail_url": "2183_58689_sportstv3.jpg"
+              },
+              "sub_87": {
+                "id": 87,
+                "name": "SPORTS TV4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 263,
+                "thumbnail_url": "20922_53237_sportstv4.jpg"
+              },
+              "sub_88": {
+                "id": 88,
+                "name": "SPORTS TV5",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 264,
+                "thumbnail_url": "45210_40463_sportstv5.jpg"
+              },
+              "sub_89": {
+                "id": 89,
+                "name": "SportsNET CA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1284,
+                "thumbnail_url": "8408_images (8).jpeg"
+              },
+              "sub_90": {
+                "id": 90,
+                "name": "STAR SP 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 284,
+                "thumbnail_url": "3948_54049_starsports1.jpg"
+              },
+              "sub_91": {
+                "id": 91,
+                "name": "STAR SP 1 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 301,
+                "thumbnail_url": "20397_47890_starsphd1.jpg"
+              },
+              "sub_92": {
+                "id": 92,
+                "name": "STAR SP 1 HINDI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 303,
+                "thumbnail_url": "30556_47890_starsphd1.jpg"
+              },
+              "sub_93": {
+                "id": 93,
+                "name": "STAR SP 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 305,
+                "thumbnail_url": "38908_22647_86191_starsports2 (1).jpg"
+              },
+              "sub_94": {
+                "id": 94,
+                "name": "STAR SP 2 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 306,
+                "thumbnail_url": "60535_95977_starsphd2.jpg"
+              },
+              "sub_95": {
+                "id": 95,
+                "name": "STAR SP 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 307,
+                "thumbnail_url": "57914_32980_starsports3.jpg"
+              },
+              "sub_96": {
+                "id": 96,
+                "name": "STAR SP FIRST",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 310,
+                "thumbnail_url": "61529_23453_starselecthd1 (1).jpg"
+              },
+              "sub_97": {
+                "id": 97,
+                "name": "STAR SP SELECT 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 314,
+                "thumbnail_url": "6687_63286_starselecthd2.jpg"
+              },
+              "sub_98": {
+                "id": 98,
+                "name": "STAR SP SELECT HD1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 312,
+                "thumbnail_url": "59731_23453_starselecthd1 (1).jpg"
+              },
+              "sub_99": {
+                "id": 99,
+                "name": "SUPER SPORT 1HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1314,
+                "thumbnail_url": "17009_images (9).jpeg"
+              },
+              "sub_100": {
+                "id": 100,
+                "name": "SUPER SPORT 2HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1315,
+                "thumbnail_url": "49666_images (2).png"
+              },
+              "sub_101": {
+                "id": 101,
+                "name": "SUPER SPORT 3HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1316,
+                "thumbnail_url": "49105_images (10).jpeg"
+              },
+              "sub_102": {
+                "id": 102,
+                "name": "TEN 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 320,
+                "thumbnail_url": "90058_74864_ten1.jpg"
+              },
+              "sub_103": {
+                "id": 103,
+                "name": "TEN 1 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 321,
+                "thumbnail_url": "80055_sony ten 1.jpg"
+              },
+              "sub_104": {
+                "id": 104,
+                "name": "TEN 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 323,
+                "thumbnail_url": "56578_70807_ten2.jpg"
+              },
+              "sub_105": {
+                "id": 105,
+                "name": "TEN 2 HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 324,
+                "thumbnail_url": "31358_30742_ten2hd (1).jpg"
+              },
+              "sub_106": {
+                "id": 106,
+                "name": "TEN 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 318,
+                "thumbnail_url": "80660_46147_ten3hd.jpg"
+              },
+              "sub_107": {
+                "id": 107,
+                "name": "TEN SPORTS PK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 235,
+                "thumbnail_url": "35594_3432_tencricpak.jpg"
+              },
+              "sub_108": {
+                "id": 108,
+                "name": "TIVIBU SP 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 720,
+                "thumbnail_url": "31015_78200_tivibuspor1.jpg"
+              },
+              "sub_109": {
+                "id": 109,
+                "name": "TIVIBU SP 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 722,
+                "thumbnail_url": "45304_14306_tivibuspor2.jpg"
+              },
+              "sub_110": {
+                "id": 110,
+                "name": "TIVIBU SP 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 723,
+                "thumbnail_url": "86901_75904_tivibuspor3.jpg"
+              },
+              "sub_111": {
+                "id": 111,
+                "name": "TIVIBU SP 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 725,
+                "thumbnail_url": "54811_7988_tivibuspor4.jpg"
+              },
+              "sub_112": {
+                "id": 112,
+                "name": "TSN SPORT 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 702,
+                "thumbnail_url": "38127_67935_tsn1.jpg"
+              },
+              "sub_113": {
+                "id": 113,
+                "name": "TSN SPORT 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 703,
+                "thumbnail_url": "27911_96819_tsn2.jpg"
+              },
+              "sub_114": {
+                "id": 114,
+                "name": "TSN SPORT 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 704,
+                "thumbnail_url": "14306_56142_tsn3.jpg"
+              },
+              "sub_115": {
+                "id": 115,
+                "name": "TSN SPORT 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 714,
+                "thumbnail_url": "63177_96507_tsn4.jpg"
+              },
+              "sub_116": {
+                "id": 116,
+                "name": "TSN SPORT 5",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 716,
+                "thumbnail_url": "58033_5065_tsn5.jpg"
+              },
+              "sub_117": {
+                "id": 117,
+                "name": "UK RACING",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 276,
+                "thumbnail_url": "30263_16203_ukracing (1).jpg"
+              },
+              "sub_118": {
+                "id": 118,
+                "name": "WWE NETWORK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1356,
+                "thumbnail_url": "7483_wwe.jpg"
+              }
+            }
+          },
+          "sub_9": {
+            "id": 9,
+            "name": "TURKISH",
+            "sub_name": "Channels",
+            "thumbnail_url": "52698_41272_Turkey (1).jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "360 TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 809,
+                "thumbnail_url": "71042_360tk.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "A 2TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 813,
+                "thumbnail_url": "89148_86980_a2tv.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "A HABER",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 810,
+                "thumbnail_url": "83249_a-haber.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "A NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 812,
+                "thumbnail_url": "20315_anews.png"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "A SPOR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 811,
+                "thumbnail_url": "20290_56659_aspor.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Atv",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1319,
+                "thumbnail_url": "89402_ATV-Turkey-300x156.jpeg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "ATV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 814,
+                "thumbnail_url": "78563_atv.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "BEIN BOX OFFICE 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 815,
+                "thumbnail_url": "70244_5880_boxoffice1 (1).jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "BEIN BOX OFFICE 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 816,
+                "thumbnail_url": "20001_51141_boxoffice2.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "BEIN BOX OFFICE 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 817,
+                "thumbnail_url": "87236_19243_boxoffice3 (1).jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "BEIN MOVIES TURK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 818,
+                "thumbnail_url": "91585_8908_beinm1.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "BEYAZ TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1327,
+                "thumbnail_url": "57439_beyaz.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "CEM TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1328,
+                "thumbnail_url": "68109_CEM.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "EURO STAR TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1329,
+                "thumbnail_url": "81545_EURO.png"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "FLASH TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1330,
+                "thumbnail_url": "71416_FLASH.png"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "HABER TURK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1361,
+                "thumbnail_url": "54915_habertu.png"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "SEMERKAND TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1326,
+                "thumbnail_url": "31274_semerk.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "SPORTS TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1342,
+                "thumbnail_url": "18853_18048_sportstv3tr (1).jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "TGRT EU",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1331,
+                "thumbnail_url": "74250_TGRT.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "TGRT HABER",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1332,
+                "thumbnail_url": "40433_TGRTH.png"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "TRT 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1333,
+                "thumbnail_url": "42791_TRT1.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "TRT ARAPCA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1339,
+                "thumbnail_url": "30549_trt-arapca-logo.png"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "TRT AWAZ",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1334,
+                "thumbnail_url": "4205_TRTAW.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "TRT COCUK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1337,
+                "thumbnail_url": "71306_trt.png"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "TRT DIYANET",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1338,
+                "thumbnail_url": "17826_TRT_Diyanet.png"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "TRT Haber",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1317,
+                "thumbnail_url": "89264_95599_trt1.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "TRT HABER HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1340,
+                "thumbnail_url": "24144_42cdeeda8704df23e8ca2ddd4eb56e90.jpeg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "TRT KURDI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1341,
+                "thumbnail_url": "36116_trtk.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "TRT MUZIK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1324,
+                "thumbnail_url": "57331_22145_trtmuzik.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "TRT SPOR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1335,
+                "thumbnail_url": "51517_TRTSP.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "TRT TURK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1343,
+                "thumbnail_url": "24161_trt_turk_tr.png"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "TRT WORLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1344,
+                "thumbnail_url": "64375_trtw.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "TV4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1346,
+                "thumbnail_url": "43869_unnamed.png"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "TV8 INTERNATIONAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 73,
+                "planet_channel_id": 1336,
+                "thumbnail_url": "36314_TV8.jpg"
+              }
+            }
+          },
+          "sub_10": {
+            "id": 10,
+            "name": "UK TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "49049_22488_UK.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "3E",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 85,
+                "thumbnail_url": "21990_26613_3e1.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "4E",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 86,
+                "thumbnail_url": "23486_23870_4e.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "5STAR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 87,
+                "thumbnail_url": "82694_55179_5stars1.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "5USA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 88,
+                "thumbnail_url": "75388_35757_5usa.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "ALIBI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 89,
+                "thumbnail_url": "15931_67791_alibi1.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "BBC 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 90,
+                "thumbnail_url": "49725_37775_bbc11.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "BBC 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 91,
+                "thumbnail_url": "5343_54234_bbc21 (2).jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "BBC 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 92,
+                "thumbnail_url": "4889_2345_bbc31.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "BBC 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 93,
+                "thumbnail_url": "11204_736_bbc41.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "BLOOMBERG",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 94,
+                "thumbnail_url": "17658_90358_bloom.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "CBS ACTION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 95,
+                "thumbnail_url": "32206_38253_cbsaction.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "CBS DRAMA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 96,
+                "thumbnail_url": "33520_78685_cbsdrama1.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "CBS REALITY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 97,
+                "thumbnail_url": "36742_17446_cbsreality.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "CNN EUROPE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 98,
+                "thumbnail_url": "34961_13377_cnn1.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "DAVE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 99,
+                "thumbnail_url": "72248_23947_dave1.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "FILM 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 100,
+                "thumbnail_url": "57104_68952_film41.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "FOOD NETWORK",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 101,
+                "thumbnail_url": "60916_42503_foodnet.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "FOX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 102,
+                "thumbnail_url": "68919_41384_fox.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "GOLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 103,
+                "thumbnail_url": "36055_28932_gold.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "HBO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 104,
+                "thumbnail_url": "20771_90477_hbo1.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "ITV 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 108,
+                "thumbnail_url": "49455_89915_itv11.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "ITV 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 109,
+                "thumbnail_url": "3074_35383_itv21.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "ITV 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 110,
+                "thumbnail_url": "79892_36619_itv31.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "ITV 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 111,
+                "thumbnail_url": "52325_62701_itv41.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "MORE 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 112,
+                "thumbnail_url": "29239_30596_more41.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "MTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 113,
+                "thumbnail_url": "9256_mtvbeats.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "MTV BASE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 114,
+                "thumbnail_url": "9481_31278_mtvbase1.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "MTV CLASSICS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 115,
+                "thumbnail_url": "24171_62409_mtvclassic1.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MTV DANCE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 116,
+                "thumbnail_url": "6399_64286_mtvdance1.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "MTV HITS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 117,
+                "thumbnail_url": "75694_93265_mtvhits1.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "PICK TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 118,
+                "thumbnail_url": "56838_55784_pick1.jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "QUEST TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 119,
+                "thumbnail_url": "22203_23425_quest.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "RT NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 120,
+                "thumbnail_url": "79649_29416_rt.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "SKY ATLANTIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 127,
+                "thumbnail_url": "60679_58500_skyatlantic1.jpg"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "SKY LIVING",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 121,
+                "thumbnail_url": "22736_25693_skyliving1 (1).jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "SKY MOVIES AC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 128,
+                "thumbnail_url": "47527_16927_skyaction1 (1).jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "SKY MOVIES C",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 122,
+                "thumbnail_url": "46498_26959_skycomdey1.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "SKY MOVIES CRI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 129,
+                "thumbnail_url": "29458_55856_skygreats.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "SKY MOVIES D",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 123,
+                "thumbnail_url": "13820_79511_skydisney.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "SKY MOVIES F",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 124,
+                "thumbnail_url": "79013_42340_skyfamily1.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "SKY MOVIES GRT",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 130,
+                "thumbnail_url": "85134_55856_skygreats.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "SKY MOVIES HR",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 132,
+                "thumbnail_url": "58077_8652_skysci.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "name": "SKY MOVIES PRE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 131,
+                "thumbnail_url": "15894_34081_skymovies.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "name": "SKY ONE",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 125,
+                "thumbnail_url": "13322_79832_sky11.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "name": "SKY TWO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 126,
+                "thumbnail_url": "4290_76901_sky2.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "name": "TCM",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 133,
+                "thumbnail_url": "78319_32154_tcm1.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "name": "TG 4",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 134,
+                "thumbnail_url": "54532_29934_tg41.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "name": "TLC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 135,
+                "thumbnail_url": "21043_15699_tlc.jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "name": "TRAVEL CHANNEL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 136,
+                "thumbnail_url": "81314_14639_travel.jpg"
+              },
+              "sub_49": {
+                "id": 49,
+                "name": "TRUE MOVIES 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 625,
+                "thumbnail_url": "6418_TRUEMOVI1.png"
+              },
+              "sub_50": {
+                "id": 50,
+                "name": "TRUE MOVIES 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 626,
+                "thumbnail_url": "34523_TRUEMOV2.png"
+              },
+              "sub_51": {
+                "id": 51,
+                "name": "UNIVERSAL",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 137,
+                "thumbnail_url": "46031_2459_cinemaone.jpg"
+              },
+              "sub_52": {
+                "id": 52,
+                "name": "VH 1 CLASSIC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 139,
+                "thumbnail_url": "18397_58457_vh1classic.jpg"
+              },
+              "sub_53": {
+                "id": 53,
+                "name": "VH1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 138,
+                "thumbnail_url": "66551_79743_vh1.jpg"
+              },
+              "sub_54": {
+                "id": 54,
+                "name": "WARNER BROS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 627,
+                "thumbnail_url": "15152_warner.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "name": "WATCH",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 140,
+                "thumbnail_url": "41275_61525_watch1.jpg"
+              },
+              "sub_56": {
+                "id": 56,
+                "name": "YESTERDAY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 36,
+                "planet_channel_id": 141,
+                "thumbnail_url": "95323_79997_yestarday.jpg"
+              }
+            }
+          },
+          "sub_11": {
+            "id": 11,
+            "name": "USA TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "7670_74909_USA.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "A and E",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1401,
+                "thumbnail_url": "61651_97274_AandE.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "ABC NEWS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1229,
+                "thumbnail_url": "69426_36716_abc.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Al Jazeera English",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1295,
+                "thumbnail_url": "58347_42317_aljazeera.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "AMC",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1231,
+                "thumbnail_url": "44707_17761_amc.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "AMC HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1403,
+                "thumbnail_url": "88838_11668_amcusa.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "BBC America",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1404,
+                "thumbnail_url": "87515_8405_bbcamerica.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Bet HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1297,
+                "thumbnail_url": "28960_67851_bet.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Bloomberg usa",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1504,
+                "thumbnail_url": "12745_bloomberg-tv-live-from-usa-1441121898.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "Bravo",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1406,
+                "thumbnail_url": "57575_478_bravo (1).jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "CBS",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1407,
+                "thumbnail_url": "38203_79408_cbs.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "CBSN News",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1505,
+                "thumbnail_url": "5313_images.jpeg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "Cinemax HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1408,
+                "thumbnail_url": "39081_84450_cinemax.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "CNBC HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1409,
+                "thumbnail_url": "75867_32786_cnbc.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "CNN",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1298,
+                "thumbnail_url": "87172_cnn.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "CNN US",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1410,
+                "thumbnail_url": "86247_67844_cnnusa.jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "Comedy Central",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1411,
+                "thumbnail_url": "42054__comedy_central_2011_-_3-line.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "CW",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1412,
+                "thumbnail_url": "16191_32541_cw.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "E Entertainment",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1413,
+                "thumbnail_url": "6822_E-Entertainment-Logo-962x1024.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "Food Network",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1414,
+                "thumbnail_url": "67044_98005_foodnetwork.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "Fox Movies",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1415,
+                "thumbnail_url": "90436_30746_foxmovies.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "Fox News HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1416,
+                "thumbnail_url": "28370_14597_foxnews.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "Fox US",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1417,
+                "thumbnail_url": "816_57026_foxus.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "FreeForm",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1418,
+                "thumbnail_url": "87747_53392_freefrom.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "FX",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1419,
+                "thumbnail_url": "63459_6389_fx.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "FXX HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1420,
+                "thumbnail_url": "3430_1773_fxx (2).jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "Hallmark",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1421,
+                "thumbnail_url": "81753_18963_hallmark.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "HGTV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1422,
+                "thumbnail_url": "61022_61630_hgtv.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "Lifetime",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1423,
+                "thumbnail_url": "26947_57893_lifetime.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MLB Network",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1424,
+                "thumbnail_url": "37619_51767_mlbnetwork.jpg"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "MSNBC HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1425,
+                "thumbnail_url": "26570_2592_MSNBC.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "Own HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1426,
+                "thumbnail_url": "98077_21057_own (1).jpg"
+              },
+              "sub_31": {
+                "id": 31,
+                "name": "Romedy Now HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1427,
+                "thumbnail_url": "700_26007_romedynow (1).jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "name": "Show time HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1428,
+                "thumbnail_url": "5643_70813_showtime.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "name": "SPIKE TV",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1360,
+                "thumbnail_url": "42144_spike.png"
+              },
+              "sub_34": {
+                "id": 34,
+                "name": "Starz HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1430,
+                "thumbnail_url": "55223_91057_starz.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "name": "SYFY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1431,
+                "thumbnail_url": "23859_4458_syfy.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "name": "Tbs",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1432,
+                "thumbnail_url": "7182_52625_tbs.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "name": "TLC USA",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1433,
+                "thumbnail_url": "41220_33312_tlc.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "name": "TNT HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1434,
+                "thumbnail_url": "97594_54507_TNT.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "name": "Travel Channel",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1435,
+                "thumbnail_url": "35874_14639_travel (1).jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "name": "Us Fox News",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1267,
+                "thumbnail_url": "64448_images (1).png"
+              },
+              "sub_41": {
+                "id": 41,
+                "name": "USA Network",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 78,
+                "planet_channel_id": 1436,
+                "thumbnail_url": "66232_14075_usanetwork1.jpg"
+              }
+            }
+          },
+          "sub_12": {
+            "id": 12,
+            "name": "WILDLIFE/SCI TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "98218_56986_WILDSCIENC.jpg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "name": "ANIMAL PALNET WORLD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 583,
+                "thumbnail_url": "86438_85084_animalplanethd.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "name": "ANIMAL PLANET HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 580,
+                "thumbnail_url": "39301_49312_animalplanet.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "ANIMAL PLANET HINDI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 586,
+                "thumbnail_url": "89289_14038_AnimalPlanetHindi (1).jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "CRIME INVESTIGATION",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 590,
+                "thumbnail_url": "13812_65734_crimeinvest.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "DISCOVERY HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 593,
+                "thumbnail_url": "51994_29531_Discovery2.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "DISCOVERY HISTORY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 599,
+                "thumbnail_url": "63975_21774_DiscoveryHistory1 (1).jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "DISCOVERY ID",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 596,
+                "thumbnail_url": "85915_26897_discoveryusa.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "DISCOVERY SCI",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 602,
+                "thumbnail_url": "37441_19578_discoverysci (1).jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "DISCOVERY SHED",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 604,
+                "thumbnail_url": "97893_46577_discoveryshed.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "DISCOVERY TURBO",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 609,
+                "thumbnail_url": "55680_35034_DiscoveryTurbo (1).jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "HISTORY",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 611,
+                "thumbnail_url": "74223_46577_history.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "NAT GEO HD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 622,
+                "thumbnail_url": "8975_50950_NatGeo1 (1).jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "NAT GEO WILD",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 623,
+                "thumbnail_url": "75942_30895_NatGeoWild1.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "SONY BBC EARTH",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 65,
+                "planet_channel_id": 624,
+                "thumbnail_url": "35627_95056_bbcearthtr.jpg"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
