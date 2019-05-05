@@ -551,7 +551,7 @@
       {
         "is_override" : false,
         
-        "planet_url": "http://app.liveplanettv.com/",
+        "planet_url": "http://app.liveplanettv.com/beta/",
         
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
