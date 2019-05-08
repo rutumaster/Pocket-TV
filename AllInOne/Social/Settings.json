@@ -270,7 +270,7 @@
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "is_system_browser":true,
 
-        "updated_version_code":7,
+        "updated_version_code":1,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -474,8 +474,8 @@
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 7.0.0"
+        "registration_detail": "All In One SocialMedia® 2019",
+        "version_detail": "version : 1.0.0"
       },
 
       "Live_Support":
