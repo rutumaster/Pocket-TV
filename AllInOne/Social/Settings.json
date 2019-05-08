@@ -3,10 +3,12 @@
     "Settings": {
       "Admob_Settings": {
         "is_override" : false,
-        "ads_delay": 1,
-        "ads_on_cancel_delay": 0,
-        "banner_ads_reload_count": 3,
-        "interstitial_ads_reload_count": 2,
+        "legal_ads_delay": 2,
+        "illegal_ads_delay": 1,
+        "legal_ads_on_cancel_delay": 2,
+        "illegal_ads_on_cancel_delay": 1,
+        "banner_ads_reload_count": 1,
+        "interstitial_ads_reload_count": 1,
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
@@ -21,6 +23,12 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
+          
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "appnext_ads": {
@@ -39,16 +47,22 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
+          
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
-        "default_ads": "unity_ads",
+        "default_ads": "facebook_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
-          "ads_banner_clicks_per_duration_day" : 8,
-          "ads_interstitial_clicks_per_duration_day" : 4,
+          "ads_banner_clicks_per_duration_day" : -1,
+          "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
@@ -58,6 +72,12 @@
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
+          
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": false,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": false,
+
           "visibility_percentage": 0
         },
         "google_ads": {
@@ -74,33 +94,46 @@
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
           "is_ads": false,
-          "is_banner_ads": false,
+          "is_banner_ads": true,
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
           "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "3073039",
+          "ads_app_id": "2997115",
+          "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
           "ads_banner_clicks_per_duration_day" : 10,
           "ads_interstitial_clicks_per_duration_day" : 10,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
-          "is_banner_safety_layer_one_click_remove":true,
-          "is_interstitial_safety_layer_one_click_remove":true,
+          "is_banner_safety_layer_one_click_remove":false,
+          "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
           "is_ads": true,
-          "is_banner_ads": true,
+          "is_banner_ads": false,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 100
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
+          "visibility_percentage": 5
         },
         "custom_ads" :
         {
@@ -109,6 +142,12 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": false,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": false,
+
           "visibility_percentage": 0,
           "ads_list" :
           {
@@ -132,6 +171,10 @@
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
+        "is_illegal_interstitial_ads": true,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_legal_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -147,6 +190,12 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
+          
+          "is_illegal_interstitial_ads": false,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": false,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "startapp_ads": {
@@ -157,7 +206,13 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 5
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
+          "visibility_percentage": 100
         }
       },
       "App_Guide_Data":
@@ -265,17 +320,17 @@
         "is_popup_dialog": true,
         "is_update_require":true,
 
-        "package_id":"com.rutu.master.pockettv",
-        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
-        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
+        "package_id":"com.allinonesocialmedia",
+        "download_url":"",
+        "website_url":"https://play.google.com/store/apps/details?id=com.allinonesocialmedia",
         "is_system_browser":true,
 
         "updated_version_code":1,
 
-        "filename":"Pocket_TV.apk",
+        "filename":"Pocket_IPTV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- Now become more powerfull TV Player",
+        "log_message":"- Now become more powerfull IPTV Player",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -283,20 +338,19 @@
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
-        "class_name" : "com.allinone.purchase.MainActivity",
-        "purchase_package_id" : "com.allinone.purchase",
-        "purchase_package_id1" : "com.rutu.master.pockettv",
-        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
-        "filename" : "All_In_One_Purchase.apk",
-        "purchase_title": "All In One Purchase",
+        "class_name" : "com.purchase.core.MainActivity",
+        "purchase_package_id1" : "com.purchase.core",
+        "purchase_package_id" : "com.allinonesocialmedia",
+        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
+        "filename" : "Purchase_Core.apk",
+        "purchase_title": "Purchase Core",
         "purchase_message": "If you want to purchase then you have to install Purchase App.\nand then try again to purchase from here once again.",
-        "website_url1" : "https://drive.google.com/uc?authuser=0&id=1WSfXT0SLzllfqgEYeFmfDd65YrNgYKQq&export=download",
-        "website_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
+        "website_url" : "",
         "is_system_browser":true,
         "downloading_message": "App Downloading",
         "installing_message": "App Install",
-        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
-        "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB"
+        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
+        "inapp_base64EncodedPublicKey1" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
 
       "Start_Up_Popup":
@@ -328,7 +382,7 @@
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
-        "is_remove_ads_session_free_support":false,
+        "is_remove_ads_session_free_support":true,
 
         "is_purchase_restore_support":true
       },
@@ -338,8 +392,8 @@
         "is_override" : false,
         "other_player_title": "Other Player Support",
 
-        "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
-        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket TV.",
+        "inapp_other_player_sku" : "com.pocketiptv.otherplayeroption",
+        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket IPTV.",
 
         "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
 
@@ -355,12 +409,12 @@
         "cast_referer": "https://www.metube.id",
         "cast_package_name": "com.instantbits.cast.webvideo",
 
-        "inapp_cast_sku" : "com.pockettv.chromecast",
-        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Pocket TV.",
+        "inapp_cast_sku" : "com.pocketiptv.chromecast",
+        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Pocket IPTV.",
 
         "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
 
-        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Pocket TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
+        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Pocket IPTV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
@@ -377,12 +431,12 @@
         "is_override" : false,
         "remove_ads_title": "Remove Ads Support",
 
-        "inapp_remove_ads_sku" : "com.pockettv.removeads",
-        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".",
+        "inapp_remove_ads_sku" : "com.pocketiptv.removeads",
+        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
 
         "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
-        "success_remove_ads_message": "Congratulations!\nNow Pocket TV is ADS FREE."
+        "success_remove_ads_message": "Congratulations!\nNow Pocket IPTV is ADS FREE."
       },
 
       "Purchase_Restore_Support":
@@ -400,17 +454,17 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Pocket TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
+        "disclaimer_message": "Pocket IPTV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
       },
     
       "Playlist_Detail":
       {
         "is_override" : false,
-        "playlist_message": "Please contact your TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
+        "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url1": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u"
+        "default_playlist_url": "",
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Channels.rutu"
       },
 
       "About_App":
@@ -418,7 +472,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Pocket IPTV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket IPTV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -431,9 +485,9 @@
       "Rate_App":
       {
         "is_override" : false,
-        "is_rate_app" : false,
-        "package_id" : "com.rutu.master.pockettv",
-        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
+        "is_rate_app" : true,
+        "package_id" : "com.allinonesocialmedia",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.allinonesocialmedia",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -441,7 +495,7 @@
       {
         "is_override" : false,
         "is_more_app" : false,
-        "developer_id" : "Pocket+TV+™",
+        "developer_id" : "Pocket+IPTV+™",
         "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
       },
 
@@ -449,7 +503,7 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
+        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.pocketiptv",
         "share_message_iptv": "Share iptv url : ",
         "share_message_link": "Share link url : "
       },
@@ -459,22 +513,22 @@
         "is_override" : false,
         "is_official_website" : false,
         "is_system_browser": false,
-        "official_website": "http://www.pocketiptv.com"
+        "official_website": "http://www.allinonesocialmedia.com"
       },
 
       "Privacy_Policy":
       {
         "is_override" : false,
-        "is_privacy_policy" : false,
+        "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
+        "privacy_policy": "http://www.allinonesocialmedia.com/privacy-policy"
       },
 
       "Splash_Screen":
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "All In One SocialMedia® 2019",
+        "registration_detail": "All In One® 2018",
         "version_detail": "version : 1.0.0"
       },
 
@@ -503,9 +557,9 @@
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "rutu.inc@gmail.com",
-        "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
-        "email_subject": "Feedback on Pocket TV",
+        "email_id": "allinonesocialmedia@gmail.com",
+        "email_message": "Hi,\n\n\nYour Feedback Pocket IPTV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Pocket IPTV",
 
         "feedback_title": "Send Feedback",
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
@@ -517,7 +571,7 @@
         "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "rutu.inc@gmail.com",
+        "email_id": "allinonesocialmedia@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
@@ -528,29 +582,29 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "rutu.inc@gmail.com"
+        "email_id": "allinonesocialmedia@gmail.com"
       },
 
       "Social_Support":
       {
         "is_override" : false,
-        "is_social" : true,
+        "is_social" : false,
         "social_title" : "Social",
         "social_message" : "Like and share post in social media.",
         "facebook_page_url": "fb://page/822625707789265",
         "facebook_url": "https://www.facebook.com/822625707789265",
-        "instagram_url": "",
-        "twitter_url": "https://www.twitter.com/pockettv",
-        "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
-        "google_plus_url": "",
-        "linkedin_url": "",
-        "linkedin_page_url": ""
+        "instagram_url": "https://www.instagram.com/",
+        "twitter_url": "https://www.twitter.com/",
+        "youtube_url": "https://www.youtube.com/",
+        "google_plus_url": "https://plus.google.com/",
+        "linkedin_url": "https://www.linkedin.com/",
+        "linkedin_page_url": "linkedin://id"
       },
 
       "Live_Stream_Settings":
       {
         "is_override" : false,
-        
+
         "planet_url": "http://app.liveplanettv.com/beta/",
         
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
