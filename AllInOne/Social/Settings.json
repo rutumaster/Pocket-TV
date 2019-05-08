@@ -370,15 +370,15 @@
       "Supports_Availability":
       {
         "is_override" : false,
-        "is_smart_player_support": true,
-        "is_android_player_support": true,
-        "is_webview_player_support": true,
-        "is_other_player_support":true,
-        "is_inapp_other_player_support":true,
+        "is_smart_player_support": false,
+        "is_android_player_support": false,
+        "is_webview_player_support": false,
+        "is_other_player_support":false,
+        "is_inapp_other_player_support":false,
         "is_other_player_session_free_support":false,
 
-        "is_cast_support":true,
-        "is_inapp_cast_support":true,
+        "is_cast_support":false,
+        "is_inapp_cast_support":false,
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
@@ -463,8 +463,8 @@
         "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "",
-        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Channels.rutu"
+        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u",
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u"
       },
 
       "About_App":
