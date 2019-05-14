@@ -377,6 +377,9 @@
         "is_inapp_other_player_support":false,
         "is_other_player_session_free_support":false,
 
+        "is_playlist_support":false,
+        "is_barcode_support":false,
+        
         "is_cast_support":false,
         "is_inapp_cast_support":false,
         "is_cast_session_free_support":false,
