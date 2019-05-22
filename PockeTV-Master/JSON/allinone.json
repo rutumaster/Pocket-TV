@@ -1,0 +1,490 @@
+{
+  "TV_Data": {
+
+    "Channel_List":
+    {
+      "is_channel_list" : true,
+      "is_override" : true,
+      "main_0": {
+        "id": 0,
+        "name": "All In One",
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "name": "Shopping",
+            "sub_name": "List",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "Amazon India",
+                "sub_name": "",
+                "website_url": "https://www.amazon.in/",
+                "thumbnail_url": "http://g-ec2.images-amazon.com/images/G/31/img14/anywhere/amazon-logo-500500._V327001990_.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "website",
+                "name": "Flipkart",
+                "sub_name": "",
+                "website_url": "https://www.flipkart.com/",
+                "thumbnail_url": "http://pluspng.com/img-png/logo-flipkart-png-flipkart-coupons-discount-offers-promo-codes-200.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "website",
+                "name": "QQ",
+                "sub_name": "",
+                "website_url": "http://www.qq.com/",
+                "thumbnail_url": "https://cdn.makeawebsitehub.com/wp-content/uploads/2016/05/qq-300x118.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "mode": "website",
+                "name": "Paytm",
+                "sub_name": "",
+                "website_url": "https://paytm.com/",
+                "thumbnail_url": "https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/paytm-512.png"
+              },
+              "sub_5": {
+                "id": 5,
+                "mode": "website",
+                "name": "Snapdeal",
+                "sub_name": "",
+                "website_url": "https://www.snapdeal.com/",
+                "thumbnail_url": "https://www.certybox.com/wp-content/uploads/2018/10/SNAPDEAL-LOGO.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "mode": "website",
+                "name": "eBay India",
+                "sub_name": "",
+                "website_url": "https://www.ebay.in/",
+                "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/41xNWzvMucL._SY355_.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "mode": "website",
+                "name": "Zivame",
+                "sub_name": "",
+                "website_url": "https://www.zivame.com/",
+                "thumbnail_url": "http://pavillionpune.com/wp-content/uploads/2017/09/zivame_india_logo.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "mode": "website",
+                "name": "Jabong",
+                "sub_name": "",
+                "website_url": "https://www.jabong.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/509893/jabong-com-squarelogo.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "mode": "website",
+                "name": "ShopClues",
+                "sub_name": "",
+                "website_url": "https://www.shopclues.com/",
+                "thumbnail_url": "https://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/03/14/Pictures/_a0ea2f86-e9ac-11e5-90f8-20a657ae7b03.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "mode": "website",
+                "name": "Myntra",
+                "sub_name": "",
+                "website_url": "https://www.myntra.com/",
+                "thumbnail_url": "https://www.eventfaqs.com/Uploads/News/Content/myntra1.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "mode": "website",
+                "name": "Nykaa",
+                "sub_name": "",
+                "website_url": "https://www.nykaa.com/",
+                "thumbnail_url": "https://techstory.in/wp-content/uploads/2018/05/Nykaa.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "mode": "website",
+                "name": "Bigbasket",
+                "sub_name": "",
+                "website_url": "https://www.bigbasket.com/",
+                "thumbnail_url": "https://asconnects.in/wp-content/uploads/2019/03/bigbasket.png"
+              },
+              "sub_13": {
+                "id": 13,
+                "mode": "website",
+                "name": "Pepperfry",
+                "sub_name": "",
+                "website_url": "https://www.bigbasket.com/",
+                "thumbnail_url": "https://www.bertelsmann.in/fileadmin/files/News_Media/news_images/logo-pepperfry-1600x900px_article_landscape_gt_1200_grid.jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "mode": "website",
+                "name": "Limeroad",
+                "sub_name": "",
+                "website_url": "https://www.limeroad.com/",
+                "thumbnail_url": "https://s3-eu-west-1.amazonaws.com/cdn1.mullenlowegroup.com/uploads/sites/43/2016/08/LIMEROAD.png"
+              },
+              "sub_15": {
+                "id": 15,
+                "mode": "website",
+                "name": "UrbanClap",
+                "sub_name": "",
+                "website_url": "https://www.urbanclap.com/",
+                "thumbnail_url": "https://s3-ap-south-1.amazonaws.com/walletbuddy-stg/images/attachments/000/052/301/small/uc.jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "mode": "website",
+                "name": "Clovia",
+                "sub_name": "",
+                "website_url": "https://www.clovia.com/",
+                "thumbnail_url": "https://thingsinindia.in/wp-content/uploads/2018/11/Clovia-Logo.png"
+              },
+              "sub_17": {
+                "id": 17,
+                "mode": "website",
+                "name": "Junglee",
+                "sub_name": "",
+                "website_url": "https://www.junglee.com/",
+                "thumbnail_url": "https://www.likewebsite.in/uploads/data/1015/9p4rKdcIKs7d.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "mode": "website",
+                "name": "Koovs",
+                "sub_name": "",
+                "website_url": "https://www.koovs.com/",
+                "thumbnail_url": "http://www.shopickr.com/wp-content/uploads/2015/05/koovs.png"
+              },
+              "sub_19": {
+                "id": 19,
+                "mode": "website",
+                "name": "Yepme",
+                "sub_name": "",
+                "website_url": "http://www.yepme.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/556606/yepme-com-squarelogo-1447832930062.png"
+              },
+              "sub_20": {
+                "id": 20,
+                "mode": "website",
+                "name": "Grofers",
+                "sub_name": "",
+                "website_url": "https://grofers.com/",
+                "thumbnail_url": "https://www.shopickr.com/wp-content/uploads/2015/05/grofers.png"
+              },
+              "sub_21": {
+                "id": 21,
+                "mode": "website",
+                "name": "Rediff",
+                "sub_name": "",
+                "website_url": "https://mshop.rediff.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/9945/rediff-com-squarelogo.png"
+              },
+              "sub_22": {
+                "id": 22,
+                "mode": "website",
+                "name": "ZopNow",
+                "sub_name": "",
+                "website_url": "https://www.zopnow.com/",
+                "thumbnail_url": "https://image4.owler.com/logo/zopnow_owler_20161205_053547_original.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "mode": "website",
+                "name": "HealthKart",
+                "sub_name": "",
+                "website_url": "https://www.healthkart.com/",
+                "thumbnail_url": "http://cdn.diskaunta.com/DiskauntaWeb/StoreIcons/healthkart.jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "mode": "website",
+                "name": "Lenskart",
+                "sub_name": "",
+                "website_url": "https://www.lenskart.com/",
+                "thumbnail_url": "https://image3.mouthshut.com/images/imagesp/925642336s.jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "mode": "website",
+                "name": "MadBid India",
+                "sub_name": "",
+                "website_url": "https://in.madbid.com/",
+                "thumbnail_url": "https://s3-eu-west-1.amazonaws.com/tpd/logos/4bc922ce000064000505599a/0x0.png"
+              },
+              "sub_26": {
+                "id": 26,
+                "mode": "website",
+                "name": "ITC Portal",
+                "sub_name": "",
+                "website_url": "http://fmcgstore.itcportal.com/",
+                "thumbnail_url": "https://bizcyclone.com/logos_companies/small_8H3zGO4kOiK0bSRPMUvi.PNG"
+              },
+              "sub_27": {
+                "id": 27,
+                "mode": "website",
+                "name": "iBhejo",
+                "sub_name": "",
+                "website_url": "https://www.ibhejo.com/",
+                "thumbnail_url": "http://www.thetradeboss.com/images/company/img_1413267982.jpg"
+              },
+              "sub_28": {
+                "id": 28,
+                "mode": "website",
+                "name": "Patanjali Ayurved",
+                "sub_name": "",
+                "website_url": "https://www.patanjaliayurved.net/",
+                "thumbnail_url": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012016/untitled-1_0.png"
+              },
+              "sub_29": {
+                "id": 29,
+                "mode": "website",
+                "name": "SriSriTattva",
+                "sub_name": "",
+                "website_url": "https://www.srisritattva.com/",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/981929308527587328/OR0Ke2XH_400x400.jpg"
+              },
+              "sub_30": {
+                "id": 30,
+                "mode": "website",
+                "name": "Croma",
+                "sub_name": "",
+                "website_url": "https://www.croma.com/",
+                "thumbnail_url": "https://d1njnh3el4vndt.cloudfront.net/images/c/croma-coupons_logo_9.png"
+              },
+              "sub_31": {
+                "id": 31,
+                "mode": "website",
+                "name": "TataCliq",
+                "sub_name": "",
+                "website_url": "https://www.tatacliq.com/",
+                "thumbnail_url": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/news9025.jpg"
+              },
+              "sub_32": {
+                "id": 32,
+                "mode": "website",
+                "name": "Naaptol India",
+                "sub_name": "",
+                "website_url": "https://www.naaptol.com/",
+                "thumbnail_url": "https://images.adgully.com/img/400/65618_naaptol.jpg"
+              },
+              "sub_33": {
+                "id": 33,
+                "mode": "website",
+                "name": "Nature’s Basket",
+                "sub_name": "",
+                "website_url": "http://www.naturesbasket.co.in/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/627334/natures-basket-squarelogo-1475070028840.png"
+              },
+              "sub_34": {
+                "id": 34,
+                "mode": "website",
+                "name": "Giskaa",
+                "sub_name": "",
+                "website_url": "https://www.giskaa.com/",
+                "thumbnail_url": "https://cdn.grabon.in/gograbon/images/merchant/1545148588773/giskaa-logo.png"
+              },
+              "sub_35": {
+                "id": 35,
+                "mode": "website",
+                "name": "Homeshop18",
+                "sub_name": "",
+                "website_url": "https://www.homeshop18.com/",
+                "thumbnail_url": "https://www.retailmenot.com/thumbs/logos/mobile/homeshop18.com-logo.png"
+              },
+              "sub_36": {
+                "id": 36,
+                "mode": "website",
+                "name": "Yebhi",
+                "sub_name": "",
+                "website_url": "http://www.yebhi.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/514382/yebhi-com-squarelogo.png"
+              },
+              "sub_37": {
+                "id": 37,
+                "mode": "website",
+                "name": "Ajio",
+                "sub_name": "",
+                "website_url": "https://www.ajio.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/1321544/ajio-squarelogo-1533010680533.png"
+              },
+              "sub_38": {
+                "id": 38,
+                "mode": "website",
+                "name": "Fabindia",
+                "sub_name": "",
+                "website_url": "https://www.fabindia.com/",
+                "thumbnail_url": "https://happysale.in/hs/img/m/fabindia.jpeg"
+              },
+              "sub_39": {
+                "id": 39,
+                "mode": "website",
+                "name": "The North East Store",
+                "sub_name": "",
+                "website_url": "http://www.thenortheaststore.com/",
+                "thumbnail_url": "https://www.thenortheaststore.com/image/cache/logo-300x213.png"
+              },
+              "sub_40": {
+                "id": 40,
+                "mode": "website",
+                "name": "Archies Online",
+                "sub_name": "",
+                "website_url": "https://www.archiesonline.com/",
+                "thumbnail_url": "https://www.gyftr.com/payback/images/brands/logos/31350_Archies_payback_size.png"
+              },
+              "sub_41": {
+                "id": 41,
+                "mode": "website",
+                "name": "Khadi Natural",
+                "sub_name": "",
+                "website_url": "https://www.khadinatural.com/",
+                "thumbnail_url": "http://www.oscarsjunction.com/uploads/product/16326_pic_download--11-.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "mode": "website",
+                "name": "RelianceSMART",
+                "sub_name": "",
+                "website_url": "https://www.reliancesmart.in/",
+                "thumbnail_url": "https://relianceretail.com/img/brands/larg/ril-smart.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "mode": "website",
+                "name": "Just Herbs",
+                "sub_name": "",
+                "website_url": "https://justherbs.in/",
+                "thumbnail_url": "https://justherbs.ae/wp-content/uploads/2016/06/Just-Herbs-Logo-03.png"
+              },
+              "sub_44": {
+                "id": 44,
+                "mode": "website",
+                "name": "Shahnaz Husain Group",
+                "sub_name": "",
+                "website_url": "http://www.shahnaz.in/",
+                "thumbnail_url": "https://logos.textgiraffe.com/logos/logo-name/Shahnaz-designstyle-birthday-m.png"
+              },
+              "sub_45": {
+                "id": 45,
+                "mode": "website",
+                "name": "Brindco",
+                "sub_name": "",
+                "website_url": "http://www.brindco.com/",
+                "thumbnail_url": "https://kohinoor.edu.in/img/placements/98.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "mode": "website",
+                "name": "Flavours Of My City",
+                "sub_name": "",
+                "website_url": "https://www.flavorsofmycity.com/",
+                "thumbnail_url": "https://www.flavorsofmycity.com/css/logo_flavors_trans.png"
+              },
+              "sub_47": {
+                "id": 47,
+                "mode": "website",
+                "name": "Firstcry",
+                "sub_name": "",
+                "website_url": "https://www.firstcry.com/",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/815781455934562304/mqMwFr1B_400x400.jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "mode": "website",
+                "name": "MeatRoot",
+                "sub_name": "",
+                "website_url": "http://meatroot.com/",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/596576333833998337/7cJCmm_s_400x400.png"
+              },
+              "sub_49": {
+                "id": 49,
+                "mode": "website",
+                "name": "Titan Jewellery",
+                "sub_name": "",
+                "website_url": "https://www.titan.co.in/",
+                "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Logo_of_Titan_Company%2C_May_2018.svg/220px-Logo_of_Titan_Company%2C_May_2018.svg.png"
+              },
+              "sub_50": {
+                "id": 50,
+                "mode": "website",
+                "name": "Bullion India",
+                "sub_name": "",
+                "website_url": "http://www.bullionindia.in/",
+                "thumbnail_url": "https://www.technary.com/wp-content/uploads/2014/09/logoBullionIndia-featured.jpg"
+              },
+              "sub_51": {
+                "id": 51,
+                "mode": "website",
+                "name": "Happily Unmarried",
+                "sub_name": "",
+                "website_url": "https://www.happilyunmarried.com/",
+                "thumbnail_url": "https://www.shopickr.com/wp-content/uploads/2016/01/happily-unmarried.png"
+              },
+              "sub_52": {
+                "id": 52,
+                "mode": "website",
+                "name": "PlaceOfOrigin",
+                "sub_name": "",
+                "website_url": "https://www.placeoforigin.in/",
+                "thumbnail_url": "https://d2b5chsr47lkwe.cloudfront.net/stores/logos/in/placeoforigin-in.png"
+              },
+              "sub_53": {
+                "id": 53,
+                "mode": "website",
+                "name": "Indian Ordnance Factories",
+                "sub_name": "",
+                "website_url": "http://ofb.gov.in/",
+                "thumbnail_url": "https://www.sarkariexam.com/wp-content/uploads/2018/02/OFB_logo.png"
+              },
+              "sub_54": {
+                "id": 54,
+                "mode": "website",
+                "name": "Decathlon",
+                "sub_name": "",
+                "website_url": "https://www.decathlon.in/",
+                "thumbnail_url": "https://www.aurafundacio.org/content/uploads/2015/02/logo_decathlon_ok.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "mode": "website",
+                "name": "Funcart",
+                "sub_name": "",
+                "website_url": "https://www.funcart.in/",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/583522541983006720/dNjgO-Ml_400x400.jpg"
+              },
+              "sub_56": {
+                "id": 56,
+                "mode": "website",
+                "name": "FengshuiIndia",
+                "sub_name": "",
+                "website_url": "https://www.fengshuiindia.com/",
+                "thumbnail_url": "http://www.fengshuiindia.com/wp-content/uploads/2018/12/Feng-Shui-India-Logo.png"
+              },
+              "sub_57": {
+                "id": 57,
+                "mode": "website",
+                "name": "Netmeds",
+                "sub_name": "",
+                "website_url": "https://www.netmeds.com/",
+                "thumbnail_url": "http://companies.naukri.com/netmeds-careers/wp-content/uploads/sites/7844/2016/09/og-logo.png"
+              },
+              "sub_58": {
+                "id": 58,
+                "mode": "website",
+                "name": "Café Coffee Day",
+                "sub_name": "",
+                "website_url": "https://www.cafecoffeeday.com/",
+                "thumbnail_url": "https://arkoprobho-pal.github.io/kriti2k18.github.io/img/ccd.png"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
