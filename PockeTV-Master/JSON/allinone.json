@@ -15,7 +15,7 @@
             "id": 1,
             "name": "Shopping",
             "sub_name": "List",
-            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "thumbnail_url": "https://omnitail.net/wp-content/uploads/2018/07/Google-Shopping-Icon.png",
             "sub": {
               "sub_1": {
                 "id": 1,
@@ -471,7 +471,7 @@
                 "name": "Netmeds",
                 "sub_name": "",
                 "website_url": "https://www.netmeds.com/",
-                "thumbnail_url": "http://companies.naukri.com/netmeds-careers/wp-content/uploads/sites/7844/2016/09/og-logo.png"
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/722428854699069443/QZCs1HJ6.jpg"
               },
               "sub_58": {
                 "id": 58,
@@ -480,6 +480,190 @@
                 "sub_name": "",
                 "website_url": "https://www.cafecoffeeday.com/",
                 "thumbnail_url": "https://arkoprobho-pal.github.io/kriti2k18.github.io/img/ccd.png"
+              }
+            }
+          },
+          "sub_2": {
+            "id": 2,
+            "name": "Food Delivery",
+            "sub_name": "List",
+            "thumbnail_url": "https://img.freepik.com/free-vector/hamburger-with-meat_38350-39.jpg?size=338&ext=jpg",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "Zomato",
+                "sub_name": "",
+                "website_url": "https://www.zomato.com/",
+                "thumbnail_url": "http://exhibitionshowcase.com/wp-content/uploads/2019/02/925869411s.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "website",
+                "name": "Swiggy",
+                "sub_name": "",
+                "website_url": "https://www.swiggy.com",
+                "thumbnail_url": "https://img.etimg.com/thumb/msid-66963900,width-300,imgsize-207128,resizemode-4/swiggy.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "website",
+                "name": "McDelivery",
+                "sub_name": "",
+                "website_url": "https://www.mcdelivery.co.in/",
+                "thumbnail_url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/NewWebsiteResource/assets/img/McD_logo_300x300.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "mode": "website",
+                "name": "KFC Online",
+                "sub_name": "",
+                "website_url": "https://online.kfc.co.in",
+                "thumbnail_url": "https://www.festisite.com/static/partylogo/img/logos/kfc.png"
+              },
+              "sub_5": {
+                "id": 5,
+                "mode": "website",
+                "name": "Faasos",
+                "sub_name": "",
+                "website_url": "https://order.faasos.io/",
+                "thumbnail_url": "https://img.etimg.com/thumb/msid-65851044,width-1200,height-900/small-biz/startups/newsbuzz/faasos-in-dubai-with-cloud-kitchen.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "mode": "website",
+                "name": "Foodpanda",
+                "sub_name": "",
+                "website_url": "https://www.foodpanda.in/",
+                "thumbnail_url": "https://image3.mouthshut.com/images/imagesp/925668694s.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "mode": "website",
+                "name": "Yelp",
+                "sub_name": "",
+                "website_url": "https://www.yelp.com/",
+                "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/1200px-Yelp_Logo.svg.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "mode": "website",
+                "name": "Cookpad",
+                "sub_name": "",
+                "website_url": "https://cookpad.com/in",
+                "thumbnail_url": "https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/v1/1397185/vertical_rim_2_qnrvgi.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "mode": "website",
+                "name": "Uber Eats",
+                "sub_name": "",
+                "website_url": "https://www.ubereats.com",
+                "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/19/06/66/19066654-2f0b-10a8-298e-76202f1bf0b5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.jpeg/246x0w.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "mode": "website",
+                "name": "Yummly Recipes",
+                "sub_name": "",
+                "website_url": "https://www.yummly.com/",
+                "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Yummly_logo.png"
+              },
+              "sub_11": {
+                "id": 11,
+                "mode": "website",
+                "name": "Eatigo",
+                "sub_name": "",
+                "website_url": "https://eatigo.com",
+                "thumbnail_url": "https://apprecs.org/gp/images/app-icons/300/e6/com.eatigo.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "mode": "website",
+                "name": "Dominos",
+                "sub_name": "",
+                "website_url": "https://www.dominos.co.in/",
+                "thumbnail_url": "https://www.thetruckersreport.com/reviews/img/YwKD6RHVpZQtF1tB.png"
+              },
+              "sub_13": {
+                "id": 13,
+                "mode": "website",
+                "name": "Pizza Hut",
+                "sub_name": "",
+                "website_url": "https://online.pizzahut.co.in",
+                "thumbnail_url": "https://i1.wp.com/insiderlouisville.com/wp-content/uploads/2014/10/Pizza-hut.png"
+              },
+              "sub_14": {
+                "id": 14,
+                "mode": "website",
+                "name": "Just Eat",
+                "sub_name": "",
+                "website_url": "https://www.just-eat.com/",
+                "thumbnail_url": "https://s3-eu-west-1.amazonaws.com/tpd/logos/487ca1ac000064000502f32f/0x0.png"
+              },
+              "sub_15": {
+                "id": 15,
+                "mode": "website",
+                "name": "GrubHub",
+                "sub_name": "",
+                "website_url": "https://www.grubhub.com/",
+                "thumbnail_url": "https://cbsdallas.files.wordpress.com/2016/11/grubhub.jpg?w=640&h=360&crop=1"
+              },
+              "sub_16": {
+                "id": 16,
+                "mode": "website",
+                "name": "Deliveroo",
+                "sub_name": "",
+                "website_url": "https://deliveroo.co.uk/",
+                "thumbnail_url": "https://wwwstatic-a.lookercdn.com/logos/external/bricks/deliveroo.png"
+              },
+              "sub_17": {
+                "id": 17,
+                "mode": "website",
+                "name": "Caviar",
+                "sub_name": "",
+                "website_url": "https://www.trycaviar.com/",
+                "thumbnail_url": "https://media.glassdoor.com/sqll/952280/caviar-squarelogo-1422640777246.png"
+              },
+              "sub_18": {
+                "id": 18,
+                "mode": "website",
+                "name": "Postmates",
+                "sub_name": "",
+                "website_url": "https://postmates.com/",
+                "thumbnail_url": "https://i.pinimg.com/originals/ce/2f/61/ce2f6142e979975b8dd03c4c5405259e.png"
+              },
+              "sub_19": {
+                "id": 19,
+                "mode": "website",
+                "name": "Delivery.com",
+                "sub_name": "",
+                "website_url": "https://www.delivery.com/",
+                "thumbnail_url": "https://financialit.net/sites/default/files/delivery-com_logo.png"
+              },
+              "sub_20": {
+                "id": 20,
+                "mode": "website",
+                "name": "Seamless",
+                "sub_name": "",
+                "website_url": "https://www.seamless.com/",
+                "thumbnail_url": "https://live.staticflickr.com/7104/7308947254_071057098b.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "mode": "website",
+                "name": "DoorDash",
+                "sub_name": "",
+                "website_url": "https://www.doordash.com/",
+                "thumbnail_url": "https://cdn.doordash.com/static/img/doordash-square-red.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "mode": "website",
+                "name": "GoPuff",
+                "sub_name": "",
+                "website_url": "https://gopuff.com/",
+                "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/3/3e/GoPuff_logo.jpg"
               }
             }
           }
