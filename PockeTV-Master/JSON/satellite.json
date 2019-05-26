@@ -1,331 +1,339 @@
 {
   "TV_Data": {
     "Channel_List": {
-      "main_0": {
+      "main": {
         "id": 0,
-        "name": "Spain",
-        "sub_name": "channels",
+        "name": "All in one",
+        "sub_name": "country",
         "thumbnail_url": "dymmy_thumbnail",
         "sub": {
           "sub_0": {
             "id": 0,
-            "mode": "website",
-            "name": "0",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png"
+            "name": "Spain",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "0",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "0",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/0-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "website",
+                "name": "Vamos",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/vamos",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "website",
+                "name": "Vamos",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/vamos-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png"
+              }
+            }
           },
           "sub_1": {
             "id": 1,
-            "mode": "website",
-            "name": "0",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/0-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_0.png"
+            "name": "Switzerland",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "3",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/3",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/3_plus_ch.png"
+              }
+            }
           },
           "sub_2": {
             "id": 2,
-            "mode": "website",
-            "name": "Vamos",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/vamos",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png"
+            "name": "United States, Netherlands",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "24 Kitchen Nederland",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/24-kitchen-nederland",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png"
+              }
+            }
           },
           "sub_3": {
             "id": 3,
-            "mode": "website",
-            "name": "Vamos",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/vamos-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png"
-          }
-        }
-      },
-      "main_1": {
-        "id": 1,
-        "name": "Switzerland",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "3",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/3",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/3_plus_ch.png"
-          }
-        }
-      },
-      "main_2": {
-        "id": 2,
-        "name": "United States, Netherlands",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "24 Kitchen Nederland",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/24-kitchen-nederland",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png"
-          }
-        }
-      },
-      "main_3": {
-        "id": 3,
-        "name": "Georgia",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "1",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1-tv",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1tv-ge.png"
-          },
-          "sub_1": {
-            "id": 1,
-            "mode": "website",
-            "name": "2",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/2-tv",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/gg/gpb_ge_2_tv.png"
-          }
-        }
-      },
-      "main_4": {
-        "id": 4,
-        "name": "Nigeria",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "1960 Bet Dog Racing",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1960-bet-dog-racing",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
-          },
-          "sub_1": {
-            "id": 1,
-            "mode": "website",
-            "name": "1960 Bet Keno",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1960-bet-keno",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
-          },
-          "sub_2": {
-            "id": 2,
-            "mode": "website",
-            "name": "1960 Bet Racing",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1960-bet-racing",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
-          },
-          "sub_3": {
-            "id": 3,
-            "mode": "website",
-            "name": "1960 Bet Virtual Football League",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1960-bet-virtual-football-league",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
-          }
-        }
-      },
-      "main_5": {
-        "id": 5,
-        "name": "Germany",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "123",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1-2-3-tv",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/123_tv_de.png"
-          },
-          "sub_1": {
-            "id": 1,
-            "mode": "website",
-            "name": "123",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/1-2-3-tv-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/123_tv_de.png"
-          }
-        }
-      },
-      "main_6": {
-        "id": 6,
-        "name": "India",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/tv",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/aa/and_tv_in.png"
-          }
-        }
-      },
-      "main_7": {
-        "id": 7,
-        "name": "Ukraine",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "1 1",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/11",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
-          },
-          "sub_1": {
-            "id": 1,
-            "mode": "website",
-            "name": "1 1",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/11-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
-          },
-          "sub_2": {
-            "id": 2,
-            "mode": "website",
-            "name": "1 1",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/11-2",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
-          },
-          "sub_3": {
-            "id": 3,
-            "mode": "website",
-            "name": "1 1 International",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/11-international",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua_international.png"
+            "name": "Georgia",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "1",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1-tv",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1tv-ge.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "2",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/2-tv",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/gg/gpb_ge_2_tv.png"
+              }
+            }
           },
           "sub_4": {
             "id": 4,
-            "mode": "website",
-            "name": "112 Ukraina",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/112-ukraina",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/112_ukraina.png"
+            "name": "Nigeria",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "1960 Bet Dog Racing",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1960-bet-dog-racing",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "1960 Bet Keno",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1960-bet-keno",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "website",
+                "name": "1960 Bet Racing",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1960-bet-racing",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "website",
+                "name": "1960 Bet Virtual Football League",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1960-bet-virtual-football-league",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1960_bet_ng.png"
+              }
+            }
           },
           "sub_5": {
             "id": 5,
-            "mode": "website",
-            "name": "112 Ukraina",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/112-ukraina-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/112_ukraina.png"
+            "name": "Germany",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "123",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1-2-3-tv",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/123_tv_de.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "123",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/1-2-3-tv-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/123_tv_de.png"
+              }
+            }
           },
           "sub_6": {
             "id": 6,
-            "mode": "website",
-            "name": "2 2",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/22",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+            "name": "India",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/tv",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/aa/and_tv_in.png"
+              }
+            }
           },
           "sub_7": {
             "id": 7,
-            "mode": "website",
-            "name": "2 2",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/22-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+            "name": "Ukraine",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "1 1",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/11",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "1 1",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/11-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "website",
+                "name": "1 1",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/11-2",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "website",
+                "name": "1 1 International",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/11-international",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua_international.png"
+              },
+              "sub_4": {
+                "id": 4,
+                "mode": "website",
+                "name": "112 Ukraina",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/112-ukraina",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/112_ukraina.png"
+              },
+              "sub_5": {
+                "id": 5,
+                "mode": "website",
+                "name": "112 Ukraina",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/112-ukraina-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/112_ukraina.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "mode": "website",
+                "name": "2 2",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/22",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "mode": "website",
+                "name": "2 2",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/22-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "mode": "website",
+                "name": "2 2",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/22-1",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "mode": "website",
+                "name": "2 2",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/22-2",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+              },
+              "sub_10": {
+                "id": 10,
+                "mode": "website",
+                "name": "34 Telekanal",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/34-telekanal",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/34_telekanal_ua.png"
+              }
+            }
           },
           "sub_8": {
             "id": 8,
-            "mode": "website",
-            "name": "2 2",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/22-1",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+            "name": "United States, Germany",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "13Th Street Deutschland",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/13th-street-deutschland-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/13th_street_de.png"
+              }
+            }
           },
           "sub_9": {
             "id": 9,
-            "mode": "website",
-            "name": "2 2",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/22-2",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/2-plus-2-ua.png"
+            "name": "Netherlands",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "100",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/100-nl",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/radio/num/100-percent-nl.png"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "website",
+                "name": "192",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/192-tv",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/192_tv_nl.png"
+              }
+            }
           },
           "sub_10": {
             "id": 10,
-            "mode": "website",
-            "name": "34 Telekanal",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/34-telekanal",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/34_telekanal_ua.png"
-          }
-        }
-      },
-      "main_8": {
-        "id": 8,
-        "name": "United States, Germany",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "13Th Street Deutschland",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/13th-street-deutschland-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/13th_street_de.png"
-          }
-        }
-      },
-      "main_9": {
-        "id": 9,
-        "name": "Netherlands",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "100",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/100-nl",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/radio/num/100-percent-nl.png"
-          },
-          "sub_1": {
-            "id": 1,
-            "mode": "website",
-            "name": "192",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/192-tv",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/192_tv_nl.png"
-          }
-        }
-      },
-      "main_10": {
-        "id": 10,
-        "name": "Latvia",
-        "sub_name": "channels",
-        "thumbnail_url": "dymmy_thumbnail",
-        "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "website",
-            "name": "3 Latvija",
-            "sub_name": "",
-            "website_url": "https://astra.ses/channels/3-latvija-0",
-            "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/3-plus-latvija-lv.png"
+            "name": "Latvia",
+            "sub_name": "channels",
+            "thumbnail_url": "dymmy_thumbnail",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "website",
+                "name": "3 Latvija",
+                "sub_name": "",
+                "website_url": "https://astra.ses/channels/3-latvija-0",
+                "thumbnail_url": "https://www.lyngsat-logo.com/logo/tv/num/3-plus-latvija-lv.png"
+              }
+            }
           }
         }
       },
