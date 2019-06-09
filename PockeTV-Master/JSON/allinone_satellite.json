@@ -447,7 +447,7 @@
               }
             }
           },
-          "sub_5": {
+          "sub_5_1": {
             "id": 5,
             "name": "United Kingdom",
             "sub_name": "channels",
@@ -2460,7 +2460,15 @@
                 "sub_name": "",
                 "satellite_url": "https://astra.ses/channels/e4-ireland-1-0",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/e4-plus-1-uk.png"
-              },
+              }
+            }
+          },
+          "sub_5_2": {
+            "id": 5,
+            "name": "United Kingdom",
+            "sub_name": "channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/United-Kingdom.png",
+            "sub": {
               "sub_251": {
                 "id": 251,
                 "mode": "satellite",
@@ -4460,7 +4468,15 @@
                 "sub_name": "",
                 "satellite_url": "https://astra.ses/channels/sky-arts",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-arts-uk.png"
-              },
+              }
+            }
+          },
+          "sub_5_3": {
+            "id": 5,
+            "name": "United Kingdom",
+            "sub_name": "channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/United-Kingdom.png",
+            "sub": {
               "sub_501": {
                 "id": 501,
                 "mode": "satellite",
@@ -16471,7 +16487,7 @@
               }
             }
           },
-          "sub_35": {
+          "sub_35_1": {
             "id": 35,
             "name": "United States",
             "sub_name": "channels",
@@ -18644,7 +18660,15 @@
                 "sub_name": "",
                 "satellite_url": "https://astra.ses/channels/fox-uk-2",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fx_us.png"
-              },
+              }
+            }
+          },
+          "sub_35_2": {
+            "id": 35,
+            "name": "United States",
+            "sub_name": "channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/United-States.png",
+            "sub": {
               "sub_271": {
                 "id": 271,
                 "mode": "satellite",
