@@ -26,23 +26,23 @@
         "appnext_ads": {
           "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
           "interstitial_ad_unit_id": "2aa93ef9-381a-4b15-945a-86d4eba9ff0c",
-          "ads_banner_clicks_per_duration_day" : 100,
-          "ads_interstitial_clicks_per_duration_day" : 100,
+          "ads_banner_clicks_per_duration_day" : -1,
+          "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
-          "visibility_percentage": 0
+          "visibility_percentage": 5
         },
         "default_ads": "unity_ads",
-        "final_default_ads":"startapp_ads",
+        "final_default_ads":"appnext_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
@@ -152,12 +152,12 @@
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "211764508",
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 5
+          "visibility_percentage": 0
         }
       },
       "App_Guide_Data":
