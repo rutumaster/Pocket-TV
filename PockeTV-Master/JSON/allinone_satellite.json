@@ -22823,9 +22823,9 @@
               }
             }
           },
-          "sub_43": {
+          "sub_43_1": {
             "id": 43,
-            "name": "Germany",
+            "name": "Germany 1",
             "sub_name": "channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Germany.png",
             "sub": {
@@ -24836,7 +24836,15 @@
                 "sub_name": "",
                 "satellite_url": "https://astra.ses/channels/qvc-deutschland-1",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qvc_fr.png"
-              },
+              }
+            }
+          },
+          "sub_43_2": {
+            "id": 43,
+            "name": "Germany 2",
+            "sub_name": "channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Germany.png",
+            "sub": {
               "sub_251": {
                 "id": 251,
                 "mode": "satellite",
