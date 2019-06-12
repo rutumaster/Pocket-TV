@@ -266,11 +266,11 @@
         "is_update_require":true,
 
         "package_id":"com.rutu.master.pockettv",
-        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
-        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
+        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "is_system_browser":true,
 
-        "updated_version_code":7,
+        "updated_version_code":8,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -475,7 +475,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 7.0.0"
+        "version_detail": "version : 8.0.0"
       },
 
       "Live_Support":
@@ -494,7 +494,26 @@
         "full_title": "Live Support App",
         "application_download_url": "",
         "description": "For Live Support,\n\nYou have to install this app after that you will be touch with us",
-        "thumbnail_url": "https://getfblite.com/wp-content/uploads/2017/08/messenger-lite-2.png"
+        "thumbnail_url": "https://static.thenounproject.com/png/108459-200.png"
+      },
+
+      "User_Community_Support":
+      {
+        "is_override" : false,
+        "is_live_support" : true,
+        "tg_messenger_uri": "https://t.me/joinchat/",
+        "tg_messenger_id": "JOQ_XRbkuW3hZbj1N-YLmQ",
+        "is_system_browser": true,
+        "live_support_url": "",
+        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+        "website_url": "",
+        "progress_downloading_message": "Downloading",
+        "progress_install_message": "Installing",
+        "application_package_id": "org.telegram.messenger",
+        "full_title": "USer Community",
+        "application_download_url": "",
+        "description": "For User Community,\n\nYou have to install this app after that you will be touch with user group",
+        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
       },
 
       "Feedback_Support":
@@ -540,6 +559,7 @@
         "facebook_page_url": "fb://page/822625707789265",
         "facebook_url": "https://www.facebook.com/822625707789265",
         "instagram_url": "",
+        "telegram_url": "https://t.me/joinchat/AAAAAEaGtlWVJGqn1l5RGw",
         "twitter_url": "https://www.twitter.com/pockettv",
         "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
         "google_plus_url": "",
