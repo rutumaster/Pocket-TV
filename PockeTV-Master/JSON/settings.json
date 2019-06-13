@@ -10,18 +10,18 @@
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
-          "ads_banner_clicks_per_duration_day" : 100,
-          "ads_interstitial_clicks_per_duration_day" : 100,
+          "ads_banner_clicks_per_duration_day" : -1,
+          "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-          "visibility_percentage": 0
+          "visibility_percentage": 5
         },
         "appnext_ads": {
           "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
@@ -42,7 +42,7 @@
           "visibility_percentage": 5
         },
         "default_ads": "unity_ads",
-        "final_default_ads":"startapp_ads",
+        "final_default_ads":"applovin_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
@@ -157,7 +157,7 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 5
+          "visibility_percentage": 0
         }
       },
       "App_Guide_Data":
@@ -302,15 +302,15 @@
       "Start_Up_Popup":
       {
         "is_override" : false,
-        "is_start_up_popup" : false,
-        "reminder_code" : "",        
+        "is_start_up_popup" : true,
+        "reminder_code" : "1",
         "mode": "web_and_video",
         "is_system_browser": true,
-        "banner_url": "https://images-na.ssl-images-amazon.com/images/I/81njDKVuFsL._SL1500_.jpg",
-        "full_title": "Redmi Y2 (Dark Grey, 64GB)\nINR. 12,999.00",
-        "description": "Warranty Details: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Warranty Details: 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliatedevice and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliatedevice and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Description of affiliate",
-        "website_url": "https://www.amazon.in/Redmi-Y2-Dark-Grey-64GB/dp/B077PWBDV3/ref=sr_1_1?s=electronics&ie=UTF8&qid=1535716912&sr=1-1&keywords=y2",
-        "thumbnail_url": "https://m.media-amazon.com/images/G/31/img18/Wireless/CEEX/RedmiY2/E6_200x200._CB476604799_UY80_QL95_.jpg"
+        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+        "full_title": "Pocket TV - Group (OFFICIAL)",
+        "description": "Here all pocket tv user can communicate and chat with other. So that you have to download telegram and join Pocket TV (OFFICIAL) group.",
+        "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
+        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
       },
       
       "Supports_Availability":
