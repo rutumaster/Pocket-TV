@@ -328,7 +328,7 @@
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
-        "is_remove_ads_session_free_support":false,
+        "is_remove_ads_session_free_support":true,
 
         "is_purchase_restore_support":true
       },
@@ -378,7 +378,7 @@
         "remove_ads_title": "Remove Ads Support",
 
         "inapp_remove_ads_sku" : "com.pockettv.removeads",
-        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".",
+        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\"\n\nIf you want to make ads free session then \"SESSION FREE\" and share app to your group and friends. It will automatically removed ads for current session only",
 
         "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
