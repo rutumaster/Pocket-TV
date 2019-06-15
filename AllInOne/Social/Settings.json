@@ -339,8 +339,8 @@
       {
         "is_override": false,
         "class_name" : "com.purchase.core.MainActivity",
-        "purchase_package_id1" : "com.purchase.core",
-        "purchase_package_id" : "com.allinonesocialmedia",
+        "purchase_package_id" : "com.purchase.core",
+        "purchase_package_id1" : "com.allinonesocialmedia",
         "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
         "filename" : "Purchase_Core.apk",
         "purchase_title": "Purchase Core",
