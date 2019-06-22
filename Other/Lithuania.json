@@ -1,0 +1,106 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 80,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Lithuania",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Lithuania.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Baltijos",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/baltijos-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/baltijos-tv-lt.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Lietuvos Rytas",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lietuvos-rytas-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lietuvos_rytas_tv.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Lnk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lnk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lnk_lt.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Lrt Lituanica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-lituanica",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_lituanica.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Lrt Lituanica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-lituanica-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_lituanica.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Lrt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_televizija.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv1-lt.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "3 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-lietuva",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_lt.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "3 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-lietuva-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_lt.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "6 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-6-lietuva-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv6-lietuva-lt.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "8 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-8-lietuva-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv8-lietuva-lt.png"
+          }
+        }
+      }
+    }
+  }
+}
