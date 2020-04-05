@@ -266,7 +266,8 @@
         "is_update_require":true,
 
         "package_id":"com.rutu.master.pockettv",
-        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
+        "download_url":"",
+        "download_url1":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
         "is_system_browser":true,
 
