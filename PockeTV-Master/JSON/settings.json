@@ -1,4 +1,4 @@
-{
+﻿{
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
@@ -266,16 +266,16 @@
         "is_update_require":true,
 
         "package_id":"com.rutu.master.pockettv",
-        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
-        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
         "is_system_browser":true,
 
-        "updated_version_code":8,
+        "updated_version_code":9,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- Now become more powerfull TV Player",
+        "log_message":"- Now become more powerful TV Player",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -312,7 +312,7 @@
         "website_url": "https://t.me/joinchat/JOQ_XRbkuW3hZbj1N-YLmQ",
         "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
       },
-      
+
       "Supports_Availability":
       {
         "is_override" : false,
@@ -371,7 +371,7 @@
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
-      
+
       "Remove_Ads_Support":
       {
         "is_override" : false,
@@ -402,7 +402,7 @@
         "disclaimer_title": "Disclaimer",
         "disclaimer_message": "Pocket TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
       },
-    
+
       "Playlist_Detail":
       {
         "is_override" : false,
@@ -475,7 +475,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 8.0.0"
+        "version_detail": "version : 9.0.0"
       },
 
       "Live_Support":
@@ -570,9 +570,9 @@
       "Live_Stream_Settings":
       {
         "is_override" : false,
-        
+
         "planet_url": "http://app.liveplanettv.com/beta/",
-        
+
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
         "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
