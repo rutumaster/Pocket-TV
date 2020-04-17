@@ -267,11 +267,11 @@
 
         "package_id":"com.rutu.master.pockettv",
         "download_url":"",
-        "download_url1":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
-        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v9.apk",
+        "download_url1":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v10.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v10.apk",
         "is_system_browser":true,
 
-        "updated_version_code":9,
+        "updated_version_code":10,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -476,7 +476,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 9.0.0"
+        "version_detail": "version : 10.0.0"
       },
 
       "Live_Support":
@@ -584,7 +584,9 @@
         "swift_token_password": "SwiftStreamz:@SwiftStreamz@",
 
         "dhamaka_token_url": "https://www.boxtvhd.com/androidapsbackup/dhamkatv.php",
-        "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad"
+        "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad",
+        
+        "youtube_api_key":"AIzaSyCvw41EKxcEr-rKaMpF2KrdulMN88_5YyQ"
       },
 
       "Video_Player_Settings":
