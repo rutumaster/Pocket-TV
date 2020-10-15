@@ -411,7 +411,8 @@
         "is_system_browser": false,
         "playlist_web_search": "",
         "default_playlist_url1": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u"
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u",
+        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Live_TV.m3u"
       },
 
       "About_App":
