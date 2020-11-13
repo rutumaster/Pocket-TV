@@ -304,6 +304,19 @@
       {
         "is_override" : false,
         "is_start_up_popup" : true,
+        "reminder_code" : "2",
+        "mode": "web_and_video",
+        "is_system_browser": true,
+        "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+        "full_title": "Live Talk - Free Video Chat with Strangers",
+        "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+        "website_url": "https://play.google.com/store/apps/details?id=com.livetalk.llc",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+      },
+      "Start_Up_Popup1":
+      {
+        "is_override" : false,
+        "is_start_up_popup" : true,
         "reminder_code" : "1",
         "mode": "web_and_video",
         "is_system_browser": true,
