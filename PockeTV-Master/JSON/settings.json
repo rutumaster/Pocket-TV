@@ -305,7 +305,7 @@
         "is_override" : false,
         "is_start_up_popup" : true,
         "reminder_code" : "2",
-        "mode": "web_and_video",
+        "mode": "application",
         "is_system_browser": true,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
         "full_title": "Live Talk - Free Video Chat with Strangers",
